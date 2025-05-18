@@ -1,0 +1,3489 @@
+[
+  {
+    "id": 7439,
+    "file_id": 421,
+    "spoken_text": "哦那你是干什么的了？我是收垃圾的，你收垃圾的，啊你不是上海人？不是上海人我外地的。",
+    "context": "这位大叔正在里面忙碌，等他出来后我会去采访他。好的，我在门口稍等片刻。这位大叔终于出来了，我等了十分钟。你好，大叔。您是不是住在广东路的那位大叔？我不是广东路的，抱歉，我知道广东路在哪里。抱歉，我认错人了。请问您有什么事吗？哦，没什么事，我以为您是我认识的一位叔叔，所以想问问。哦那你是干什么的了？我是收垃圾的，你收垃圾的，啊你不是上海人？不是上海人我外地的。哦那你在上海来了多少年了？十几年十几年了。你干什么一直是做这个生意啊？开始上班然后退休到60岁就不上班了。哦就收收垃圾，好收垃圾那一个月能挣多少钱了？这挣不了几个钱，跟打工差不多。那你什么地方呢？苏北的好像江苏扬州的，啊扬州的啊苏北。",
+    "written_text": "哦，那你是做什么工作的？我是收废品的。你是收废品的？你不是上海人吧？我不是上海人，我是外地来的。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "哦，那您现在做什么工作呢？我是收垃圾的。啊，您不是上海人吗？不是，我是外地人。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "请问您的职业是什么？我是回收垃圾的。您不是上海人吧？不是，我是外地人。",
+      "error_type": [
+        3
+      ]
+    },
+    "cs2w": "那你是干什么的了？我是收垃圾的，你不是上海人？不是我外地的。",
+    "baichuan": "您是做什么工作的？我是收垃圾的。您也是收垃圾的？您不是上海人吧？我不是上海人，我是外地人。",
+    "gpt5shot": "哦，那您是做什么工作的呢？我是收垃圾的。您是收垃圾的，那您不是上海人吗？不是，我是外地人。",
+    "mistral": "你是做什么工作的？我是收垃圾的。你不是上海人吗？我不是上海人，我是外地人。",
+    "spoken_text_en": "Oh, so what do you do? I am a garbage collector. You are a garbage collector. Aren't you from Shanghai? I'm not from Shanghai. I'm from other places.",
+    "written_text_en": "Oh, so what do you do? I am a waste collector. Are you a waste collector? You are not from Shanghai, right? I'm not from Shanghai. I'm from out of town.",
+    "claude_5shot_en": "What is your occupation? I recycle garbage. You are not from Shanghai, right? No, I'm a stranger.",
+    "cs2w_en": "So what do you do? I'm a garbage collector. Aren't you from Shanghai? I'm not from out of town.",
+    "baichuan_en": "What do you do? I'm a garbage collector. Are you also a garbage collector? You are not from Shanghai, right? I'm not from Shanghai. I'm a foreigner.",
+    "gpt5shot_en": "Well, what do you do? I'm a garbage collector. You are a garbage collector, so aren't you from Shanghai? No, I'm a stranger.",
+    "mistral_en": "What do you do for a living? I'm a garbage collector. Aren't you from Shanghai? I'm not from Shanghai. I'm a foreigner."
+  },
+  {
+    "id": 9059,
+    "file_id": 488,
+    "spoken_text": "所有城市全部都成了废墟了，全部给炸平了，哦农村还有房子，嗯农村老乡，那就靠山边了。",
+    "context": "我们将捡来的石块堆成一堆一堆的，以备炸弹炸出弹坑时，能用这些石块及时填平。我们每天做的就是这项工作。过了一年多以后，我被调到通化押运队。押运队的职责是将前线所需的物资从后方运送到前线。物资装载到火车上后，需要有人监督装载过程，确保装载妥当，然后跟随火车将物资运送到指定单位。完成运输任务后，我从朝鲜返回，被调往8510师，而之前我隶属于8501师。那时候根本没有蔬菜可吃，朝鲜的城市几乎都被夷为平地了。所有城市全部都成了废墟了，全部给炸平了，哦农村还有房子，嗯农村老乡，那就靠山边了。离铁路边远，离交通比较远的，农村的老乡还存在，房子还存在，你看他平壤市那个那是什么。那个朝鲜的首都啊，我去过嗯，一间房子都没有哦，全部炸平的，全是废墟。那吃的的就不用说了，后面来的从中国运过去的，运啥东西，都是干货。那个时候国家也困难的时候，我们吃的干粮，说的是饼，说起来是饼干多好听啊。",
+    "written_text": "所有城市都变成了废墟，全被炸平了，只有农村还有房屋，那些农村老乡的房子都建在山边。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "所有城市全部都成了废墟，被完全炸平了。只有农村还有房屋，那些农村居民主要住在靠近山区的地方。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "所有城市都变成了废墟，全部被炸平了。只有农村地区，特别是靠近山区、远离铁路和交通要道的地方，还有房屋存在，农村居民也还在那里生活。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "所有城市全部都成了废墟了，全部给炸平了，农村还有房子，那就靠山边了。",
+    "baichuan": "所有城市都变成了废墟，被彻底摧毁；只有农村的房子靠在山边还保留着。",
+    "gpt5shot": "所有城市都变成了废墟，被完全炸平了，而农村的房子还在，农民们依靠山边生活。",
+    "mistral": "所有城市都变成了废墟，被炸平了，但农村还有房屋，农村老乡的房子都栋栋地靠近山边。",
+    "spoken_text_en": "All the cities are in ruins. All of them have been bombed. Oh, there are still houses in the countryside. Well, the villagers in the countryside are on the side of the mountain.",
+    "written_text_en": "All the cities were in ruins, all bombed flat, only the countryside still had houses, and the houses of the villagers in the countryside were built on the hillside.",
+    "claude_5shot_en": "All the cities were reduced to ruins and all were bombed flat. Only in rural areas, especially near mountainous areas and far from railways and traffic arteries, there are still houses and rural residents living there.",
+    "cs2w_en": "All the cities are in ruins, all of them have been bombed out, and there are still houses in the countryside, so they are on the side of the mountain.",
+    "baichuan_en": "All the cities were in ruins and completely destroyed; only the houses in the countryside, leaning against the hillside, remained.",
+    "gpt5shot_en": "All the cities have been reduced to ruins and completely flattened, while the houses in the countryside are still there, and the peasants live on the hillside.",
+    "mistral_en": "All the cities were in ruins and bombed flat, but there were still houses in the countryside, and the houses of the villagers in the countryside were all close to the hillside."
+  },
+  {
+    "id": 569,
+    "file_id": 77,
+    "spoken_text": "那那会您收入怎么样？收入比和边一样，咱们这个北京工人才开30块钱。",
+    "context": "我们知道那是开往内蒙古的火车，车站会广播通知。有时会遇到运煤的货车，如果碰到空车，直接爬上去就能走。那时候车站允许自由进出，乘客可以随意流动，不像现在这样严格管控。如今如果没有车票，根本无法进入车站。那时候车站没有监控和安检，是完全开放式的。我就是在那边和那个蒙古人一起在草原上养牛。那那会您收入怎么样？收入比和边一样，咱们这个北京工人才开30块钱。我们那边是吃商品粮，也能开工资，他不种地没有也开30块钱。哦他卖牛羊是那一块，还吃商品粮，他特殊照顾，咱们城市啊是20%细粮，我们那还是50%细粮。生活来讲是比较好，工作到一辈子吗？对这可不是，这回来这老了这不干不动了。哦一辈子在那边就是畜牧人家，又放羊又放牛了，他是牧区。",
+    "written_text": "那时候您的收入怎么样？收入水平和其他地方差不多，我们这些北京工人每月工资才30块钱。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "那时候您的收入怎么样？收入与当地水平相当，我们北京的工人当时月工资只有30块钱。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "那时您的收入如何？收入和边疆地区一样，当时北京的工人才挣30块钱一个月。",
+      "error_type": [
+        3
+      ]
+    },
+    "cs2w": "那会您收入怎么样？收入比和边一样，咱们这个北京工人才开30块钱。",
+    "baichuan": "那时候您的收入和当地一样吗？北京工人的工资是30元。",
+    "gpt5shot": "那时候您的收入如何？收入和周边地区差不多，我们北京的工人每月工资只有30块钱。",
+    "mistral": "那时候您的收入如何？收入与和穿边穿一样，北京的工人每月工资才30元。",
+    "spoken_text_en": "How about your income? The income ratio is the same as that of Bian. Our Beijing workers only pay 30 yuan.",
+    "written_text_en": "How was your income at that time? The income level is similar to that of other places, and the monthly salary of our Beijing workers is only 30 yuan.",
+    "claude_5shot_en": "How was your income at that time? The income was the same as that in the border areas. At that time, workers in Beijing earned only 30 yuan a month.",
+    "cs2w_en": "How about your income? The income ratio is the same as that of Bian. Our Beijing workers only pay 30 yuan.",
+    "baichuan_en": "Was your income the same as the local income at that time? Workers in Beijing are paid 30 yuan.",
+    "gpt5shot_en": "How was your income at that time? The income is similar to that of the surrounding areas, and the monthly salary of our workers in Beijing is only 30 yuan.",
+    "mistral_en": "How was your income at that time? The income is the same as that of wearing side clothes, and the monthly salary of workers in Beijing is only 30 yuan."
+  },
+  {
+    "id": 9345,
+    "file_id": 522,
+    "spoken_text": "哪有火车站呐，就这个席棚子，57年年末到来的啊，那就是随着我老多就调到，就是个兰州设计院吗？",
+    "context": "您没有房子能去哪里住呢？您的父母带着你们兄弟姐妹几个？三个吧，三个都来了。当时在兰州这个地方，谁敢违抗命令不来呢？确实如此，就像我过去那样，我们这个地方开发得比较早，但过去这里曾是一片坟地。听说那时候火车站那个地方还是一条土路，我们是1957年年末来到这里的。哪有火车站呐，就这个席棚子，57年年末到来的啊，那就是随着我老多就调到，就是个兰州设计院吗？嗯，整个包车包，包车厢过来的吗，包车皮嗯。那就是一声令下，你不来不来可以，就没有工作了哦。那个时候不像现在，可以现在我没工作，我可以另找去，现在对不对。那个时候你没工作就回农村，回农村有的还回农村人，农村还不要你，你也不是，对不对没有地回去。",
+    "written_text": "当时根本没有火车站，只有一个简陋的席棚子。我们是1957年年末来到这里的，是随着我丈夫调到兰州设计院工作的。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "当时这里没有火车站，只有一个席棚子。我们是1957年年末来到这里的，当时我跟随我的老伴一起调到了兰州设计院。",
+      "error_type": [
+        1,
+        2,
+        3
+      ]
+    },
+    "claude_5shot": {
+      "translation": "当时根本没有火车站，只有一个席棚子。我是1957年年末到这里的，随着我父亲调到兰州设计院。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "cs2w": "哪有火车站，就这个席棚子，57年年末到来的，随着我老多就调到，兰州设计院吗？",
+    "baichuan": "当时根本没有火车站，只有这个简易棚子。1957年岁末，我们随家人调往兰州设计院工作。",
+    "gpt5shot": "哪里有火车站呢？只有一个席棚。我们是在1957年年末到达这里的，那时我父亲被调到兰州设计院。",
+    "mistral": "当时还没有火车站，只有一个简陋的席棚子。1957年年末，我随着父亲调到兰州设计院。",
+    "spoken_text_en": "There is no railway station. This mat shed came at the end of 1957. It was transferred to Lanzhou Design Institute with my old age?",
+    "written_text_en": "[ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))]",
+    "claude_5shot_en": "At that time, there was no railway station at all, only a mat shed. I came here at the end of 1957 and transferred to Lanzhou Design Institute with my father.",
+    "cs2w_en": "Where is the railway station? This mat shed came at the end of 1957. As I was old, I was transferred to Lanzhou Design Institute?",
+    "baichuan_en": "At that time, there was no railway station at all, only this simple shed. At the end of 1957, we were transferred to Lanzhou Design Institute with our family.",
+    "gpt5shot_en": "Where is the railway station? There is only one mat shed. We arrived here at the end of 1957, when my father was transferred to Lanzhou Design Institute.",
+    "mistral_en": "At that time, there was no railway station, only a simple mat shed. At the end of 1957, I was transferred to Lanzhou Design Institute with my father."
+  },
+  {
+    "id": 2237,
+    "file_id": 145,
+    "spoken_text": "那时候单位远，也没分上房，后来说分房吧，又太远去不了，因为就我一人近。",
+    "context": "冬天存放煤炭时，每家都有小煤池门。现在取暖方式已经改为电暖气。如果要求腾退，您会搬走吗？考虑到孩子上学和儿子上班的问题，如果搬迁地点太远就不太方便，所以我可能会选择留在这里。搬走的居民并不多，那些有房产的人早就不在这里居住了，有些院子里已经搬走了几户人家。我们只能等待拆迁通知，一旦拆迁就能获得补偿款，但我们没有房产，所以别无选择。那时候单位远，也没分上房，后来说分房吧，又太远去不了，因为就我一人近。你说所以就去不了，老的小的都在这，各种原因吧，所以只能是凑合吧，这么多年了。这个是公房私房您这？都是公房，这边也有私房，像您退休也有20年了吧？您是50多年了都。病退退的不到50，我这腰啊，这不是因为我们是工厂吗？劳累，后来腰椎就就滑脱，走不了路了。不是就办的病退吗？直在家，那病退是不是现在也影响退休金了？肯定的，像我们病退时候拿几百块钱。",
+    "written_text": "那时候工作单位距离远，也没有分到住房，后来单位说要分配住房，但地点太远无法前往，因为只有我一个人住得近。",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "当时单位距离较远，我也没能分到住房，后来虽然有分房的机会，但因为地点太远，加上只有我一个人住在这附近，所以没能去成。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "当时单位距离远，我们也没有分到住房。后来尽管有分房的机会，但由于分配的房屋位置太远而我是唯一住得近的，所以没法搬过去。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "cs2w": "那时候单位远，也没分上房，后来说分房吧，又太远去不了，因为就我一人近。",
+    "baichuan": "那时候单位离家很远，没能分到住房。后来单位说可以分配住房，但分配的地方实在太远，因为只有我一个人住得近。",
+    "gpt5shot": "那时候单位离得远，也没有分到房子，后来虽然说要分房，但因为太远我去不了，因为只有我一个人住得近。",
+    "mistral": "那时候单位离得太远，没有分配上房产，后来才开始分房，但因为我住得近，所以不愿意搬去太远的地方。",
+    "spoken_text_en": "At that time, the unit was far away, and there was no room distribution. Later, it was said that the room distribution was too far to go, because I was the only one who was close.",
+    "written_text_en": "At that time, the work unit was far away, and no housing was allocated. Later, the unit said that housing should be allocated, but the location was too far to go, because I was the only one who lived close to it.",
+    "claude_5shot_en": "At that time, the unit was far away, and we did not get housing. Later, although there was a chance of housing distribution, I could not move there because the allocated housing was too far away and I was the only one who lived close to it.",
+    "cs2w_en": "At that time, the unit was far away, and there was no room distribution. Later, it was said that the room distribution was too far to go, because I was the only one who was close.",
+    "baichuan_en": "At that time, the unit was far away from home and could not get a house. Later, the unit said that housing could be allocated, but the allocation place was too far away, because I was the only one living close to it.",
+    "gpt5shot_en": "At that time, the unit was far away, and I didn't get a house. Later, although I said I wanted to get a house, I couldn't go because it was too far away, because I was the only one who lived close to it.",
+    "mistral_en": "At that time, the unit was too far away to allocate real estate, and then began to distribute housing, but because I lived close, I did not want to move too far away."
+  },
+  {
+    "id": 3058,
+    "file_id": 171,
+    "spoken_text": "这世界上最伟大无私的爱，唯有父母对你的爱。",
+    "context": "没有人能总是把事情想得那么透彻，儿女们都很好，也很孝顺您。一切都很好，我只是担心给别人带来太多痛苦和麻烦。好的，谢谢你。祝您心情愉快，不要过度忧虑。这位老人表示自己不愿追求长寿，主要是为子女着想，担心给孩子们增添负担。这世界上最伟大无私的爱，唯有父母对你的爱。希望每位看到这个视频的朋友，能感恩父母，让他们的晚年生活更幸福更快乐。这个视频就给您分享到这里，咱们下个视频不见不散。",
+    "written_text": "这世界上最伟大无私的爱，唯有父母对子女的爱。",
+    "error_type": [
+      3
+    ],
+    "claude_0shot": {
+      "translation": "世界上最伟大、最无私的爱，莫过于父母对子女的爱。",
+      "error_type": [
+        3
+      ]
+    },
+    "claude_5shot": {
+      "translation": "这世界上最伟大无私的爱，莫过于父母对子女的爱。",
+      "error_type": [
+        3
+      ]
+    },
+    "cs2w": "这世界上最伟大无私的爱，唯有父母对你的爱。",
+    "baichuan": "世界上最伟大的无私之爱，莫过于父母的养育之恩。",
+    "gpt5shot": "这世上最伟大而无私的爱，唯有父母对我们的爱。",
+    "mistral": "这世界上最伟大、无私的爱，只有父母对你的爱才是真正的。",
+    "spoken_text_en": "The greatest selfless love in the world is your parents' love for you.",
+    "written_text_en": "The greatest selfless love in the world is the love of parents for their children.",
+    "claude_5shot_en": "The greatest selfless love in the world is the love of parents for their children.",
+    "cs2w_en": "The greatest selfless love in the world is your parents' love for you.",
+    "baichuan_en": "The greatest selfless love in the world is the kindness of parents.",
+    "gpt5shot_en": "The greatest and selfless love in the world is the love of our parents.",
+    "mistral_en": "The greatest and selfless love in the world is only the love of your parents."
+  },
+  {
+    "id": 7507,
+    "file_id": 424,
+    "spoken_text": "早上做什么？几点钟起来？般6点多，到3~4点钟睡不着了，3~4点钟就醒了，哦，那就是很有规律的。",
+    "context": "我的退休金从最初的41元逐步增加到现在的4000元。刚退休时每月只有41元，我估计应该是上世纪80年代退休的。女儿在插队落户结束后回来顶替了我的工作，那是很多年前的事了。当时实行子女顶替父母工作的政策，我的孩子也参加了插队落户。我的大儿子已经75岁了。您今年93岁，感到幸福吗？很幸福！开心吗？两个孩子都很孝顺。我的丈夫很早以前就去世了。您平时饮食习惯如何？是荤食为主还是素食为主？我是荤素搭配着吃的。早上做什么？几点钟起来？般6点多，到3~4点钟睡不着了，3~4点钟就醒了，哦，那就是很有规律的。这倒是蛮好啊阿婆，蛮好的，混呀一天天，我感觉你身体蛮好了93岁，有的已经糊涂了，起不来的也有的。哎，你这个脑子清楚的不得了，真的清楚的不得了，你看我跟你说话，耳朵也不聋对吧？耳朵不聋，就眼睛，眼睛就老花了，对吧，还有就是脚有点，脚毛病没有，就走不动。哎，就是等于就像一部汽车零件老化了，耳朵好的，下面声音就听得出来，哦这个好啊。",
+    "written_text": "我通常早上6点多起床，但有时凌晨3到4点就会醒来，之后就难以入睡，这样的作息很有规律。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "我通常六点多起床，不过到凌晨三四点就会醒来，睡不着了。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我一般6点多起床，不过到了凌晨3~4点就会醒来，睡不着了，这是很有规律的作息。",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "早上做什么？几点钟起来？般6点多，到3~4点钟睡不着了，3~044点钟就醒了，那就是很有规律的。",
+    "baichuan": "我通常早上6点多起床，但大约3点到4点就会醒来，这样很有规律。",
+    "gpt5shot": "早上一般六点多起床，但三四点钟就醒了，睡不着了。哦，那就是很有规律的。",
+    "mistral": "我每天早上一般在6点多起床，凌晨3到4点时睡不着了，于是就醒了，这种睡眠模式很有规律。",
+    "spoken_text_en": "What to do in the morning? When do you get up? Usually more than 6 o'clock, to 3 ~ 4 o'clock can not sleep, 3 ~ 4 o'clock woke up, oh, that is very regular.",
+    "written_text_en": "I usually get up at 6 in the morning, but sometimes I wake up at 3 or 4 in the morning, and then it's hard to fall asleep, so I have a regular schedule.",
+    "claude_5shot_en": "I usually get up at 6 o'clock, but I wake up at 3 or 4 o'clock in the morning and can't sleep. This is a very regular routine.",
+    "cs2w_en": "What to do in the morning? What time do you get up? Generally more than 6 o'clock, to 3 ~ 4 o'clock can not sleep, 3 ~ 044 o'clock to wake up, that is very regular.",
+    "baichuan_en": "I usually get up after 6 am, but I wake up around 3 to 4 am, which is very regular.",
+    "gpt5shot_en": "I usually get up at six o'clock in the morning, but I wake up at three or four o'clock and can't sleep. Oh, that's very regular.",
+    "mistral_en": "I usually get up at 6 o'clock every morning. I can't sleep at 3 or 4 o'clock in the morning, so I wake up. This sleep pattern is very regular."
+  },
+  {
+    "id": 1497,
+    "file_id": 115,
+    "spoken_text": "知道餐车吃饭的吗是，厨师什么的都吓傻了啊，后边做饭拿着大勺，炒菜还拿着劲还那什么呢。",
+    "context": "因为我们前面有一节行李车，行李车上有行李员，负责管理行李。我担心行李员会受伤，因为他在机车后方。过去查看时发现行李员没事，但司机却站在那里不知所措。他因惊吓过度而呆立在原地，不知如何下来，后来人们才把他叫醒。他被叫醒后，自己糊里糊涂地跑去了医院，也不知道发生了什么。软卧车厢后面其实是餐车。知道餐车吃饭的吗是，厨师什么的都吓傻了啊，后边做饭拿着大勺，炒菜还拿着劲还那什么呢。我一看我说你们这，我没事了这已经停下了，前面的吃饭的那个桌子不都桌子吗，是全掉了。再往后头嗯，有五个硬系车就硬座车啊，那时候那硬座车全是木头的，木头座跟那个一样啊。这个腿都折了，我那冲击力够大的，他那两边，那为什么旅客都没有伤知道吧。嗯他来回这么一弄他他一搓那腿了，嗯就折了折了但是呢，他没怎么动，所以两边都坐着人呢都满着呢是哎。",
+    "written_text": "餐车里的厨师等人都被吓呆了，他们拿着大勺做饭，炒菜时还紧张地保持着架势。",
+    "error_type": [
+      2
+    ],
+    "claude_0shot": {
+      "translation": "餐车里厨师等人都吓傻了，后厨炒菜的师傅拿着大勺，依然在用力炒菜，还在忙着工作。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "餐车上的厨师们都被吓呆了，他们在后厨拿着大勺炒菜时还在用力，不知道发生了什么。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "知道餐车吃饭的吗，厨师什么的都吓傻了啊，后边做饭拿着大勺，炒菜还拿着劲。",
+    "baichuan": "当时餐车的厨师和其他工作人员都被吓得不知所措，他们手里仍拿着大勺或炒菜的铲子，不知道该做什么。",
+    "gpt5shot": "你知道餐车上吃饭的地方吗？厨师们都被吓呆了，后面做饭的人拿着大勺，炒菜时还在用力忙活。",
+    "mistral": "当时餐车上的厨师们都吓傻了，他们后面做饭时拿着大勺炒菜，还用力得很。",
+    "spoken_text_en": "Do you know the people who eat in the dining car? Yes, the chef and so on are all scared silly. He cooks with a big spoon in the back and cooks with strength.",
+    "written_text_en": "The cooks and others in the dining car were petrified. They were cooking with big spoons and nervously maintaining their posture when cooking.",
+    "claude_5shot_en": "The cooks in the dining car were petrified, and they were still trying to cook with big spoons in the back kitchen, not knowing what had happened.",
+    "cs2w_en": "Do you know the people who eat in the dining car? The chefs are all scared silly. They cook with a big spoon in the back and cook with strength.",
+    "baichuan_en": "At that time, the chef and other staff in the dining car were frightened out of their wits. They still had big spoons or cooking spatulas in their hands and did not know what to do.",
+    "gpt5shot_en": "Do you know where to eat in the dining car? The cooks were petrified, and the cooks in the back were still working hard while cooking with big spoons.",
+    "mistral_en": "At that time, the chefs in the dining car were all scared silly, and they were cooking with big spoons in the back, and they were very hard."
+  },
+  {
+    "id": 1796,
+    "file_id": 128,
+    "spoken_text": "不跑真卷进去，这要掉进去，一下死了倒也好是吧，别啊哈哈哈那哪行。",
+    "context": "如果这样操作，水桶和链条有时会断裂。结果还被训斥了，谁让你松手了呢？要是当时你在场，我们也不敢顶嘴。如果现在你还说不能松手，否则我会被卷进去，那确实如此，因为一旦松手就会被卷住，所以他们告诫我们绝对不能松手。绝对不能松手，否则会被卷进去。如果没能及时跑开，就会被卷住。那时候我们都很老实听话。不跑真卷进去，这要掉进去，一下死了倒也好是吧，别啊哈哈哈那哪行。那不行，那捞上了不也残废了，那么深的井可深了，行啊你就知足吧。哎呀活着啊，知足，活着还回来了，你说那会咱们怎么不知道找一个泵抽水啊。都是那么摇，它就是那鲈，完了还一会还有，信号弹了，有特*了。那不是练兵的吗不是，真的有信号的是吗，嗯，就练兵了，他们告诉的。",
+    "written_text": "如果不及时跑开，真的被卷进去，掉进井里的话，当场死亡或许还算幸运，但那样可不行啊。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "如果不跑开肯定会被卷进去，一旦掉进深井，即使瞬间死亡也算解脱，但那绝对不行。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "如果不跑真的会被卷进去，掉进去当场死亡倒也罢了，但那怎么能行呢？",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "不跑真卷进去，这要掉进去一下死了倒也好是吧，别啊哈哈那哪行。",
+    "baichuan": "如果不及时逃跑，真的会被卷进去，万一掉进去就完了，死了倒也省心，但那可不行。",
+    "gpt5shot": "如果不及时跑开，真的会被卷进去。如果掉进去，瞬间死去倒也罢了，但那可不行。",
+    "mistral": "如果没能及时跑开，就会被卷进去，一下子死了倒也罢，但这样可不行。",
+    "spoken_text_en": "If you don't run, you're really involved. If you fall in, it's okay to die, right? Don't hahaha. That's not OK.",
+    "written_text_en": "If you don't run away in time and really get involved and fall into the well, you may be lucky to die on the spot, but that's not going to work.",
+    "claude_5shot_en": "If you don't run, you will really be involved. It's okay to fall in and die on the spot, but how can that work?",
+    "cs2w_en": "If you don't run, you will be involved. If you fall into it, you will die, right? No, ha ha, that's not good.",
+    "baichuan_en": "If you don't run away in time, you will really be involved. If you fall in, it will be over. If you die, it will be easy to worry, but that's not possible.",
+    "gpt5shot_en": "If you don't run away in time, you will really be involved. If you fall in, it's okay to die in an instant, but that's not okay.",
+    "mistral_en": "If you don't run away in time, you will be involved and die at once, but this is not possible."
+  },
+  {
+    "id": 7854,
+    "file_id": 427,
+    "spoken_text": "你看这些到上海来游玩的，环卫局城管都管的紧，又不是我们要搞。",
+    "context": "如果有外地人带着拉杆箱过来，你就守在这个地方，在这条弄堂里巡视一下。有人进出时就跟他们打个招呼，注意车辆交汇时不要撞到人，这样两三个小时很快就过去了。又不是每天都需要你来帮忙，好的好的，来来来，把这些干的和湿的分开处理。干的衣物可以现在就整理好，湿的衣物还没到晾晒时间，应该放在哪里呢？你看这些到上海来游玩的，环卫局城管都管的紧，又不是我们要搞。嗯，谢谢，谢谢爷叔，好了一，我走出去，暂时分享到这里。",
+    "written_text": "这些来上海旅游的人，环卫局和城管都管理得很严格，并不是我们要这样做。",
+    "error_type": [
+      2
+    ],
+    "claude_0shot": {
+      "translation": "这些来上海旅游的人，环卫局和城管部门都管理得很严格，并不是我们要去处理这些事情。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "这些来上海游玩的游客，环卫局和城管都管理得很严格，这并不是我们要去处理的事情。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "你看这些到上海来游玩的，环卫局城管都管的紧，又不是我们要搞。",
+    "baichuan": "那些来上海旅游的人，环卫部门和城管部门管理得很严格，我们并不是要故意这样做。",
+    "gpt5shot": "你看这些来上海游玩的，环卫局和城管都管得很严，又不是我们要负责。",
+    "mistral": "",
+    "spoken_text_en": "You see, for those who come to Shanghai to play, the Environmental Sanitation Bureau and the Urban Management Bureau are all in charge of it, and it's not for us to do it.",
+    "written_text_en": "These people who come to Shanghai for tourism are strictly managed by the Environmental Sanitation Bureau and the Urban Management Bureau, which is not what we want to do.",
+    "claude_5shot_en": "These tourists who come to Shanghai are strictly managed by the Environmental Sanitation Bureau and the Urban Management Bureau. This is not something we have to deal with.",
+    "cs2w_en": "You see, for those who come to Shanghai to play, the Environmental Sanitation Bureau and the Urban Management Bureau are all in charge of it, and it's not for us to do it.",
+    "baichuan_en": "For those who come to Shanghai for tourism, the sanitation department and the urban management department are very strict. We don't mean to do this on purpose.",
+    "gpt5shot_en": "You see, for those who come to Shanghai to play, the Environmental Sanitation Bureau and the Urban Management Bureau are very strict, and we are not responsible for it."
+  },
+  {
+    "id": 108,
+    "file_id": 62,
+    "spoken_text": "现在这家里指着我一人，人我这挑挑这个，现在我就这个就这宅基地，要过来就行了。",
+    "context": "因为椎间隙变窄导致无法行走，所以做了这个手术。最近医生建议我活动腰部，但我没有动。您当时腿不能动是因为年轻时走路太多。大爷，您当了八年兵，现在战友们都不在了，但他们当年对我照顾得很好。我的工资超过一万四千元，但宅基地问题至今仍未解决。现在这家里指着我一人，人我这挑挑这个，现在我就这个就这宅基地，要过来就行了。对有23亩地呢，那不少呢，大爷我感觉您是急脾气，急脾气，对我感觉的是是是是。我在十几岁的时候，通过封锁线的时候啊，最后还还能通过去，那个时候不管那个，你用什么方法你能解决能过去就行。哎呀我干这工作，打海南的时候有人看着上船，是人家坐机帆船啊我们坐的是汽筏子。有屋外边站俩岗啊，也看着你也看着别人，别人也不准进去我们这是机密。",
+    "written_text": "现在家里全靠我一个人，我负责处理宅基地的事情，只要把宅基地要过来就行了。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "如今家里全指望我一个人，而且我的宅基地问题也迫在眉睫，只要能解决就行了。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "现在家里全靠我一个人撑着，我只需要这个宅基地过户到我名下就行了。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "cs2w": "现在这家里指着我一人，人我这挑挑这个，现在我就这宅基地，要过来就行了。",
+    "baichuan": "现在家里全靠我一个人支撑，我需要处理这些事情，现在只要能把这块宅基地要回来就行了。",
+    "gpt5shot": "现在家里全靠我一个人，我只要能解决宅基地的问题就行了。",
+    "mistral": "现在家里只有我一个人，我这边挑挑这个，如果现在就解决宅基地问题就行了。",
+    "spoken_text_en": "Now the family is pointing at me alone, and I am picking this. Now I am on this homestead, and it is OK to come here.",
+    "written_text_en": "Now I am the only one at home. I am responsible for dealing with the homestead. I just need to get the homestead.",
+    "claude_5shot_en": "Now the family depends on me alone, and I just need to transfer the homestead to my name.",
+    "cs2w_en": "Now I am the only one in this family, and I pick this one. Now I am on this homestead, and I just want to come here.",
+    "baichuan_en": "Now my family is supported by me alone. I need to deal with these things. Now I just need to get this homestead back.",
+    "gpt5shot_en": "Now the family depends on me alone, as long as I can solve the problem of homestead.",
+    "mistral_en": "Now I am the only one in my family. I will pick this here. If we solve the problem of homestead now, it will be OK."
+  },
+  {
+    "id": 4517,
+    "file_id": 248,
+    "spoken_text": "那会您刚去的那时候，那满大街都是那个三五块钱一块，那那大块的几十块钱一大块哎呦。",
+    "context": "当时您去的是新疆的什么地方？是和田吗？一开始去的是哈市，后来因为人员分配又去了和田。一开始我们被分配到哈市，后来因为学校人员分配的原因，一部分人又被调到了和田。哈市属于42团，后来我又被调到和田的47团。和田以出产和田玉闻名。当时和田玉确实很常见，满大街都是。那会您刚去的那时候，那满大街都是那个三五块钱一块，那那大块的几十块钱一大块哎呦。那时候那玉的那是六几年你想想，那时候没人懂啊，现在就不一样了。现在你那一小块跟你要三四百就那么一点啊，是还不见得是和田呢。河滩都没了都捡完了，山里都不让开发了都禁止了，是这么回事。那当时刚去您能收入多少钱？收入24块2毛3哦。",
+    "written_text": "当时您刚去的时候，满大街都是和田玉，小块的三五块钱一块，大块的几十块钱一块。",
+    "error_type": [
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "您刚到那里的时候，满大街都是和田玉，小块的三五块钱一块，大块的几十块钱一块。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "当您刚到那里时，满街都是和田玉，小块的三五块钱一块，大块的则要几十块钱。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "您刚去的那时候，那满大街都是那个三五块钱一块，那大块的几十元钱一大块。",
+    "baichuan": "您刚去的时候，满大街都能见到三五块钱一块的小玉，还有几十块钱一块的大玉，价格非常便宜。",
+    "gpt5shot": "那时候您刚到那里，满大街都是和田玉，小块的只要三五块钱一块，大块的几十块钱一大块。",
+    "mistral": "您刚去的时候，满大街都是和田玉，小块的三五块钱一块，大块的几十块钱一块。",
+    "spoken_text_en": "When you first went there, the streets were full of three or five yuan, and the big ones were dozens of yuan.",
+    "written_text_en": "When you first went there, the streets were full of Hetian jade, small pieces cost three or five yuan a piece, and large pieces cost dozens of yuan a piece.",
+    "claude_5shot_en": "When you first arrived there, the streets are full of Hetian jade, small pieces of three or five yuan a piece, large pieces of dozens of yuan.",
+    "cs2w_en": "When you first went there, the streets were full of three or five yuan, and the big ones were dozens of yuan.",
+    "baichuan_en": "When you first went there, you could see three or five yuan of small jade and dozens of yuan of big jade all over the street. The price was very cheap.",
+    "gpt5shot_en": "At that time, when you first arrived there, the streets were full of Hetian jade. Small pieces cost only three or five yuan a piece, and large pieces cost dozens of yuan a piece.",
+    "mistral_en": "When you first went there, the streets were full of Hetian jade, small pieces cost three or five yuan a piece, and large pieces cost dozens of yuan a piece."
+  },
+  {
+    "id": 705,
+    "file_id": 83,
+    "spoken_text": "大爷那您是离休吧，离休的，那您的养老待遇怎么样，1万多啊快到2万了，那经历也让我们年轻人心服口服，值得我们敬佩和学习啊。",
+    "context": "我一路追赶部队到天津，参加了天津的解放战争。如今作为幸存者，我感到既幸运又幸福。后来您复员后被分配到什么地方？我当时属于民航局下属的汽车修理公司，1951年转到地方，具体是转到北京交通局。我从事汽车修理和汽车制造工作，主要负责汽车配件相关业务，直至退休。退休时，我的职位是处级干部。您的军龄是多少年？是6年吗？您参加过辽沈战役、平津战役和中南战役，这些战役都颁发了优待证。全国都发放优待证吗？大爷那您是离休吧，离休的，那您的养老待遇怎么样，1万多啊快到2万了，那经历也让我们年轻人心服口服，值得我们敬佩和学习啊。",
+    "written_text": "您是离休干部吧？听说离休干部的养老金待遇很好，每月有一万多元，接近两万元。您的经历让我们年轻一代由衷钦佩，值得我们敬仰和学习。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "大爷，您是离休干部吧？您的养老待遇有1万多元，快接近2万元了，这样的经历确实让我们年轻人心服口服，非常值得我们敬佩和学习。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "大爷，您是离休干部是吗？请问您的养老待遇如何？一万多快到两万了啊。您的经历让我们年轻人心服口服，非常值得我们敬佩和学习。",
+      "error_type": [
+        1,
+        4
+      ]
+    },
+    "cs2w": "大爷那您是离休的，那您的养老待遇怎么样，1万多快到2万了，那经历也让我们年轻人心服口服，值得我们敬佩和学习啊。",
+    "baichuan": "大爷，您是离休干部吧？离休干部的养老金待遇很好，每月接近一万元，甚至超过一万元。您的经历让我们年轻人由衷敬佩，值得学习。",
+    "gpt5shot": "大爷，您是离休干部吧？那么您的养老待遇如何？有一万多，快到两万了。您的经历让我们年轻人心服口服，值得敬佩和学习。",
+    "mistral": "您是离休干部吧？您的养老金待遇很好，每月有一万多元，快到两万了。您的经历让我们年轻人心服口服，值得我们敬佩和学习。",
+    "spoken_text_en": "Grandpa, are you retired? How about your pension? It's more than 10,000, almost 20,000. That experience also convinced our young people. It's worth our admiration and learning.",
+    "written_text_en": "Are you a retired cadre? I heard that the pension benefits of retired cadres are very good, with more than 10000 yuan per month, close to 20000 yuan. Your experience is sincerely admired by our younger generation and deserves our admiration and learning.",
+    "claude_5shot_en": "Grandpa, are you a retired cadre? How about your pension benefits? More than ten thousand, almost twenty thousand. Your experience has convinced our young people and is worthy of our admiration and learning.",
+    "cs2w_en": "Grandpa, you are retired. How about your pension? It's more than 10,000 to 20,000. That experience also convinced our young people. It's worthy of our admiration and learning.",
+    "baichuan_en": "Grandpa, are you a retired cadre? The pension benefits of retired cadres are very good, close to 10000 yuan per month, or even more than 10000 yuan. Your experience makes us young people sincerely admire and worth learning.",
+    "gpt5shot_en": "Grandpa, are you a retired cadre? So how about your pension benefits? It's more than ten thousand, almost twenty thousand. Your experience has convinced our young people and is worthy of admiration and learning.",
+    "mistral_en": "Are you a retired cadre? Your pension is very good. It's more than ten thousand yuan a month, and it's almost twenty thousand. Your experience has convinced our young people and is worthy of our admiration and learning."
+  },
+  {
+    "id": 9976,
+    "file_id": 549,
+    "spoken_text": "大叔您现在就退休了以后对现在的退休生活满意吗？退休费呗，也也可以。",
+    "context": "我原先在北京金属结构厂工作，该厂隶属于机械局。后来机械局将我们部分人员调至兰州，这是强制调动，必须服从。您来到这家工厂后从事什么工作？我是一名铆工，入职后便一直从事铆工工作。我一辈子都从事铆工工作，这辈子都在做铆工。铆工的工作确实很辛苦，因为铆工需要抡大锤。大叔您现在就退休了以后对现在的退休生活满意吗？退休费呗，也也可以。也可以我退的早哦，现在几个孩子？他们都在兰州上班。三个三个孩子都在兰州上班，记得点赞关注哦。",
+    "written_text": "大叔，您现在退休后对退休生活满意吗？退休金也还算可以。",
+    "error_type": [
+      1,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "退休后的生活还算满意，退休金也还可以。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "退休后对现在的生活还算满意，退休费也还可以。",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "大叔您现在就退休了以后对现在的退休生活满意吗？退休费，也可以。",
+    "baichuan": "大叔，您现在退休后对现在的退休生活满意吗？退休金还算可以。",
+    "gpt5shot": "您现在退休后对退休生活满意吗？退休金还可以。",
+    "mistral": "大叔，您退休后对现在的退休生活满意吗？退休金还算可以。",
+    "spoken_text_en": "Uncle, are you satisfied with your retirement life after you retire now? The retirement fee is OK.",
+    "written_text_en": "Uncle, are you satisfied with your retirement life now? The pension is also OK.",
+    "claude_5shot_en": "After retirement, I am satisfied with my present life, and the retirement fee is also OK.",
+    "cs2w_en": "Uncle, are you satisfied with your retirement life after you retire now? Retirement fee? Yes.",
+    "baichuan_en": "Uncle, are you satisfied with your retirement life now? The pension is not bad.",
+    "gpt5shot_en": "Are you satisfied with your retirement life now? The pension is OK.",
+    "mistral_en": "Uncle, are you satisfied with your retirement life after retirement? The pension is not bad."
+  },
+  {
+    "id": 2911,
+    "file_id": 167,
+    "spoken_text": "我就这么问他，我说你看这孩子多好啊，哎可听话了，你爱听吧？",
+    "context": "对待孩子的脾气和性格要有方法，要用温柔的语气跟他们讲道理，不要严厉地对待他们。不要总是调皮捣蛋，不要这样对待他，不要打击他，要用温柔的语气跟他讲道理。要逐条分析并讲明道理，指出他这样做为什么不对，具体说明他错在哪里。你应该这样做，如果你这样对待别人，别人也会这样对待你，你同意吗？你喜欢这样吗？我就这么问他，我说你看这孩子多好啊，哎可听话了，你爱听吧？嗯我说这孩子不是东西人净淘气，你不爱听吗，对，你把他这个宛淘气的地方给他说出道理来。讲清楚他就明白了他就听了，你先别到那一顿的损负一顿的数落，那不行啊。自己家的孩子也是别一顿的数落，到时候你好好给讲道理，上哪去他懂事了提前提出要求来。嗯提出条件来你再带他玩去，嗯我上哪去啊，不许买什么不许怎么着啊。",
+    "written_text": "我问他：“你看这孩子多好啊，特别听话，你喜欢这样吗？”",
+    "error_type": [
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "我就这样问他：\"你看，这个孩子多么好啊，很听话，你喜欢这样吗？\"",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我就这样问他：\"你看，这孩子多好啊，很听话，你喜欢吧？\"",
+      "error_type": []
+    },
+    "cs2w": "我就这么问他，我说你看这孩子多好啊，可听话了，你爱听吧？",
+    "baichuan": "我就这样问他：“你看这孩子多懂事啊，多么听话，你不喜欢听吗？”",
+    "gpt5shot": "我这样问他：“你看这孩子多好啊，很听话，你喜欢这样吗？”",
+    "mistral": "我这样问他，说看这孩子多好啊，可以听话，你喜欢这样吗？",
+    "spoken_text_en": "I asked him like this. I said, \"Look how good the child is. He is obedient. Do you like to listen to it?\"?",
+    "written_text_en": "I asked him: \"You see how good this child is, especially obedient, do you like this?\"",
+    "claude_5shot_en": "So I asked him: \"You see, how good this child is, very obedient, do you like it?\"? \"",
+    "cs2w_en": "I asked him like this. I said, \"You see how good the child is. He is obedient. Do you like to listen to it?\"?",
+    "baichuan_en": "I asked him: \"You see how sensible this child ah, how obedient, you do not like to listen to it?\"",
+    "gpt5shot_en": "I asked him, \"You see how good the child is. He is very obedient. Do you like this?\"",
+    "mistral_en": "I asked him how good the child was. He could be obedient. Do you like this?"
+  },
+  {
+    "id": 1651,
+    "file_id": 123,
+    "spoken_text": "靠纱(香云纱)的,罗段的裤子,礼服呢的鞋,闺女给买双袜子,58块钱一双。",
+    "context": "百达翡丽手表非常高端，在北京街头难得一见，通常只能在电影中看到。靠纱(香云纱)的,罗段的裤子,礼服呢的鞋,闺女给买双袜子,58块钱一双。二叔穿着讲究,佩戴几十万名表,说出原因让人惊讶,一起来听听,看他说的您是否赞同。想怎么花怎么花,出去玩去,经常出去。老年人要怎么保持一个良好的心态呢,这个可不是学出来的,是天生自带的,身体本自带的,不是学出来的。跟老哥碰在一块了,平衡平气这个,这教不出来,他学不出来,真的他这不是学的。",
+    "written_text": "他穿着香云纱裤子、罗缎裤子和礼服呢鞋子，女儿给他买了一双58元的袜子。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "我有香云纱面料的裤子和罗段布料的裤子，还有配礼服穿的鞋子，女儿还给我买了双价值58块钱的袜子。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我穿着香云纱衣服、罗段裤子、礼服鞋，女儿还给我买了一双58块钱的袜子。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "靠纱(香云纱)的,罗段的裤子,礼服呢的鞋,闺女给买双袜子,58块钱一双。",
+    "baichuan": "他穿着香云纱的上衣、罗缎的裤子和礼服呢的鞋子，女儿给他买了一双58元的袜子。",
+    "gpt5shot": "香云纱的衣服，罗段布的裤子，礼服呢的鞋子，女儿给我买了一双袜子，58块钱一双。",
+    "mistral": "女儿给了她一双香云纱的礼服鞋，还买了一双袜子，价格是58元一双。",
+    "spoken_text_en": "By gauze (fragrant cloud gauze), Luo Duan's trousers, dress shoes, my daughter bought a pair of socks, 58 yuan a pair.",
+    "written_text_en": "He wore Xiangyun gauze trousers, grosgrain trousers and dress shoes, and his daughter bought him a pair of 58 yuan socks.",
+    "claude_5shot_en": "I wore Xiangyun gauze clothes, Luoduan trousers and dress shoes, and my daughter bought me a pair of socks for 58 yuan.",
+    "cs2w_en": "By gauze (fragrant cloud gauze), Luo Duan's trousers, dress shoes, my daughter bought a pair of socks, 58 yuan a pair.",
+    "baichuan_en": "He wore a jacket of fragrant cloud gauze, trousers of grosgrain and shoes of dress cloth, and his daughter bought him a pair of socks of 58 yuan.",
+    "gpt5shot_en": "My daughter bought me a pair of socks, 58 yuan a pair, for the clothes of Xiangyun gauze, the trousers of Luoduanbu and the shoes of the dress.",
+    "mistral_en": "The daughter gave her a pair of Xiangyun gauze dress shoes and bought a pair of socks at a price of 58 yuan."
+  },
+  {
+    "id": 312,
+    "file_id": 69,
+    "spoken_text": "多大您参加的工作呀？48年到中央团校学习啊，那时候还不是分得那么清楚，你不当兵啊，我参军呢，不一样。",
+    "context": "这位93岁的大爷讲述了他过去的工作经历，那时候确实一分钱都挣不到。我年轻时在建委从事城建工作。您以前当过兵吗？我没有当过兵。当时我在中央团校学习，大家都穿着军服。多大您参加的工作呀？48年到中央团校学习啊，那时候还不是分得那么清楚，你不当兵啊，我参军呢，不一样。他培养出的干部哪都有，还没等毕业呢，就把我给分出来了，哦那您分到哪了？内蒙草原啊。我还真是梦想觉得啊，草原很很好啊，到那那看，没有草没草，哦没草是哈哈。草原实际就是在这河边上啊，没有有草比较深，平时就是草地，就这么高哦，这么大，就让那耗子给啃了哦。哈哈哈那边是，那您分那草原您做什么呢？去了带着这个排啊，去查盐查盐是查什么呢？那个盐池的盐啊。",
+    "written_text": "您多大年纪参加工作的？1948年我到中央团校学习，那时候分工还没有那么明确，你不当兵，我参军，情况不同。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "您多大年纪参加工作的？我是1948年到中央团校学习的。那时候身份还不是分得那么清楚，不像现在区分当兵和参军，是不一样的概念。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "您是在1948年到中央团校学习的？那时候身份区分没那么清楚，不像现在有当兵和参军的区别。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "cs2w": "多大您参加的工作呀？48年到中央团校学习啊，那时候还不是分得那么清楚，你不当兵，我参军呢，不一样。",
+    "baichuan": "我于1948年进入中央团校学习，当时还没有明确的工作划分，比如我参军了，而其他人则没有。",
+    "gpt5shot": "1948年我到中央团校学习，那时分工还不明确，您没有参军，而我参军了，这不一样。",
+    "mistral": "您是多大年纪参加工作的？1948年我进入中央团校学习，那时还不清楚工作和军人的区别，因为我当时参军，这两种情况不同。",
+    "spoken_text_en": "How old did you take part in the work? In 1948, I went to the Central Youth League School to study. At that time, it was not so clear. You didn't join the army. I joined the army. It was different.",
+    "written_text_en": "How old were you when you started working? In 1948, I went to the Central Youth League School to study. At that time, the division of labor was not so clear. If you didn't join the army, I would join the army. The situation was different.",
+    "claude_5shot_en": "Did you study at the Central Youth League School in 1948? At that time, the identity distinction was not so clear, unlike now, there is a difference between being a soldier and joining the army.",
+    "cs2w_en": "How old did you take part in the work? In 1948, I went to the Central Youth League School to study. At that time, it was not so clear. If you didn't join the army, I would join the army. It was different.",
+    "baichuan_en": "I entered the Central Youth League School in 1948, when there was no clear division of work, for example, I joined the army, while others did not.",
+    "gpt5shot_en": "In 1948, I went to the Central Youth League School to study. At that time, the division of labor was not clear. You did not join the army, but I did. This is different.",
+    "mistral_en": "How old were you when you started working? When I entered the Central Youth League School in 1948, I didn't know the difference between working and being a soldier, because I joined the army at that time, and the two situations were different."
+  },
+  {
+    "id": 9058,
+    "file_id": 488,
+    "spoken_text": "(那时)吃菜根本就没有菜，哦那个时候他那个朝鲜那个那个城市里就不存在什么城市了哦。",
+    "context": "晚上我们出来巡查，发现铁路沿线没有遭到轰炸破坏，于是就在铁路边捡拾石块备用。我们将捡来的石块堆成一堆一堆的，以备炸弹炸出弹坑时，能用这些石块及时填平。我们每天做的就是这项工作。过了一年多以后，我被调到通化押运队。押运队的职责是将前线所需的物资从后方运送到前线。物资装载到火车上后，需要有人监督装载过程，确保装载妥当，然后跟随火车将物资运送到指定单位。完成运输任务后，我从朝鲜返回，被调往8510师，而之前我隶属于8501师。(那时)吃菜根本就没有菜，哦那个时候他那个朝鲜那个那个城市里就不存在什么城市了哦。所有城市全部都成了废墟了，全部给炸平了，哦农村还有房子，嗯农村老乡，那就靠山边了。离铁路边远，离交通比较远的，农村的老乡还存在，房子还存在，你看他平壤市那个那是什么。那个朝鲜的首都啊，我去过嗯，一间房子都没有哦，全部炸平的，全是废墟。那吃的的就不用说了，后面来的从中国运过去的，运啥东西，都是干货。",
+    "written_text": "那时候根本没有蔬菜可吃，朝鲜的城市几乎都被夷为平地了。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "当时饮食中几乎没有蔬菜可吃，朝鲜的城市已经不复存在了。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "那时根本没有蔬菜可吃，当时朝鲜的城市已经不存在了。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "(那时)吃菜根本就没有菜，那个时候朝鲜城市里就不存在什么城市了哦。",
+    "baichuan": "那时候连蔬菜都吃不上了，朝鲜的城市已经完全被摧毁了。",
+    "gpt5shot": "那时根本没有蔬菜可吃，因为那个时候朝鲜的城市几乎都不存在了。",
+    "mistral": "那时候根本没有蔬菜可吃，朝鲜的城市已经全部炸毁，不再存在城区了。",
+    "spoken_text_en": "(At that time) there was no food at all. Oh, at that time, there was no city in the city of North Korea.",
+    "written_text_en": "At that time, there were no vegetables to eat, and almost all the cities in North Korea were razed to the ground.",
+    "claude_5shot_en": "At that time, there were no vegetables to eat, and the cities of North Korea did not exist at that time.",
+    "cs2w_en": "At that time, there was no food at all. At that time, there were no cities in North Korean cities.",
+    "baichuan_en": "At that time, even vegetables could not be eaten, and the cities of North Korea had been completely destroyed.",
+    "gpt5shot_en": "At that time, there were no vegetables to eat, because there were almost no cities in North Korea at that time.",
+    "mistral_en": "At that time, there were no vegetables to eat, and all the cities in North Korea had been blown up, and there were no more urban areas."
+  },
+  {
+    "id": 8628,
+    "file_id": 466,
+    "spoken_text": "现在那您退休也是从建三司退的吗，啊对，是吧啊。",
+    "context": "这个公司是由我们复转军人组成的，当时我们整个师都转业到了兰州。无论家乡在哪里，大家都转业到了兰州。您转业到兰州后，就一直在这里工作生活至今。我是1953年转业到兰州的。现在那您退休也是从建三司退的吗，啊对，是吧啊。刚转业过来的时候，兰州啥样的您还记得吧，哎呀那兰州，兰州城市，本来就城市倒不怎么样。嗯哎，转业的时候，那您转业了，您是在这城市待着，哎最后就成立建筑公司。现在退休了，对退休生活还满意吧，满意满意啊。行祝您健康长寿，好谢谢，记得点赞关注哦。",
+    "written_text": "您退休时是从建三司退休的吗？",
+    "error_type": [
+      2
+    ],
+    "claude_0shot": {
+      "translation": "您退休也是从建三司退的，对吧？",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "请问您是否也是从建三司退休的？",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "现在您退休也是从建三司退的吗，是吧。",
+    "baichuan": "您是从第三建筑工程公司退休的吗？是的。",
+    "gpt5shot": "您现在也是从建三司退休的吗？对吗？",
+    "mistral": "您退休时是从建三司退休的吗？",
+    "spoken_text_en": "Are you also retired from Jiansan Company now? Ah, yes, right.",
+    "written_text_en": "Did you retire from Jiansan Company when you retired?",
+    "claude_5shot_en": "Are you also retired from Jiansan Division?",
+    "cs2w_en": "Are you also retired from Jiansansi now? Is that right.",
+    "baichuan_en": "Are you retired from the Third Construction Engineering Company? Yes.",
+    "gpt5shot_en": "Are you also retired from Jiansansi now? Am I right?",
+    "mistral_en": "Did you retire from Jiansan Company when you retired?"
+  },
+  {
+    "id": 9602,
+    "file_id": 531,
+    "spoken_text": "打球消耗大的很，对对对那时候也是年轻啊，对那时候20岁吧，也是正是吃饭的时候。",
+    "context": "你们是部队篮球队的吧？我参加了篮球队。这些老班长和老兵们一看到我们回来，就把我们安排到班里。我们没有住在一起，都被安排到各自的班里，吃饭时他们会照顾我们。他们剩下的钱比较多，所以每次我们回来，他们都会让我们多吃点。打球消耗大的很，对对对那时候也是年轻啊，对那时候20岁吧，也是正是吃饭的时候。那您是69年回来的吗？68年回来以后给你安排到哪了？安排到当时是，当时你们就是安排工作吗？还是自己找工作？安排因为我是属于干部，千事干事啊，哦对，政治处干事对对对。最后就到长津电机厂，长津电机厂啊，哦对，千了几年工人。",
+    "written_text": "打球的体力消耗很大，那时候我们正值二十岁左右的年纪，正是饭量大的时候。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "打球消耗体力非常大，那时我也年轻，20岁左右，正是饭量大的时候。",
+      "error_type": [
+        124
+      ]
+    },
+    "claude_5shot": {
+      "translation": "打球消耗精力很大，那时候我也年轻，只有20岁左右，正是需要大量饮食的年龄。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "打球消耗大的很，那时候也是年轻啊，对那时间20岁吧，也是正是吃饭的时候。",
+    "baichuan": "那时候打球消耗很大，毕竟我们还年轻，二十岁左右，正是长身体的时候。",
+    "gpt5shot": "打篮球消耗很大，那时候我也年轻，正好20岁，正是饭量大的时候。",
+    "mistral": "打球的体力消耗很大，那时候我们还很年轻，大概20岁左右，正是吃饭时间。",
+    "spoken_text_en": "Playing basketball consumed a lot. Yes, I was young at that time. Yes, I was 20 years old at that time. It was also the time to eat.",
+    "written_text_en": "The physical exertion of playing basketball was very great. At that time, we were about twenty years old, and it was the time when we ate a lot.",
+    "claude_5shot_en": "Playing basketball consumed a lot of energy. At that time, I was also young, only about 20 years old, which was the age when I needed to eat a lot.",
+    "cs2w_en": "Playing basketball consumed a lot. I was young at that time. Yes, I was 20 years old at that time. It was also the time to eat.",
+    "baichuan_en": "At that time, playing ball consumed a lot. After all, we were still young, about 20 years old, and it was time to grow up.",
+    "gpt5shot_en": "Playing basketball consumes a lot. At that time, I was also young, just 20 years old, and it was the time when I ate a lot.",
+    "mistral_en": "The physical exertion of playing basketball was very great. At that time, we were still very young, about 20 years old, and it was time to eat."
+  },
+  {
+    "id": 2869,
+    "file_id": 164,
+    "spoken_text": "那吃吃什么喝什么呀？平时我连做什么吃什么，吃喝让他们管，都没事，吃什么都没事，没事不用我说话。",
+    "context": "不重要的事情记不住也没关系，反正重要的事情您都记得很清楚。您年轻时的事情，肯定都还记得吧？年轻时的事情，有些至今还记得；至于那些无关紧要的事，记不住也无妨。您是否了解一些长寿的秘诀？没有，没有。那吃吃什么喝什么呀？平时我连做什么吃什么，吃喝让他们管，都没事，吃什么都没事，没事不用我说话。到时候吃的喝的全都给你预备上了，嘿，这儿儿女真孝顺。我那我这嗨，跟着我是闺女不是儿子，闺女，跟大闺女。闺女好，闺女贴心，闺女细致，我我说我那闺女，我那大姑爷，比一般的儿子还强呢。吃喝吃饭给你盛上，喝水清暖和，给你晾上给你，给你倒缸子里头，大缸子小缸子给你晾上，还怎么着？",
+    "written_text": "日常饮食方面，我完全不用操心，吃什么喝什么都由他们安排，一切都很好，无需我过问。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "平时我的饮食都交由他们安排，无论吃什么都没有问题，也不需要我过多操心。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "平时我无需关心吃喝问题，这些都由他们安排，我吃什么都行，不用我操心。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "平时我连做什么吃什么，吃喝让他们管，都没事，没事不用我说话。",
+    "baichuan": "平时饮食起居都由他们安排，我无需操心，无论吃什么都不会有问题。",
+    "gpt5shot": "平时我连吃什么喝什么都让他们安排，一切都没问题，不需要我操心。",
+    "mistral": "平时我连做饭吃什么都由他们安排，吃什么都没关系，不用我操心。",
+    "spoken_text_en": "What to eat and what to drink? Usually I even let them take care of what I do and what I eat and drink. It's all right. It's all right to eat. I don't have to talk.",
+    "written_text_en": "In terms of daily diet, I don't have to worry about it at all. They arrange what to eat and drink. Everything is fine and I don't need to ask.",
+    "claude_5shot_en": "Usually I don't need to care about eating and drinking, these are arranged by them, I can eat anything, I don't have to worry about it.",
+    "cs2w_en": "Usually I even let them take care of what I do and what I eat and drink. It's all right. I don't have to talk.",
+    "baichuan_en": "I don't have to worry about eating and living, and I don't have any problems with what I eat.",
+    "gpt5shot_en": "Usually I even let them arrange what to eat and drink, everything is all right, I don't need to worry about it.",
+    "mistral_en": "Usually I even cook and eat anything arranged by them. It doesn't matter what I eat. I don't have to worry about it."
+  },
+  {
+    "id": 9020,
+    "file_id": 487,
+    "spoken_text": "我们是我们的，是那个啥当兵，是武装警察部队，哦，是这个守地方治安的，我们就是在那个监狱。",
+    "context": "当时我十六七岁。我于1962年8月参军，被派往青海省西宁市。我们是我们的，是那个啥当兵，是武装警察部队，哦，是这个守地方治安的，我们就是在那个监狱。监狱大高高高的墙上，在那墙上站岗着呢，哦，下面是犯人，管监狱的。你在青海当了几年兵？到青海一共当了6年，5年8个月，哦，5年多兵，一直就是看监狱的吧？哎。5年从当当了，那个是到青海以后，先是听看监狱，嗯，后来的话呢，文化大GM，文化大GM以后就就把我抽出来了。嗯，抽出来了，因为我上的不是初中，我上的高中，哦对，高中那时候的话，就您是高中毕业？哦，没毕业，嗯，就就是当兵去了哦。",
+    "written_text": "我们属于武装警察部队，负责地方治安，具体工作是在监狱执勤。",
+    "error_type": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "我们是武装警察部队，负责维护地方治安，主要在监狱执勤。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我们的部队是武装警察部队，主要负责维护地方治安，具体是在监狱执勤。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "我们是当兵，是武装警察部队，是守地方治安的，我们就是在那个监狱。",
+    "baichuan": "我们当时是武装警察部队，负责地方治安工作，具体是在监狱工作。",
+    "gpt5shot": "我们是武装警察部队，负责地方治安，驻扎在监狱。",
+    "mistral": "我们属于武装警察部队，负责地方治安，具体工作是在监狱执勤。",
+    "spoken_text_en": "We are ours. We are the soldiers. We are the armed police force. Oh, we are the local security guards. We are in that prison.",
+    "written_text_en": "We belong to the Armed Police Force, which is responsible for local security, and our specific work is on prison duty.",
+    "claude_5shot_en": "Our force is an armed police force, which is mainly responsible for maintaining local security, specifically in prisons.",
+    "cs2w_en": "We were soldiers, we were members of the armed police force, we were members of the local police force, and we were in that prison.",
+    "baichuan_en": "We were an armed police force, responsible for local security work, specifically in prisons.",
+    "gpt5shot_en": "We are an armed police force, responsible for local security, stationed in prisons.",
+    "mistral_en": "We belong to the Armed Police Force, which is responsible for local security, and our specific work is on prison duty."
+  },
+  {
+    "id": 9437,
+    "file_id": 523,
+    "spoken_text": "嗯，什么一局的啊，7局的啊，然后那些都在那个地方，都在那里工作嘛，就是建那个油厂嘛。",
+    "context": "你们是从广东茂名来的吗？你们当时在广东茂名工作吗？我们当时在广东茂名工作，那里有一个炼油厂。1961年时，那家炼油厂因出油率较低，经营状况不太景气。当时那里有很多建筑公司，有好几家国营建筑公司。嗯，什么一局的啊，7局的啊，然后那些都在那个地方，都在那里工作嘛，就是建那个油厂嘛。再说了，准确些的，嗯，没有没有任务，没有任务了，就是说西边要搞三线建设。哦，要搞三线建设哎，三线建设是，不是有一个叫彭德怀的这个大官儿嘛，他的他的总指挥么，对吧哎？那么就是我们就是过来了过来了哦，你们就一起过来了哎，过来了多少人呀？那次过来了有，有一两万人吧，哦，是吧哎，都是从广东茂名过来的哎，哎哎哦。",
+    "written_text": "当时有一局、七局等多家建筑公司在那里工作，负责建设炼油厂。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "有一局、七局等多个建筑单位的工人都在那个地方工作，负责建设那个炼油厂。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "一局、七局等建筑公司的工人都在那里工作，主要负责建设油厂。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "一局，7局的，然后那些都在那里工作，就是建油厂嘛。",
+    "baichuan": "当时有一局、七局等几家建筑公司在那里工作，负责建造炼油厂。",
+    "gpt5shot": "嗯，什么一局的啊，七局的啊，他们都在那个地方工作，就是建那个炼油厂。",
+    "mistral": "",
+    "spoken_text_en": "Um, what about one Bureau, seven bureaus, and then those are all in that place, all working there, that is, building that oil factory.",
+    "written_text_en": "At that time, there were many construction companies working there, such as the First Bureau and the Seventh Bureau, responsible for the construction of the refinery.",
+    "claude_5shot_en": "Workers from construction companies such as the First Bureau and the Seventh Bureau work there, mainly responsible for the construction of oil plants.",
+    "cs2w_en": "One round, seven rounds, and then those are all working there, that is, building oil plants.",
+    "baichuan_en": "At that time, several construction companies, such as the First Bureau and the Seventh Bureau, were working there to build the refinery.",
+    "gpt5shot_en": "Well, they all work in that place, that is, to build the oil refinery."
+  },
+  {
+    "id": 8741,
+    "file_id": 471,
+    "spoken_text": "对啊所以说我自己考虑，就是再不再不添麻烦，哦就直接就过来了，哦这样的。",
+    "context": "当时的情况是如果不接受调岗就会面临失业，后来文化大革命一开始，搬迁学习班就解散了。在北京的搬迁学习班上，文化大革命开始后，这个学习班就被解散了，有三分之二的人没有再来参加。当时您家里有几个兄弟？我有好几个兄弟姐妹，其中哥哥比我年长，那时候大家的工资都很低。对啊所以说我自己考虑，就是再不再不添麻烦，哦就直接就过来了，哦这样的。嗯什么情况的都有，他大部分是属于这种情况，嗯家里负担不了，个大小伙子在家里在一闷。吃哥嫂那不成嘛，哦所以说就过来了，就这样就过来了，嗯对对对，直到现在。哈哈哈65年到现在也有快60年了，哦就是快60年了啊，明年就60年了。大叔您今年高寿呀，啊8383，差不多，60年是在兰州度过的，对哈哈哈，那就来了，再没动过。",
+    "written_text": "因此我决定不再给家里增添负担，就直接过来了。",
+    "error_type": [],
+    "claude_0shot": {
+      "translation": "对，所以我自己考虑，不想再给家里添麻烦，就直接过来了。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "因此，我考虑到不想再给家里增添负担，就直接来到这里了。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "对啊所以说我自己考虑，就是再不添麻烦，就直接就过来了，这样的。",
+    "baichuan": "因此我考虑，既然不会给家庭增添负担，就直接过来了。",
+    "gpt5shot": "所以我自己考虑，不再添麻烦，就直接过来了。",
+    "mistral": "因此我考虑到不再添麻烦，就直接过来了。",
+    "spoken_text_en": "Yes, so I think about it by myself, that is, if I don't add any trouble, oh, I will come directly, oh, like this.",
+    "written_text_en": "So I decided not to burden my family, and I came straight here.",
+    "claude_5shot_en": "So I thought I didn't want to burden my family any more, so I came here directly.",
+    "cs2w_en": "Yes, so I think about it by myself, that is, if I don't make any trouble, I will come directly.",
+    "baichuan_en": "So I thought, since it would not burden the family, I would come directly.",
+    "gpt5shot_en": "So I thought about it myself, and I didn't bother any more, so I came straight here.",
+    "mistral_en": "So I thought no more trouble, so I came straight here."
+  },
+  {
+    "id": 2692,
+    "file_id": 159,
+    "spoken_text": "我就是维护我自己的生存，就是这么一个作用，并不像在计划经济年代，要我们关心国家大事，党的大事，民族大事，世界大事，其实微乎其微。",
+    "context": "这与体制无关，即便是现在，虽然我们已经进行了改革，但仍有几个人民公社存在，而且它们比我们改革后的单位富裕得多，这是为什么呢？问题的关键不在于这些因素，而在于执政者的初心何在。例如当前某些大型企业，尽管年收入高达数亿元，今年却出现亏损，那么这些亏损究竟由谁承担？说实话，改革确实带来了积极影响。它拓宽了人们的视野，帮助人们更清楚地认识到自己在社会中的地位。特别是我，就像一粒微小的尘埃，是社会中最基本的单位，无法再细分，这就是我在社会中的作用。我就是维护我自己的生存，就是这么一个作用，并不像在计划经济年代，要我们关心国家大事，党的大事，民族大事，世界大事，其实微乎其微。但是当时的时候，国家把你的地位放的很高，你是主人，你想着国家，想着不论受多大的苦，受多大的心甘情愿啊，甚至付出生命。但是现在人们就不这样想哦，这个就是说对我有利嘛，但那个对我有好处嘛，把这个放在第一位，人们意识形态变化了。说实在话了，中国能像那几年的时候，70年代以前的那种团结精神，现在没有了。现在说句不好听的话，真正有个民族危机的时候，能不能像那个时候，真是很大的一个问号。",
+    "written_text": "我只是在维持自己的基本生存，这就是我的全部作用。与计划经济时代要求我们关心国家、政党、民族和世界大事不同，如今这些对我的影响微乎其微。",
+    "error_type": [
+      2
+    ],
+    "claude_0shot": {
+      "translation": "我只是维护自己的生存，这就是我的作用，而不像计划经济年代那样被要求关心国家大事、党的大事、民族大事和世界大事，实际上个人的影响力非常微小。",
+      "error_type": [
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我只是维护自己的生存，就是这么一个作用，并不像在计划经济年代那样要求我们关心国家大事、党的大事、民族大事和世界大事，实际上个人的影响微乎其微。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "我就是维护我自己的生存，就是这么一个作用，并不像在计划经济年代，要我们关心国家大事，党的大事、民族大事甚至世界大事那样微乎其微。",
+    "baichuan": "我仅仅是为了维护自己的生存，并没有像在计划经济时代那样需要关心国家大事、党的大事或民族大事、世界大事，实际上这些与我无关。",
+    "gpt5shot": "我只是为了维持自己的生存，这就是我的作用，不像计划经济年代那样要求我们关心国家大事、党的大事、民族大事、世界大事，其实这些与我关系微乎其微。",
+    "mistral": "我的作用仅限于维持自身生存，与之前的计划经济时代相比，当时我们要关心国家大事、党的大事、民族大事甚至世界大事，而现在的作用则微不足道。",
+    "spoken_text_en": "I am to maintain my own survival, is such a role, unlike in the planned economy era, we have to care about national affairs, party affairs, national affairs, world affairs, in fact, very little.",
+    "written_text_en": "I'm just maintaining my basic survival, that's all I do. Unlike the planned economy era, which requires us to care about the country, political parties, nations and world events, these have little impact on me today.",
+    "claude_5shot_en": "[ERROR: HTTPSConnectionPool(host='itrans.xfyun.cn', port=443): Read timed out. (read timeout=8)]",
+    "cs2w_en": "I just want to maintain my own survival, which is such a role, unlike in the planned economy era, when we were concerned about national affairs, Party affairs, national affairs and even world affairs.",
+    "baichuan_en": "I just want to maintain my own survival, and I don't need to care about national affairs, Party affairs, national affairs and world affairs as I did in the planned economy era. In fact, these have nothing to do with me.",
+    "gpt5shot_en": "I just want to maintain my own survival, this is my role, unlike the planned economy era, which requires us to care about national affairs, party affairs, national affairs, world affairs, in fact, these have little to do with me.",
+    "mistral_en": "My role is limited to maintaining my own survival, compared with the previous planned economy era, when we had to care about national affairs, party affairs, national affairs and even world affairs, but now the role is insignificant."
+  },
+  {
+    "id": 5096,
+    "file_id": 275,
+    "spoken_text": "我退休才1,000，1,800,9吧，那几几年的那会，0607年吧，那还可以08年，哈哈哈现在挺高的吧。",
+    "context": "第二是家长和你本人都必须同意，三者都同意才能从事这份工作，那真不容易啊。那时候不像现在这样开放自由，而且车辆也很难驾驶，冬天启动车辆需要掌握技术，比如灌水等操作。冬天开车回来时，早上起来需要给车辆加水，还得灌热水，而且必须会修车。那时候不仅要会开车，还得慢慢学会修车，真是不容易。大爷，您当初的退休金是多少？我退休才1,000，1,800,9吧，那几几年的那会，0607年吧，那还可以08年，哈哈哈现在挺高的吧。现在5,000出头呢，可以那属于中等水平啊行了，不错是。",
+    "written_text": "我退休时的养老金大约是1000到1800元，那是2006或2007年的事，可能持续到2008年。现在的养老金水平已经提高很多了。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "我退休时的退休金才1000多元，大约是1800.9元吧，那是2006年、2007年左右，到了2008年情况还不错，现在退休金已经相当高了。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我刚退休时领的退休金是一千八百多元，大约在2007年或2008年左右，那时候这个水平还算可以。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "我退休才1,000，800,9吧，那几年的那会，0607年吧，还可以08年，哈哈哈现在挺高的吧。",
+    "baichuan": "我退休时的退休金是1,800元，那是2006年至2007年左右的事。2008年时已经涨到1,900元了，现在应该更高了吧。",
+    "gpt5shot": "我退休时的工资大约是1,800到1,900元，那是在2006或2007年左右，当时还算不错。现在已经涨到5,000多元，算是中等水平了。",
+    "mistral": "我退休时每月退休金是1000元，1800元左右，那是2006年到2007年左右，2008年时还可以，现在已经涨到了比较高的水平。",
+    "spoken_text_en": "I retired only 1,000, 1,800, 9, that's a few years ago, 0607, that's OK, 2008, ha ha ha, it's quite high now.",
+    "written_text_en": "When I retired, my pension was about 1000 to 1800 yuan. That was in 2006 or 2007, and it may last until 2008. Now the pension level has been raised a lot.",
+    "claude_5shot_en": "When I first retired, I received a pension of more than 1800 yuan, about 2007 or 2008. At that time, the level was fairly good.",
+    "cs2w_en": "I only retired 1,000,800,9. In those years, 0607 was OK. It was OK in 2008. Hahaha, it's quite high now.",
+    "baichuan_en": "When I retired, my pension was 1,800 yuan. That was around 2006 and 2007. It went up to 1,900 yuan in 2008, and it should be even higher now.",
+    "gpt5shot_en": "When I retired, my salary was about 1,800 to 1,900 yuan. That was around 2006 or 2007, and it was not bad at that time. Now it has risen to more than 5,000 yuan, which is a medium level.",
+    "mistral_en": "When I retired, my monthly pension was 1000 yuan, about 1800 yuan. That was from 2006 to 2007. It was OK in 2008. Now it has risen to a relatively high level."
+  },
+  {
+    "id": 8614,
+    "file_id": 466,
+    "spoken_text": "这就是军事上的问题，嗯所以他就没办法了，就号召您，您当时去朝鲜了吗？",
+    "context": "1951年的时候，是不是在动员抗美援朝？美国攻打朝鲜的真实目的并不在此，而是因为美国的野心很大。美国一旦攻占朝鲜，其他地区就难以抵挡了，因此当时毛主席决定出兵朝鲜进行抗美援朝。他并非在攻打朝鲜，我就以抗美援朝的名义行动。美国，你无法反抗我，因为我是去援助朝鲜的，与你美国并无直接关系，对吧？这就是军事上的问题，嗯所以他就没办法了，就号召您，您当时去朝鲜了吗？听朝鲜没去，那您当时当兵到哪里了，我当时当兵是在我们陕西。在陕西啊，陕西啥地方当兵的呢，陕西我是蒲城县的人嗯。听农村那个时候，那时候有个啥有个啥观念呢，好比你这村里有几个，家里有凡个弟兄，多了你当兵去，哎有个一半个人家先不当兵。哦就是这么个，您就没有当兵吗，当了吗当了吗，您当了几年，当了三年就转业了。",
+    "written_text": "由于军事上的问题，他别无选择，只能发出号召。您当时去朝鲜了吗？",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "这就是军事上的问题，所以美国就没有办法了，就号召你们参军。您当时去朝鲜了吗？",
+      "error_type": [
+        1,
+        3
+      ]
+    },
+    "claude_5shot": {
+      "translation": "这就是军事上的问题，所以美国没有办法，只能号召您去朝鲜。您当时去朝鲜了吗？",
+      "error_type": [
+        2,
+        3
+      ]
+    },
+    "cs2w": "这就是军事上的问题，所以他就没办法了，就号召您，您当时去朝鲜了吗？",
+    "baichuan": "这是军事上的问题，所以他别无选择，只能号召大家。您当时去了朝鲜吗？",
+    "gpt5shot": "这就是军事上的问题，所以他无计可施，只能号召您，您当时去朝鲜了吗？",
+    "mistral": "由于军事上的问题，他无法阻止您，只能号召您前往朝鲜。您当时去了朝鲜吗？",
+    "spoken_text_en": "This is a military problem, so he had no choice but to call on you. Did you go to North Korea at that time?",
+    "written_text_en": "Because of military problems, he had no choice but to issue a call. Did you go to North Korea at that time?",
+    "claude_5shot_en": "This is a military problem, so the United States has no choice but to call on you to go to North Korea. Did you go to North Korea at that time?",
+    "cs2w_en": "This is a military problem, so he had no choice but to call on you. Did you go to North Korea at that time?",
+    "baichuan_en": "This is a military issue, so he has no choice but to call on everyone. Did you go to North Korea?",
+    "gpt5shot_en": "This is a military problem, so he can do nothing but call on you, did you go to Korea at that time?",
+    "mistral_en": "Because of military problems, he can't stop you, so he can only call on you to go to Korea. Did you go to North Korea?"
+  },
+  {
+    "id": 9930,
+    "file_id": 546,
+    "spoken_text": "1年外语，54年出国六零年毕业的，他石油学院同学57年毕业，就分到兰石厂来，他60年毕业。",
+    "context": "1977年，我先生作为知识分子代表，参观了北京工厂的劳模表彰大会。并非因为工作表现不佳，工资一直处于较低水平，直到去世前月薪仍不足5000元，他于2022年6月离世。他的同学留在部里工作，后来部里多次想调他去广里，但没让他走，因为小国语院的人手不足。他频繁出国，后来不再让他去了，大家以为他是留学生，实际上他在国外待了5年，也有人说是6年。1年外语，54年出国六零年毕业的，他石油学院同学57年毕业，就分到兰石厂来，他60年毕业。哦对对对，1年外语5年的专业哦，嗯您是也是医务工作者，一直是现在退休工资是个4,000多是吧。4,5004500块钱，哦您今年高寿呀，8585岁嗯，看我在北京现在有，我先生22年去世了。嗯我现在在我这里等于没有家了，嗯我有三个孩子，两个女儿，我二女儿在这里。嗯儿子在北京，我就给儿子去了，嗯我这来女儿这来看一看，我马上就走了。",
+    "written_text": "他先学习了一年外语，1954年出国，1960年毕业。他的石油学院同学于1957年毕业，被分配到兰州石油机械厂工作，而他则是1960年毕业的。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "他1954年出国留学，先学了一年的外语，之后于1960年毕业。他在石油学院的同学1957年就毕业了，随即被分配到兰州石油化工厂工作。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "他先学习一年外语，1954年出国，1960年毕业。石油学院的同学1957年毕业后就分配到兰州石油厂，而他1960年才毕业。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "1年外语，54年出国六零年毕业的，他石油学院同学57年毕業，就分到兰石厂来，他60年畢业。",
+    "baichuan": "他学习外语一年，1954年出国，1960年毕业。他的石油学院同学1957年毕业，被分配到兰石厂工作；而他1960年毕业。",
+    "gpt5shot": "他在国外待了一年学习外语，五年学习专业课程，1960年毕业。他的石油学院同学1957年毕业后被分配到兰石厂。",
+    "mistral": "他在外国学习了一年外语，1954年出国，1960年毕业。他的石油学院同学于1957年毕业，被分配到兰州石油机械厂工作，而他是1960年毕业的。",
+    "spoken_text_en": "One year of foreign language, went abroad in 1954 and graduated in 1960. His classmates from Petroleum Institute graduated in 1957 and were assigned to Lanshi Factory. He graduated in 1960.",
+    "written_text_en": "He first studied foreign languages for a year, went abroad in 1954 and graduated in 1960. His classmates from the Petroleum Institute graduated in 1957 and were assigned to work in Lanzhou Petroleum Machinery Factory, while he graduated in 1960.",
+    "claude_5shot_en": "He first studied foreign languages for a year, went abroad in 1954 and graduated in 1960. After graduating from the Petroleum Institute in 1957, he was assigned to Lanzhou Petroleum Plant, and he graduated in 1960.",
+    "cs2w_en": "One year of foreign language, went abroad in 1954 and graduated in 1960. His classmates from Petroleum Institute graduated in 1957 and were assigned to Lanshi Factory. He graduated in 1960.",
+    "baichuan_en": "He studied foreign languages for a year, went abroad in 1954, and graduated in 1960. His petroleum Institute classmate graduated in 1957 and was assigned to work in Lanshi Factory, while he graduated in 1960.",
+    "gpt5shot_en": "[ERROR: HTTPSConnectionPool(host='itrans.xfyun.cn', port=443): Read timed out. (read timeout=8)]",
+    "mistral_en": "[ERROR: HTTPSConnectionPool(host='itrans.xfyun.cn', port=443): Read timed out. (read timeout=8)]"
+  },
+  {
+    "id": 6912,
+    "file_id": 399,
+    "spoken_text": "我也不知道这个是怎么回事，我去问问他。",
+    "context": "请收下，不用觉得不好意思，把这些给她。我听了这位阿姨的经历，觉得她真的很不容易。我在钱包里找了一遍，只找到100元，今天就先给他100元吧。过段时间我再来看望阿姨，给她带些狗粮，顺便一个人来探望她。我也不知道这个是怎么回事，我去问问他。我心里想想吧，我想寄养这几天，过年的时候我可能要到福建然后要到厦门去玩。我心里想的就是我家一条熟悉了，无所谓就是这条不熟悉。这个三条小狗的挺乖的，嗯都没几个月最大的可有3个月，小的两个多月。我捡的流浪狗，我想到冬天了蛮可怜的上冰。",
+    "written_text": "我不清楚这是怎么回事，我去问问他。",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "我也不清楚具体情况，我去向他询问一下。",
+      "error_type": [
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我也不清楚这是怎么回事，我去询问一下他。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "我也不知道这个是怎么回事，我去问他。",
+    "baichuan": "我不清楚这是怎么回事，我去问问别人。",
+    "gpt5shot": "我也不清楚这是什么情况，我去问问他。",
+    "mistral": "我不清楚这是怎么回事，我去问问他。",
+    "spoken_text_en": "[ERROR: HTTPSConnectionPool(host='itrans.xfyun.cn', port=443): Read timed out. (read timeout=8)]",
+    "written_text_en": "I don't know what's going on. I'll ask him.",
+    "claude_5shot_en": "I don't know what's going on. I'll ask him.",
+    "cs2w_en": "I don't know what's going on. I'll ask him.",
+    "baichuan_en": "I don't know what's going on. I'll ask someone else.",
+    "gpt5shot_en": "I don't know what the situation is. I'll ask him.",
+    "mistral_en": "I don't know what's going on. I'll ask him."
+  },
+  {
+    "id": 5200,
+    "file_id": 283,
+    "spoken_text": "哎呦那时候不就是老家，就认为有技术在进的，铁工厂吗，是那大妈基本上这个工作，基本我都听说过。",
+    "context": "你看这列火车，过去那些螺丝、螺母和垫片，分别由我们三家工厂生产：我生产螺丝，你生产螺母，他生产垫片，我们必须紧密配合。他是一个标准件工人，必须精益求精，不能出错，因为一旦出错，螺丝和螺母就无法匹配。虽然看起来像流水作业，但他工作时非常认真细致。您以前在工厂是做什么工作的？我是机修工。机械工人包括钳工和车工，我们是机加工工人。大妈，您从事的是技术工种啊。哎呦那时候不就是老家，就认为有技术在进的，铁工厂吗，是那大妈基本上这个工作，基本我都听说过。男的做的多，我们这车间女的多，有那么几个男的就得得配合着，因为什么这个件你真搬不上去啊是啊。所以就就得用男同志都不是那，那时候特团结，就没有说嗯什么图钱呀什么的，那时候就一心的就是，就是建设社会主义。真棒，我们没有那个什么中心日子的时候，我们没有休息哦，说现在什么休礼拜六礼拜天，那时候一个月都没都不见得休息一回。不但不休息还加班，哎呦那等于是那会的需求量大，哎那时候就是那时候，这就是特认真。",
+    "written_text": "那时候在老家，人们认为进入铁工厂工作需要有技术。那位大妈从事的工作，我基本上都听说过。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "哎呦，那时候在老家，铁工厂里有技术的工人很受尊重。大妈们基本上从事这类工作，我对此都有所耳闻。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "那时候在老家，技术工种被视为高级职业，像铁工厂这样的工作，我对大妈从事的这类工作基本都有所了解。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "那时候不就是老家，就认为有技术在进的，铁工厂，是那大妈基本上这个工作，基本我都听说过。",
+    "baichuan": "那时候在老家，人们普遍认为进入铁工厂需要技术，而那位大妈的工作基本我都听说过。",
+    "gpt5shot": "哎呦，那时候我们老家有个铁工厂，大家都认为这是个有技术含量的工作，我基本上都听说过。",
+    "mistral": "",
+    "spoken_text_en": "Oh, at that time, it was my hometown. I thought there was technology in the iron works. I had heard of the job of the aunt.",
+    "written_text_en": "At that time, people in my hometown thought that they needed skills to work in the iron works. I have basically heard of the work that the aunt is engaged in.",
+    "claude_5shot_en": "At that time, in my hometown, skilled work was regarded as a senior occupation, such as iron works, and I basically knew something about this kind of work that my aunt was engaged in.",
+    "cs2w_en": "At that time, I was in my hometown, and I thought that there was technology in the iron factory. I had heard of the job of the aunt.",
+    "baichuan_en": "At that time, in my hometown, people generally believed that technology was needed to enter the iron factory, and I had heard about the work of that aunt.",
+    "gpt5shot_en": "Oh, at that time, there was an iron factory in our hometown. Everyone thought it was a job with technical content. I had heard of it basically."
+  },
+  {
+    "id": 4404,
+    "file_id": 245,
+    "spoken_text": "哦我就自己，哎我不喜欢参加这个参加那个，跟人一起玩去什么的我都不去。",
+    "context": "您的孩子已经长大成人，不需要我照顾了。孙子由您照看，现在已经十岁了，主要由他妈妈照顾。每天就是玩乐，我自己一个人在这里，自己照顾自己，还参加了音乐队。我这个人毛病很多，如果头晕、眼睛不好或者颈椎不舒服，我就不愿意参加任何活动。我没有和社区联系过，我不需要别人管我，我就想自由自在地活动。哦我就自己，哎我不喜欢参加这个参加那个，跟人一起玩去什么的我都不去。我就就适合在家啊，GRASP待会呢会吹累了回家就歇着哈哈哈，根据每个人的方式。对啊就自己根据自己，GRASP你不能强人家想干嘛你干嘛你干嘛，GRASP不了你没那本事。GRASP对啊我这颈椎不行，GRASP我看您这精神头看着挺好啊，看着真不错哎看着挺好。现在你们都说话，我这脸我都觉着那有点，您这个要把头发再染染好。",
+    "written_text": "我喜欢独处，不愿参加各类社交活动或与他人结伴出游。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "我现在就是独居，我不喜欢参加各种活动，也不会与他人一起外出娱乐。",
+      "error_type": [
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我喜欢独处，不愿参加各种活动，也不会跟其他人一起外出游玩。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "我不喜欢参加这个参加那个，跟人一起玩去什么的我都不去。",
+    "baichuan": "我不喜欢参加各种活动，也不喜欢和别人一起玩耍。",
+    "gpt5shot": "我一个人过得很好，不喜欢参加各种活动，也不愿意和别人一起玩。",
+    "mistral": "我喜欢独处，不愿参加各种社交活动或与他人一起出游。",
+    "spoken_text_en": "Oh, I'm just myself. I don't like to take part in this or that. I don't go to play with others or anything.",
+    "written_text_en": "I like to be alone, and I don't want to participate in all kinds of social activities or travel with others.",
+    "claude_5shot_en": "I like to be alone. I don't want to take part in all kinds of activities, and I don't go out to play with other people.",
+    "cs2w_en": "I don't like to take part in this and that. I don't go to play with others.",
+    "baichuan_en": "I don't like to participate in various activities, nor do I like to play with others.",
+    "gpt5shot_en": "I live a good life alone, and I don't like to participate in various activities, nor do I want to play with others.",
+    "mistral_en": "I like to be alone, and I don't want to participate in various social activities or go out with others."
+  },
+  {
+    "id": 1057,
+    "file_id": 97,
+    "spoken_text": "没给他们做个饭哈哈哈哦，没事，您让您那个来北京就是看看孩子什么的。",
+    "context": "如果有人尝了白菜的味道就要罚款，否则大家你一口我一口地尝，菜地里的菜怎么长得起来呢？反正饿极了就只能忍着了。当时饿得肚子疼，只能赶紧用手捂着肚子，我捂得很紧。这位山东女士年轻时来北京帮两位姐姐照看孩子，没想到这一来就留在了北京。您今年75岁高龄了，看您身体还算硬朗。没给他们做个饭哈哈哈哦，没事，您让您那个来北京就是看看孩子什么的。不是我俩姐姐在这给我叫，我说的这我们姐五个把我叫我来了，我这我那俩妹就没来了。来可这也挺穷的吃不饱，哈哈哈，你几几年你来到北京啊，21吧。那那会可真年轻，哈哈那年轻那会年轻，这不行了这老了哈哈。俩姐姐在这北京啊，个大姐一个二姐，哦嗯叫我来给看孩子了，家属连啊。",
+    "written_text": "我没有给他们做饭，不过没关系，您让您那位来北京主要是为了看看孩子之类的。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "我没有给他们做饭，没关系，您来北京就是为了照看孩子。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我没有给他们做饭的不要紧，您让您亲戚来北京就是为了看看孩子之类的事情。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "cs2w": "没给他们做个饭，没事，您让您来北京就是看看孩子。",
+    "baichuan": "当时没有为他们做过饭，没关系，您来北京主要是为了照顾孩子什么的。",
+    "gpt5shot": "没给他们做饭，不过没关系，您让他们来北京就是为了看看孩子。",
+    "mistral": "当时没有给他们做饭，不用担心，您让我来北京是为了看看孩子。",
+    "spoken_text_en": "I didn't cook for them. Ha ha ha. It's all right. You came to Beijing to see the children or something.",
+    "written_text_en": "I didn't cook for them, but it doesn't matter. You let you come to Beijing mainly to see the children and so on.",
+    "claude_5shot_en": "It doesn't matter that I didn't cook for them. You let your relatives come to Beijing just to see the children and so on.",
+    "cs2w_en": "I didn't cook a meal for them. It's all right. You came to Beijing to see the children.",
+    "baichuan_en": "I didn't cook for them at that time. It doesn't matter. You came to Beijing mainly to take care of the children or something.",
+    "gpt5shot_en": "I didn't cook for them, but it doesn't matter. You let them come to Beijing just to see the children.",
+    "mistral_en": "I didn't cook for them at that time. Don't worry. You asked me to come to Beijing to see the children."
+  },
+  {
+    "id": 8422,
+    "file_id": 453,
+    "spoken_text": "那是那是，3%的利润，上级规定的上多少多少，什么批发价多少，到零售价又是多少，都是实的。",
+    "context": "这些产品销量如何？冰棍等产品在当时都属于紧俏商品。那时候物资供应紧张，老百姓购买商品需要凭票。那时候实行计划经济，厂里按照出厂价进行核算。出厂价是多少？厂里还是有利润的，不过利润很少。那是那是，3%的利润，上级规定的上多少多少，什么批发价多少，到零售价又是多少，都是实的。为啥还不如老百姓？哎那时候是那时候是，这个，提职不提薪，粮食减三斤。哦哦，提职不提薪，粮食还要减三斤，为啥要给您减三斤呀？哎那原来是你，你是这个轻劳动（者）啊，当了干部了就成了，听那天28斤，那原来30多斤，现在28斤。哦那时你看，轻劳动重劳动呢干部的，这个分开着来，那那那各是各的。",
+    "written_text": "上级规定利润率为3%，并明确规定了出厂价、批发价和零售价，这些都是严格执行的。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "确实如此，当时的利润只有3%，上级明确规定了各环节的价格标准，比如批发价多少、零售价多少，这些价格都是实打实的，没有浮动空间。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "确实如此，当时利润只有3%，都是按照上级规定的批发价和零售价执行，所有价格都是固定的。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "那是，3%的利润，上级规定的上，批发价多少，到零售价又是怎样的，都是实的。",
+    "baichuan": "上级规定出厂价为3%的利润率，批发价和零售价也是实有的数字。",
+    "gpt5shot": "是的，3%的利润，上级规定的批发价和零售价都是真实的。",
+    "mistral": "",
+    "spoken_text_en": "That is, that is, 3% of the profit, how much is stipulated by the higher authorities, how much is the wholesale price, and how much is the retail price, are all real.",
+    "written_text_en": "The higher authorities stipulate that the profit margin is 3%, and clearly stipulate the ex-factory price, wholesale price and retail price, which are strictly enforced.",
+    "claude_5shot_en": "Indeed, at that time, the profit was only 3%, which was carried out according to the wholesale and retail prices stipulated by the higher authorities, and all prices were fixed.",
+    "cs2w_en": "That is, the profit of 3%, on superior regulation, wholesale price how many, it is how to retail price again, it is solid.",
+    "baichuan_en": "The higher authorities stipulate that the profit margin of the ex-factory price is 3%, and the wholesale and retail prices are also real figures.",
+    "gpt5shot_en": "Yes, the profit of 3%, the wholesale price and the retail price stipulated by the higher authorities are true."
+  },
+  {
+    "id": 8855,
+    "file_id": 481,
+    "spoken_text": "我也不知道小西湖就是建工局那边，现在西北建工局那个院子，嗯建的第一个工程建的那个院子。",
+    "context": "1953年在西安渭南时，我们担任他们的技术指导师傅。1954年调到兰州后，我们仍然一起工作。1954年，我们整体调到兰州，他们也转业了，我们都过来了。他们是在1954年正式转业的。您还记得1954年初到兰州时，兰州是什么样子吗？我们刚下火车时，发现那里连一条像样的路都没有，也不知道该找什么车才能把我们送到小西湖。我也不知道小西湖就是建工局那边，现在西北建工局那个院子，嗯建的第一个工程建的那个院子。嗯西北局总公司那个院子，嗯那那里边我们不穿黄衣服，他当我们当劳改犯呢。嗯拿我们当劳改犯了，我们这穿的啥都有，嗯乱都是，穿都不好啊，就是补丁补丁的。是工人吗嗯，他们拿着枪，我们得干活，他们把我们当劳改犯样了。怎么他们还拿枪呢，他们转业业还没正式转业呀，哦还没有正式转业啊。",
+    "written_text": "我当时不知道小西湖就是建工局所在地，也就是现在的西北建工局大院，那是他们建设的第一个工程项目。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "我也不知道小西湖就是建工局那边，也就是现在的西北建工局院子，那是他们建造的第一个工程项目。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我当时不知道小西湖就是指建工局那边，也就是现在西北建工局的院子，那是他们建造的第一个工程项目。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "我也不知道小西湖就是建工局那边，现在西北建工院那个院子，建的第一个工程建的院子。",
+    "baichuan": "我最初不知道小西湖就是建工局所在的区域，也就是现在西北建工局所在的那个院子，那里是我们参与建设的第一个工程所在的院子。",
+    "gpt5shot": "我也不知道小西湖就是建工局那边，现在是西北建工局的院子，是他们建的第一个工程。",
+    "mistral": "我当时不知道小西湖就是建工局所在地，即现在的西北建工局院子，也就是建工局第一项工程建设的那个院子。",
+    "spoken_text_en": "I don't know that the small West Lake is the courtyard of the Northwest Construction Bureau, the courtyard built by the first project.",
+    "written_text_en": "At that time, I did not know that Xiaoxihu was the location of the Construction Bureau, which is now the compound of the Northwest Construction Bureau, which was the first project they built.",
+    "claude_5shot_en": "At that time, I did not know that the small West Lake refers to the side of the Construction Bureau, which is now the courtyard of the Northwest Construction Bureau, which is the first project they built.",
+    "cs2w_en": "I don't know that the small West Lake is the courtyard of the Northwest Construction Institute, the courtyard built by the first project.",
+    "baichuan_en": "At first, I didn't know that the small West Lake was the area where the Construction Bureau was located, that is, the courtyard where the Northwest Construction Bureau is now located, where we participated in the construction of the first project.",
+    "gpt5shot_en": "I don't know that the small West Lake is on the side of the Construction Bureau. Now it is the courtyard of the Northwest Construction Bureau. It is the first project they built.",
+    "mistral_en": "At that time, I did not know that the small West Lake was the location of the Construction Bureau, which is now the courtyard of the Northwest Construction Bureau, that is, the courtyard of the first project of the Construction Bureau."
+  },
+  {
+    "id": 9580,
+    "file_id": 531,
+    "spoken_text": "您是年轻的时候做啥工作的？年轻的时候小的时候上学上到高中，当兵了哦。",
+    "context": "您今年高寿？大叔今年83岁。您是年轻的时候做啥工作的？年轻的时候小的时候上学上到高中，当兵了哦。在哪当哈兵的？那就404厂知道吧，知道知道哎，40河口有一个，地窝铺有一个。哦您是？我在那边当兵，警卫兵吗？警卫吗警卫。对哦您是哪一年当兵的？61年那时候您是多大岁数？20岁20岁，高中高中毕业的，没有毕业。赶上60年不想上了哦，我们十几个，哦十几个，有5个是高三了哦，其他都是高一初一初三。",
+    "written_text": "我年轻时上高中后参军了。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "年轻时我上学读到高中，后来参军了。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "年轻时我上学读到高中，然后去当兵了。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "您是年轻的时候做啥工作的？年轻时候小的时间上学上到高中，当兵了哦。",
+    "baichuan": "我年轻时在上高中，后来参军了。",
+    "gpt5shot": "年轻时，我上学到高中，然后参军了。",
+    "mistral": "我年轻时上到高中后参军了。",
+    "spoken_text_en": "What did you do when you were young? When I was young, I went to high school and became a soldier.",
+    "written_text_en": "I joined the army when I was young and in high school.",
+    "claude_5shot_en": "When I was young, I went to high school, and then I joined the army.",
+    "cs2w_en": "What did you do when you were young? When I was young, I went to high school and became a soldier.",
+    "baichuan_en": "I was in high school when I was young, and then I joined the army.",
+    "gpt5shot_en": "When I was young, I went to high school and joined the army.",
+    "mistral_en": "I joined the army when I was young and went to high school."
+  },
+  {
+    "id": 8123,
+    "file_id": 430,
+    "spoken_text": "好好好，再见再见，哎呀没想到到这个新华里，有个97岁的老阿婆，身体健康。",
+    "context": "弄堂里有这样一位长寿的老人，看着就让人高兴。再说她头脑清醒，不像有些人已经糊涂了。她头脑清醒，而且不爱管闲事，只专注于打理好自己的生活。我现在因为生病失去了自理能力，之前还患过脑梗。那么，我现在该怎么办呢？需要每天服药吗？确实需要每天服药，甚至把药当饭吃。年纪大了难免有些小毛病，基础疾病也都有，需要长期服药，甚至把药当饭吃。祝您身体健康。好好好，再见再见，哎呀没想到到这个新华里，有个97岁的老阿婆，身体健康。这真是一个宝啊，沪B·KT786脑子又清楚，样样吃得下睡得着，啥事不管。所以，有时候想，你们说真的锻炼有用吗？真的我也说不清楚。像这个阿婆也不锻炼也活到97岁，现在照样生活能自理，好了朋友们，我暂时分享到这里，再见。",
+    "written_text": "在新华里有一位97岁的老太太，她身体健康。",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "好了，再见！真没想到在新华里住着一位97岁的老奶奶，身体如此健康。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "真没想到在新华里有一位97岁的老太太，身体如此健康。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "没想到到这个新华里，有个97岁的老阿婆，身体健康。",
+    "baichuan": "在新华里有一位97岁高龄的老太太，她身体非常健康。",
+    "gpt5shot": "没想到在这个新华里，有一位97岁的老奶奶，身体健康。",
+    "mistral": "再见，没想到新华里有一位97岁的老太太，身体健康。",
+    "spoken_text_en": "Good, good, goodbye, goodbye, oh, I didn't expect that there was a 97-year-old old woman in Xinhua, who was in good health.",
+    "written_text_en": "There is a 97-year-old woman in Xinhua. She is in good health.",
+    "claude_5shot_en": "I didn't expect that there was a 97-year-old woman in Xinhua who was so healthy.",
+    "cs2w_en": "Unexpectedly, in this Xinhua, there is a 97-year-old old woman who is in good health.",
+    "baichuan_en": "There is a 97-year-old woman in Xinhua. She is very healthy.",
+    "gpt5shot_en": "Unexpectedly, in this Xinhua, there is a 97-year-old grandmother who is in good health.",
+    "mistral_en": "Goodbye, I didn't expect that there was a 97-year-old woman in Xinhua who was in good health."
+  },
+  {
+    "id": 3943,
+    "file_id": 214,
+    "spoken_text": "哦，5,000多少点啊，啊是不是少点。",
+    "context": "听您这么一说，看似工作很轻松，但实际上对精细度的要求非常高。确实，30年工龄才拿到这么点工资，这能有什么用呢？那时候在保密工厂工作，生产军用产品。我的工资不高，现在每月只有5000多元。哦，5,000多少点啊，啊是不是少点。属于四级部领导的电子管厂，是也祝这位大妈呢身体健康，万事如意。",
+    "written_text": "每月工资只有5000多元，确实有点少。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "哦，我每月就五千多元，这是不是太少了。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我的退休金是5000多元，是不是太少了？",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "5,000多少点，是不是少点。",
+    "baichuan": "每月5000元，这个数额是否有点少？",
+    "gpt5shot": "哦，5000多一点，是不是有点少。",
+    "mistral": "",
+    "spoken_text_en": "Oh, how much is 5,000? Oh, is it less.",
+    "written_text_en": "The monthly salary is only more than 5000 yuan, which is really a little small.",
+    "claude_5shot_en": "My pension is more than 5000 yuan. Is it too little?",
+    "cs2w_en": "How much is 5,000? Is it less.",
+    "baichuan_en": "Is the amount of 5000 yuan per month a little small?",
+    "gpt5shot_en": "Oh, a little more than 5,000. Isn't that a little less."
+  },
+  {
+    "id": 3775,
+    "file_id": 206,
+    "spoken_text": "住养老院就花了八九千，是啊您要没有这实力，您去不起那么好的养老院啊。",
+    "context": "您以前从事过哪些工作？我从事过各种工作，我觉得您的性格非常开朗。我之所以性格开朗，是因为经历过许多大事。我从事的是教育管理工作。我不是老师，我从事的是教育管理工作，负责管理教师，但我没有教过书。大爷，您现在的养老待遇怎么样？应该还不错吧，我估计每月有八九千元。住养老院就花了八九千，是啊您要没有这实力，您去不起那么好的养老院啊。大爷的工作以及收入呢，给人感觉深不可测。",
+    "written_text": "入住养老院每月需要花费八九千元，如果没有这样的经济实力，就无法负担如此高端的养老院。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "住养老院每月就需要八九千元，如果您没有这样的经济实力，确实无法入住这么好的养老院。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "仅住养老院就需要八九千元，如果您没有这样的经济实力，就无法入住这么好的养老院。",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "住养老院就花了八九千，是啊您要没有这实力，您去不起那么好的养老厅啊。",
+    "baichuan": "在养老院居住的费用大约需要八九千元。确实，如果没有这样的经济能力，是无法承担如此优质的养老院费用的。",
+    "gpt5shot": "住在养老院每月花费八九千元，如果没有这样的经济实力，就无法入住如此优质的养老院。",
+    "mistral": "每月住在那个好的养老院里花费八九千元，如果您没有这样的经济实力，就去不起那样的养老院。",
+    "spoken_text_en": "It costs eight or nine thousand yuan to live in a nursing home. Yes, if you don't have the strength, you can't afford to go to such a good nursing home.",
+    "written_text_en": "It costs eight or nine thousand yuan a month to live in a nursing home. Without such economic strength, you can't afford such a high-end nursing home.",
+    "claude_5shot_en": "It costs eight or nine thousand yuan to live in a nursing home alone. If you don't have such economic strength, you can't live in such a good nursing home.",
+    "cs2w_en": "It costs eight or nine thousand yuan to live in a nursing home. Yes, if you don't have the strength, you can't afford to go to such a good pension hall.",
+    "baichuan_en": "The cost of living in a nursing home is about eight or nine thousand yuan. Indeed, without such economic capacity, it is impossible to afford such a high-quality nursing home.",
+    "gpt5shot_en": "Living in a nursing home costs eight or nine thousand yuan a month. Without such economic strength, it is impossible to live in such a high-quality nursing home.",
+    "mistral_en": "Living in a good nursing home costs eight or nine thousand yuan a month. If you don't have such economic strength, you can't afford to go to such a nursing home."
+  },
+  {
+    "id": 8337,
+    "file_id": 448,
+    "spoken_text": "嗯，这个都是兰石厂，那是研究所的房子。",
+    "context": "当时工厂已经建好了，不过现在工厂和家属楼都拆除了。那时候大学的情况都差不多，我们工人的粮食定量更高，有30多斤，完全够吃，能吃饱。相比之下，干部的定量只有20多斤。那几年虽然实行口粮定量供应，但我们的生活条件很好。现在粮食肯定够吃，而且情况更好了，工厂已经搬迁到新区。现在的家属楼建成了花园小区，就在那边，这些都是兰石厂的房子。嗯，这个都是兰石厂，那是研究所的房子。对，阿姨，您那个过来了以后在兰石厂就做啥工作呢？描图员描图啊，描图还挺好的。后来是后来，58年下放到技校去念书去，哦，58年，五六年来的，58年又去到技校上学去了。下放了怎么叫下放？还下放到学校了，对哈哈，当工人了么就哦，到技校去读书去了啊。上了半年学就大炼钢铁了就，哦，那就是大炼钢铁就开始了嘛就，嗯，念了半年书就一直当工人呗。",
+    "written_text": "这些都是兰石厂的房子，那是研究所的房子。",
+    "error_type": [
+      4
+    ],
+    "claude_0shot": {
+      "translation": "这里全是兰石厂的建筑，那边的是研究所的房子。",
+      "error_type": [
+        1,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "这些都是兰石厂的房子，那边是研究所的房子。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "这是兰石厂，那是研究所的房子。",
+    "baichuan": "这些房子都是兰石厂的研究所建筑。",
+    "gpt5shot": "这些都是兰石厂的房子，那边是研究所的房子。",
+    "mistral": "这些都是兰石厂的房子，那是研究所的房子。",
+    "spoken_text_en": "Well, this is the Lanshi factory, and that is the house of the research Institute.",
+    "written_text_en": "These are the houses of Lanshi Factory, and that is the house of the research Institute.",
+    "claude_5shot_en": "These are the houses of Lanshi Factory, and over there is the house of the research Institute.",
+    "cs2w_en": "This is the Lanshi factory, and that is the house of the research Institute.",
+    "baichuan_en": "These houses are the research buildings of Lanshi Factory.",
+    "gpt5shot_en": "These are the houses of Lanshi Factory, and over there is the house of the research Institute.",
+    "mistral_en": "These are the houses of Lanshi Factory, and that is the house of the research Institute."
+  },
+  {
+    "id": 5708,
+    "file_id": 307,
+    "spoken_text": "我感觉好像您现在是耳不聋眼不花的。",
+    "context": "现在国家政策不是很好吗？是啊，现在没人赡养我们了，国家还在照顾我们。您今年高寿？已经九十多岁了吧？您今年92岁高龄了，真是令人惊叹啊！我感觉好像您现在是耳不聋眼不花的。哈哈，哦，30年生人这不九十二吗？30年30年，哎呦哎呦还没解放呢？没呢，解放那年我才19岁。咱们在解放我才十九岁，关城关城的时候那时候还傻呢。",
+    "written_text": "您看起来耳聪目明。",
+    "error_type": [
+      4
+    ],
+    "claude_0shot": {
+      "translation": "我觉得您现在耳聪目明，身体很好。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我看您现在耳聪目明，身体很好。",
+      "error_type": [
+        3
+      ]
+    },
+    "cs2w": "我感觉您现在是耳不聋眼不花的。",
+    "baichuan": "我觉得您现在耳聪目明。",
+    "gpt5shot": "我觉得您现在耳聪目明。",
+    "mistral": "我觉得您现在听力很好，视力也很好。",
+    "spoken_text_en": "I feel like you are not deaf or blind now.",
+    "written_text_en": "You seem to be able to hear and see.",
+    "claude_5shot_en": "I see you are in good health now.",
+    "cs2w_en": "I feel that you are not deaf or blind now.",
+    "baichuan_en": "I think you can hear and see now.",
+    "gpt5shot_en": "I think you can hear and see now.",
+    "mistral_en": "I think you have good hearing and good eyesight now."
+  },
+  {
+    "id": 8857,
+    "file_id": 481,
+    "spoken_text": "嗯拿我们当劳改犯了，我们这穿的啥都有，嗯乱都是，穿都不好啊，就是补丁补丁的。",
+    "context": "他们是在1954年正式转业的。您还记得1954年初到兰州时，兰州是什么样子吗？我们刚下火车时，发现那里连一条像样的路都没有，也不知道该找什么车才能把我们送到小西湖。我当时不知道小西湖就是建工局所在地，也就是现在的西北建工局大院，那是他们建设的第一个工程项目。在西北局总公司的院子里，我们不穿黄色衣服，他们把我们当作劳改犯。嗯拿我们当劳改犯了，我们这穿的啥都有，嗯乱都是，穿都不好啊，就是补丁补丁的。是工人吗嗯，他们拿着枪，我们得干活，他们把我们当劳改犯样了。怎么他们还拿枪呢，他们转业业还没正式转业呀，哦还没有正式转业啊。还没正式，他们到喽五四年，不是五五年正式5月份开始开始把这个军装啊什么符号(领章帽徽)啊枪啊哦都收了。这样的就是正式成正儿八经的成了工人，嗯那时候他们还穿着黄衣服。",
+    "written_text": "他们把我们当作劳改犯，我们穿的衣服五花八门，都很破旧，满是补丁。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "他们把我们当作劳改犯对待，我们穿着各式各样的衣服，非常杂乱，衣着破旧，到处是补丁。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "他们拿我们当劳改犯看待，我们衣着杂乱，穿着破旧，衣服上到处是补丁。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "拿我们当劳改犯了，我们这穿的啥都有，乱都是，穿都不好啊，就是补丁的。",
+    "baichuan": "他们把我们当作劳改犯对待，我们穿的衣服五花八门，都很破旧，到处都是补丁。",
+    "gpt5shot": "他们把我们当成劳改犯，我们穿的衣服五花八门，显得很乱，衣服都很破旧，都是补丁摞补丁的。",
+    "mistral": "他们把我们当作劳改犯，我们穿的衣服各种破旧，都加上了补丁，看起来很旧旧。",
+    "spoken_text_en": "Well, we are treated as prisoners of reform through labor. We wear everything here. Well, it's a mess. It's not good to wear. It's just patched.",
+    "written_text_en": "They treated us like prisoners, and we wore all kinds of clothes, all shabby and full of patches.",
+    "claude_5shot_en": "They treated us like prisoners of reform through labor. Our clothes were messy and shabby, and there were patches all over our clothes.",
+    "cs2w_en": "Take us as prisoners of reform through labor. We have everything to wear here. It's a mess. It's not good to wear. It's just patches.",
+    "baichuan_en": "They treated us like prisoners. We wore all kinds of clothes, which were shabby and full of patches.",
+    "gpt5shot_en": "They treated us as prisoners of reform through labor. We wore a variety of clothes, which looked very messy. The clothes were very shabby and patched.",
+    "mistral_en": "They treated us as prisoners of reform through labor, and we wore all kinds of shabby clothes with patches, which made us look very old."
+  },
+  {
+    "id": 4808,
+    "file_id": 262,
+    "spoken_text": "妈，您今年高寿啊？",
+    "context": "妈，您今年高寿啊？84，我83了，哎呦，到到这个春节84。那您这身体真棒，看着不行哈，这腿不行，因为我们这好在这待一会都冷。看您这坐半天都没事，哈哈哈，这穿的厚，是多，是这天还行，不算是特别冷没风他有。要有风我就不下来了，是哎呀没风都下来待会啊。",
+    "written_text": "母亲，请问您今年多大年纪了？",
+    "error_type": [],
+    "claude_0shot": {
+      "translation": "妈妈，您今年贵庚？",
+      "error_type": [
+        3
+      ]
+    },
+    "claude_5shot": {
+      "translation": "妈，您今年多大年纪了？",
+      "error_type": []
+    },
+    "cs2w": "妈妈，您今年多寿啊？",
+    "baichuan": "妈妈，您今年多大年纪了？",
+    "gpt5shot": "母亲，您今年多大年纪了？",
+    "mistral": "母亲，您今年多大年纪了？",
+    "spoken_text_en": "Mom, how old are you this year?",
+    "written_text_en": "Mother, how old are you this year?",
+    "claude_5shot_en": "Mom, how old are you?",
+    "cs2w_en": "Mom, how old are you this year?",
+    "baichuan_en": "Mom, how old are you this year?",
+    "gpt5shot_en": "How old are you, mother?",
+    "mistral_en": "How old are you, mother?"
+  },
+  {
+    "id": 7293,
+    "file_id": 413,
+    "spoken_text": "尝过可以的我就多抽几包，如果不灵我就到止结束。",
+    "context": "我喜欢购买各式各样的香烟，各种牌子的都会尝试。他会一次性拆开五包香烟，这个习惯确实有些奇怪，就是把所有香烟都拆开。你喜欢尝试各种品牌的香烟，比如遇到没抽过的就会买一包尝尝，我一定要尝试的。我一定要尝尝这个新出的产品，无论味道如何。尝过可以的我就多抽几包，如果不灵我就到止结束。最多尝包香烟因为这种口感不同的吗，对对对。酒我基本戒掉了，酒怎么戒？以前喝了多吗？多是不多但是瘾很大。吃相很难看的，因为为啥道理？这么呢？有时茶杯忘记有的。但是呢我有时候带个像人家电视里拍出来的一个不锈钢的罐酒的扁扁的这个东西。",
+    "written_text": "如果觉得味道不错，我就会多买几包；如果觉得不好，我就不再继续抽了。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "尝过之后若感觉良好，我就会多购买几包；如果不合口味，我就会到此为止。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "如果口感好的话，我会多买几包；如果不行，就到此为止。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "尝过可以的我就多抽几包，如果不灵我就到止结束。",
+    "baichuan": "如果感觉不错，我会多抽几包；如果口感不佳，就抽完这一包为止。",
+    "gpt5shot": "如果觉得不错，我就多抽几包；如果不喜欢，我就此作罢。",
+    "mistral": "如果尝试后觉得可以的话，我就会多抽几包；如果不喜欢，就会立即停止。",
+    "spoken_text_en": "If I can taste it, I will smoke a few more bags. If it doesn't work, I will stop at the end.",
+    "written_text_en": "If it tastes good, I'll buy more. If it doesn't taste good, I won't smoke any more.",
+    "claude_5shot_en": "If the taste is good, I'll buy a few more packs; if not, I'll stop there.",
+    "cs2w_en": "If I can taste it, I will smoke a few more bags. If it doesn't work, I will stop at the end.",
+    "baichuan_en": "If it feels good, I'll smoke a few more packs; if it doesn't taste good, I'll finish the pack.",
+    "gpt5shot_en": "If I like it, I'll smoke more. If I don't like it, I'll give up.",
+    "mistral_en": "If I try it and think it's okay, I'll smoke a few more packs; if I don't like it, I'll stop immediately."
+  },
+  {
+    "id": 389,
+    "file_id": 73,
+    "spoken_text": "你看看这是团长和政委接见他，然后他们就在那边，他教那些军校的学员，一边教一边建校。",
+    "context": "在抗美援朝时期，我们的部队曾抵达三八线，并在那里与美军作战。我来自山东，今年92岁，15岁时加入毛主席领导的军队，后来参加了抗美援朝战争。他向领导建议我应该学习一些知识，于是领导派他前往昌平的军校担任教官。你看看这是团长和政委接见他，然后他们就在那边，他教那些军校的学员，一边教一边建校。这学校就现在这学校是他建建的，这是校史馆，他的这个照片和事纪都在校史馆里有。他这耳朵好使，他92了今年他参加过抗美援朝，淮海战役四平他参加过很多战役。一场战役下来就剩六个人，剩下都牺牲了，条幅是为他做的，热烈欢迎抗美援朝战斗英雄回校参观。对，朝鲜当了两年，上海南京这些地方都都去了，我在朝鲜主要是在东线。",
+    "written_text": "这是团长和政委接见他的场景，随后他在那边教导军校学员，同时参与学校的建设工作。",
+    "error_type": [
+      2
+    ],
+    "claude_0shot": {
+      "translation": "这张照片展示的是团长和政委接见他，随后他被派往那里，一边教导军校学员，一边参与学校的建设工作。",
+      "error_type": [
+        3
+      ]
+    },
+    "claude_5shot": {
+      "translation": "这张照片是团长和政委接见他的场景，随后他就在那里一边教导军校学员，一边参与学校的建设工作。",
+      "error_type": [
+        3
+      ]
+    },
+    "cs2w": "你看看这是团长和政委接见他，然后他们就在那边，教那些军校的学员，一边教一边建校。",
+    "baichuan": "团长和政委接见了他，随后他在那里任教，一边教学一边建校。",
+    "gpt5shot": "你看，这是团长和政委接见他，然后他们在那里，他一边教那些军校的学员，一边建设学校。",
+    "mistral": "团长和政委接见他后，他就在那边教授军校学员，同时参与校园建设。",
+    "spoken_text_en": "You see, the regimental commander and the political commissar met him, and then they were over there. He taught the cadets of the military Academy, and built the school while teaching.",
+    "written_text_en": "This is the scene where the regimental commander and the political commissar met him, and then he taught the cadets there and participated in the construction of the school.",
+    "claude_5shot_en": "This photo shows the regimental commander and political commissar meeting him, where he taught cadets and participated in the construction of the school.",
+    "cs2w_en": "You see, the regimental commander and the political commissar met him, and then they were over there, teaching the cadets of the military Academy, building the school while teaching.",
+    "baichuan_en": "He was received by the regimental commander and the political commissar, and then he taught there, building the school while teaching.",
+    "gpt5shot_en": "You see, this is the regimental commander and the political commissar who met him, and then they were there, and he was teaching the cadets of the military Academy while building the school.",
+    "mistral_en": "After the regimental commander and the political commissar met him, he taught cadets there and participated in the construction of the campus."
+  },
+  {
+    "id": 9838,
+    "file_id": 544,
+    "spoken_text": "您觉得就是在朝鲜待的那几年，苦不苦嗨？苦苦的要命，那时候不打仗了。",
+    "context": "大叔，您今年高寿？我属牛，1937年出生，今年87岁。哦，我是1955年参军的。我于1958年回国，1959年到兰石厂工作。您于1955年赴朝鲜，1958年回国，当时已经停战了。停战后，我们在朝鲜帮助当地恢复建设。您觉得就是在朝鲜待的那几年，苦不苦嗨？苦苦的要命，那时候不打仗了。就是不打仗一样的要军训的，那那个还要战，战备啊，战备啊那美国人说话不算数的。嗯呢，到时候一说再打就又打起来了，对那时候还是要准备再打，是不是？那准备再打了，那我我们都给他准备好了的，他要再打的话，那就没有他好下场。是吧，那就要把他赶下海洋去哦，一切准备工作都做得好。",
+    "written_text": "在朝鲜的那几年非常艰苦，虽然当时已经停战了。",
+    "error_type": [],
+    "claude_0shot": {
+      "translation": "您觉得在朝鲜待的那几年，苦不苦？非常苦，那时候虽然已经不打仗了。",
+      "error_type": [
+        1,
+        3,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "您认为在朝鲜待的那几年很苦吗？确实非常痛苦，虽然那时候已经停止战争了。",
+      "error_type": [
+        3
+      ]
+    },
+    "cs2w": "您觉得在朝鲜待的那几年，苦不苦？苦的要命，那时候不打仗了。",
+    "baichuan": "在朝鲜的那几年非常艰苦，虽然当时已经停战了。",
+    "gpt5shot": "您觉得在朝鲜待的那几年，辛苦吗？非常辛苦，那时候虽然不再打仗了。",
+    "mistral": "在朝鲜的那几年非常艰苦，虽然当时已经停战了。",
+    "spoken_text_en": "Do you think it was hard to stay in North Korea for several years? It was so hard that there was no war at that time.",
+    "written_text_en": "The years in Korea were very difficult, even though there was an armistice.",
+    "claude_5shot_en": "Do you think the years in North Korea were hard? It was very painful indeed, although the war had stopped at that time.",
+    "cs2w_en": "Do you think the years in North Korea were hard? It was so bitter that there was no war at that time.",
+    "baichuan_en": "The years in Korea were very difficult, even though there was an armistice.",
+    "gpt5shot_en": "Do you think it was hard to stay in North Korea for a few years? It was very hard, although there was no more war at that time.",
+    "mistral_en": "The years in Korea were very difficult, even though there was an armistice."
+  },
+  {
+    "id": 8139,
+    "file_id": 439,
+    "spoken_text": "我在农村，是生产队里面的记工员呐，当时的记工员。",
+    "context": "但当时大队的干部说，这两个人不让走，一个是我，还有一个是别人。这两个人不让走，还准备开单子呢，结果就走了。人的命运就是这样难以预料，早一分晚一分都可能改变结果。结果正好在办理手续时，那位干部来了，之后便留在农村，一待就是60年，一直在农村劳动。我在农村，是生产队里面的记工员呐，当时的记工员。哎，村里边劳社员不是都劳动着呢吗，嗯，每每天评工分呢吗？对，给你评10分，给他评8评9分，评上我就写上。你这是有文化的人呗，哎，到年终上以后，就给你把这工分集中起来，按每日结算，就干这个活着。在农村又待了两年，待了两年，我感觉确实实在没办法，我自己一个人呢，就跑到兰州。",
+    "written_text": "我在农村时，担任生产队的记工员，负责记录工分。",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "我在农村是生产队的记工员，负责记录当时社员的工分。",
+      "error_type": [
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我在农村担任生产队的记工员。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "我在农村，是生产队里面的记工员。",
+    "baichuan": "我曾在农村担任生产队的记工员，负责记录工分。",
+    "gpt5shot": "我在农村担任生产队的记工员。",
+    "mistral": "我在农村时，担任生产队的记工员。",
+    "spoken_text_en": "I was in the countryside, and I was a clerk in the production team, and I was a clerk at that time.",
+    "written_text_en": "When I was in the countryside, I served as a clerk in the production team and was responsible for recording work points.",
+    "claude_5shot_en": "I work as a clerk in the production team in the countryside.",
+    "cs2w_en": "I am in the countryside, and I am a clerk in the production team.",
+    "baichuan_en": "I used to work as a production team clerk in the countryside, responsible for recording work points.",
+    "gpt5shot_en": "I work as a clerk in the production team in the countryside.",
+    "mistral_en": "When I was in the countryside, I worked as a clerk in the production team."
+  },
+  {
+    "id": 1148,
+    "file_id": 100,
+    "spoken_text": "做辅导员，辅导员最后完了事，退了以后就就当主任了，我现在教的学生都70多岁。",
+    "context": "否则我就去当孩子王了。您最早是教什么学科的呢？最初我负责两个毕业班的教学工作，后来担任了主任职务。学校的领导询问我是教数学还是语文，实际上当时教师都是全科教学。现在五年级的数学内容我们过去都能完全掌握，但现在的五年级学生，你还能理解他们的新教材吗？我还没告诉你，我教完毕业班后就不再担任教学工作了。主任之前是少先队辅导员，年轻时还是一名共青团员。做辅导员，辅导员最后完了事，退了以后就就当主任了，我现在教的学生都70多岁。那您您可不是吗？我们以前那老师比我大个六七岁，就那您那个能能能推着车活动，跟您那个文化程度哈哈哈。回家您是不是看看书什么的？回家啊有报纸报纸了，每天晚上回去看晚报，现在我发现就是这老人一个问题。他都不看手机，有手机啊？不是他不看他就买报纸，我就习惯看报纸，这这这怎么得认识这字啊。你老不看那字我全都忘了哈哈哈，那您现在就从那退了您能拿多少？我现在当老师拿的8,100行不多。",
+    "written_text": "担任少先队辅导员工作结束后，退休前又担任了主任职务，我现在教过的学生都已70多岁了。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "担任辅导员工作结束后，我退居二线就担任了主任职务，现在我曾经教过的学生都已经七十多岁了。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我担任辅导员工作结束后退下来，就开始担任主任职务了，现在我曾经教过的学生都已经七十多岁了。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "做辅导员最后完了事，退了以后就当主任了，我现在教的学生都70多岁。",
+    "baichuan": "我最初担任少先队辅导员，后来卸任后担任主任职务，现在教授的学生都已年过七旬。",
+    "gpt5shot": "担任辅导员后，我完成了相关工作，退休后就成为了主任，现在我教的学生都已经七十多岁了。",
+    "mistral": "我曾担任辅导员，后来辅导员任务结束后，退休后就担任主任职务。我现在教的学生都已经70多岁了。",
+    "spoken_text_en": "As a counselor, the counselor finally finished his work and became the director after he retired. The students I teach now are all over 70 years old.",
+    "written_text_en": "After working as a Young Pioneer Counselor, I served as a director before retirement, and the students I have taught are all over 70 years old.",
+    "claude_5shot_en": "After I finished my work as a counselor, I retired and began to serve as a director. Now the students I have taught are over seventy years old.",
+    "cs2w_en": "When I finally finished my work as a counselor, I retired and became a director. The students I teach now are all over 70 years old.",
+    "baichuan_en": "I first served as a young pioneer counselor, then as a director after leaving office, and now the students I teach are all over seventy years old.",
+    "gpt5shot_en": "After serving as a counselor, I completed the relevant work and became a director after retirement. Now the students I teach are over seventy years old.",
+    "mistral_en": "I used to be a counselor, and then after the end of the counselor's task, I retired as a director. The students I teach now are over 70 years old."
+  },
+  {
+    "id": 1898,
+    "file_id": 135,
+    "spoken_text": "增加免疫力，增加抵抗力了，这是最大的收获，看您这精神状态真棒。",
+    "context": "您真是太厉害了，活动腿脚非常灵活，健康确实是最重要的，维护健康确实至关重要。拥有健康的体魄，才能感受到幸福。健康是\"1\"，其他都是\"0\"。您坚持锻炼多少年了？我从55岁退休至今已有十年，今年66岁了，坚持锻炼让我受益匪浅。其中最大的收获是什么？这三年疫情期间，我一直没有感染新冠病毒。为什么能做到呢？增加免疫力，增加抵抗力了，这是最大的收获，看您这精神状态真棒。没病不是健康，自个不受罪，不给家人找麻烦，这是最大的目标。非得说还得勾着点脚是吧，勾着脚先压腿，这是后踢啊，压腿，压完了再踢。练这个适合我，适合自己的就是最好的，您怎么摸索出来的这个？这是跟人学的方法啊，有上百种方法，你挑几种适合你的啊，每个人都不一样，筋骨都不一样。",
+    "written_text": "增强免疫力和抵抗力是最大的收获，您的精神状态看起来非常好。",
+    "error_type": [
+      4
+    ],
+    "claude_0shot": {
+      "translation": "通过锻炼增强了免疫力和抵抗力，这是我最大的收获，从您现在的精神状态就能看出效果很好。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "坚持锻炼增强了我的免疫力和抵抗力，这是我最大的收获，也是我保持良好精神状态的原因。",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "增加抵抗力了，这是最大的收获，看您这精神状态真棒。",
+    "baichuan": "最大的收获是增强了免疫力和抵抗力，看到您如此精神矍铄真是令人欣慰。",
+    "gpt5shot": "增强了免疫力和抵抗力，这是最大的收获。看您的精神状态真是好极了。",
+    "mistral": "增强免疫力和抵抗力是最大的收获，您的精神状态非常好。",
+    "spoken_text_en": "Increase immunity, increase resistance, this is the biggest harvest, look at your mental state is great.",
+    "written_text_en": "Enhancing immunity and resistance is the biggest gain, and your mental state looks very good.",
+    "claude_5shot_en": "Insisting on exercise strengthens my immunity and resistance, which is my greatest gain and the reason why I keep in good spirits.",
+    "cs2w_en": "Increased resistance, this is the biggest gain, look at your mental state is great.",
+    "baichuan_en": "The biggest gain is to enhance the immunity and resistance, and it is gratifying to see you so energetic.",
+    "gpt5shot_en": "It strengthens immunity and resistance, which is the biggest gain. Look at your state of mind.",
+    "mistral_en": "Enhancing immunity and resistance is the biggest gain, and your mental state is very good."
+  },
+  {
+    "id": 8085,
+    "file_id": 436,
+    "spoken_text": "哎呀，吓人啊，这间房间有半间垃圾，这个地方许多垃圾，这样下去以后不可收拾。",
+    "context": "叔叔，我们去看一下您刚才提到的那个房间在哪里？就在前面，这里太拥挤了。这是您小儿子居住的房间，您的儿子向您问好，请您坐下休息。好的。兄弟，你可能不知道，我用东西把这里封起来是因为每天晚上黄鼠狼和老鼠打架打得很厉害。哎呀，吓人啊，这间房间有半间垃圾，这个地方许多垃圾，这样下去以后不可收拾。这里吓人吗？吓人的，黄鼠狼也会进来的，是吗？黄鼠狼跑家里？那怎么办？黄鼠狼就抓老鼠，老鼠多黄鼠狼就来了，原来没黄鼠狼。家里老鼠多，原来家里十几个老鼠，哎呀呀呀呀，听的我，黄鼠狼来了老鼠没了。每天晚上像造反样，黄鼠狼有臭味？黄鼠狼放个屁比什么都臭，嗯是呀。",
+    "written_text": "这间房间有一半堆满了垃圾，地上也有很多垃圾，再这样下去会难以收拾。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "天啊，真吓人，这间房间有一半都是垃圾，这个地方堆满了垃圾，如果继续这样下去将会变得无法收拾。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "天哪，真吓人！这间房间堆满了垃圾，几乎占了一半空间。如果继续这样下去，将来就无法收拾了。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "哎呀，吓人啊，这间房间有半间垃圾，这个地方许多废弃物，这样下去以后不可收拾。",
+    "baichuan": "这间房间有一半堆满了垃圾，这个地方到处都是垃圾，这样下去实在无法收拾。",
+    "gpt5shot": "哎呀，真是吓人，这间房间有一半是垃圾，这个地方堆满了垃圾，这样下去以后会变得不可收拾。",
+    "mistral": "这间房间有一半是垃圾，地上也堆满了垃圾，如果不及时清理，就会难以收拾。",
+    "spoken_text_en": "Oh, it's scary. There is half of the garbage in this room. There is a lot of garbage in this place. It will be out of control if it goes on like this.",
+    "written_text_en": "Half of the room was full of rubbish, and there was a lot of rubbish on the floor, which would be difficult to clean up if it went on like this.",
+    "claude_5shot_en": "My God, it's so scary! The room was so full of rubbish that it took up almost half of the space. If it goes on like this, it will be out of control in the future.",
+    "cs2w_en": "Oh, it's scary. There's half a room full of rubbish in this room. There's a lot of rubbish in this place. It will be out of control if it goes on like this.",
+    "baichuan_en": "Half of the room is full of rubbish. The place is full of rubbish. It's impossible to clean up like this.",
+    "gpt5shot_en": "Oh, that's scary. This room is half full of garbage. This place is full of garbage. It's going to be out of control.",
+    "mistral_en": "Half of the room is garbage, and the floor is full of garbage. If it is not cleaned up in time, it will be difficult to clean up."
+  },
+  {
+    "id": 4278,
+    "file_id": 240,
+    "spoken_text": "是啊那您之前您是做什么工作的，就是搞药的哦，一直是在药药行。",
+    "context": "远远地就看见您了，您平时总待在家里，很少出门，最近才出来几次。大妈，您今年七十三周岁了吧？那您是和祖国同龄的人，您是知青吗？我不是。我于1965年初中毕业，之后上了中专，因此没有下乡，只差一届就该轮到我下乡了。是啊那您之前您是做什么工作的，就是搞药的哦，一直是在药药行。高中毕业参加的工作中专中专，那时候中专相当于现在的大学，这不是中专就是中专。你看我们啊，高中上同班同学，有的上高中准备考大学就插队了，是就整个就耽误了。中专就去他都定向培养哦，您中专学的什么专业，学中药我是同仁堂的。就是分配就是分的同仁堂，大栅栏同仁堂，后来文成立什么同仁堂总广啊，我又上药厂。",
+    "written_text": "是的，您之前从事什么工作？是在制药行业工作吗？您一直在制药行业工作。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "是啊，那您之前是做什么工作的？是从事药品行业的，一直在药行工作。",
+      "error_type": [
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "是的，您之前是做什么工作的？我了解到您一直在药行工作。",
+      "error_type": [
+        1,
+        3,
+        4
+      ]
+    },
+    "cs2w": "是啊那您之前您是做什么工作的，就是搞药的，一直是在药行。",
+    "baichuan": "是的，您之前从事什么工作？是从事药品相关工作的吧？您一直在药行工作。",
+    "gpt5shot": "您之前是从事药品相关工作的，一直在药行工作。",
+    "mistral": "是的，您之前是做什么工作的？是在从事药品行业的工作吗？您一直在药品行业工作。",
+    "spoken_text_en": "Yes, what did you do before? I was engaged in medicine. I was always in the pharmacy.",
+    "written_text_en": "Yes, what did you do before? Do you work in the pharmaceutical industry? You have been working in the pharmaceutical industry.",
+    "claude_5shot_en": "Yes, what did you do before? I understand you've been working in a pharmacy.",
+    "cs2w_en": "Yes, what did you do before? I was engaged in medicine. I was always in the pharmacy.",
+    "baichuan_en": "Yes, what did you do before? Is engaged in drug-related work, right? You've been working in a pharmacy.",
+    "gpt5shot_en": "You were engaged in drug-related work before, and you have been working in the pharmacy.",
+    "mistral_en": "Yes, what did you do before? Are you working in the pharmaceutical industry? You have been working in the pharmaceutical industry."
+  },
+  {
+    "id": 36,
+    "file_id": 57,
+    "spoken_text": "您这当年从事的都是重体力的工作呀，都重体力呀，那多大您参加的工作呀20来岁，20。",
+    "context": "大妈，您今年88岁了，看您身体还不错，只是腿脚不太方便。您年轻时在运输公司从事装卸工作，是一名装卸工。我们装卸的货物包括沙子、砖块、白灰和粮食等。大妈，装卸工作通常由男同志承担较多，但从事这项工作的女同志也不少。您这当年从事的都是重体力的工作呀，都重体力呀，那多大您参加的工作呀20来岁，20。这么干一天您受得了吗，受不了得受受得了得，我跟你说您别忘了这些话。累啊苦啊都能受啊，享福一般俩享不了，哈哈哈我说这你信不信那。为什么你说享福享不了，享福吃多了你受不了，你受得了吗，是你这罪可能都能受哦。罪倒都能受对，你没逼到你那逼到你那你就能干。",
+    "written_text": "您当年从事的都是重体力工作，您多大年纪参加工作的？20来岁，20岁。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "您当年从事的都是重体力工作，那么您是在20岁左右开始参加工作的吗？",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "您当年从事的都是重体力工作，那是在您多大年纪参加工作的呢？20岁左右吧。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "您这当年从事的都是，都重体力，那多大您参加的工作呀20来岁，20。",
+    "baichuan": "您当年从事的是重体力劳动，那么您多大年纪开始工作的？大约20岁吧。",
+    "gpt5shot": "您当年从事的都是重体力工作，您是多大开始参加工作的呢？大约20岁。",
+    "mistral": "您当年从事的都是重体力劳动，那么您参加工作时多大年纪？大约20岁。",
+    "spoken_text_en": "You were engaged in heavy physical work in those years. It was heavy physical work. How old were you when you took part in the work? 20 years old.",
+    "written_text_en": "You were engaged in heavy physical work at that time. How old were you when you joined the work? About 20 years old. 20 years old.",
+    "claude_5shot_en": "You were engaged in heavy physical work at that time. How old were you when you joined the work? About 20 years old.",
+    "cs2w_en": "You were engaged in heavy physical strength in those years. How old were you when you took part in the work? I was 20 years old.",
+    "baichuan_en": "You were engaged in heavy physical labor, so how old were you when you started working? About 20 years old.",
+    "gpt5shot_en": "You were engaged in heavy physical work at that time. When did you start working? About 20 years old.",
+    "mistral_en": "You were engaged in heavy physical labor, so how old were you when you joined the work? About 20 years old."
+  },
+  {
+    "id": 2759,
+    "file_id": 162,
+    "spoken_text": "还有这老师傅吗？坐轮椅的啊，那俩也是，都是，都是航天人人才。",
+    "context": "您自己走路没问题吧？我走路还行，慢慢走。那做饭之类的事情呢？我听老伴的。老伴照顾您应该没问题，我们互相照顾。老伴是不是也80多岁了？我们年龄相仿。是的，下班了，我还要整理一下东西，活动活动身体。您没有骑车吗？这个年纪的人大多还在骑车，怎么大家都会骑车呢？我们这群人都骑车离开了吗？还有这老师傅吗？坐轮椅的啊，那俩也是，都是，都是航天人人才。对对人才不人才反正是，都为航天做了贡献，您退休20多年了啊？有了。是也是60岁退休吧？对60，像咱们这个航天人退休的话是不是待遇好一点？都差不多。那每个月要退休收入的话能有多少？哎四五千块钱，那比我想象的要少很多啊。哎呀退休了，你给国家没有贡献了，还给你多少钱呢，但是这一般的那个那什么。",
+    "written_text": "还有这位老师傅，坐轮椅的，那两位也是航天人才。",
+    "error_type": [
+      2
+    ],
+    "claude_0shot": {
+      "translation": "坐轮椅的老师傅和那两位也都是航天系统的人才。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "坐轮椅的那位老师傅，还有那两位，他们都是航天系统的人才。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "还有这老师傅吗？坐轮椅的，那俩也是，都是航天人才。",
+    "baichuan": "还有一位老师傅，他坐在轮椅上，那两位也是航天领域的优秀人才。",
+    "gpt5shot": "还有那位老师傅吗？坐轮椅的，那两位也是，都是航天人才。",
+    "mistral": "还有这位老师傅吗？他们两个都坐轮椅，他们也都是航天工程的技术人才。",
+    "spoken_text_en": "Is there this old master? Wheelchair. So are those two. Both of them are astronauts.",
+    "written_text_en": "And this old master, who is in a wheelchair, and those two are also aerospace talents.",
+    "claude_5shot_en": "The old master in the wheelchair, and the two, they are all talents in the aerospace system.",
+    "cs2w_en": "Is there this old master? Those in wheelchairs, too, are both aerospace talents.",
+    "baichuan_en": "There is also an old master who is sitting in a wheelchair, and those two are also outstanding talents in the field of aerospace.",
+    "gpt5shot_en": "Is there an old master? Those in wheelchairs, too, are both aerospace talents.",
+    "mistral_en": "Is there this old master? Both of them are in wheelchairs, and they are also technical talents in space engineering."
+  },
+  {
+    "id": 8472,
+    "file_id": 458,
+    "spoken_text": "朝鲜战争的胜利靠什么？就是靠炸药包，手榴弹才把美国鬼子打下去，嗯我们是在第一线呢，亲自看到了。",
+    "context": "1950年10月至1951年期间，我在司令部办公室担任通讯员。由于勤奋好学，我荣立三等功，加入中国共产主义青年团，并担任警卫班班长。1952年7月至9月间，我们抵达丹东参加抗美援朝，在丹东停留5天后，部队全部进驻上甘岭附近的元山地区。我们携带了压缩饼干和水壶，当水喝完时，我就吃过用雪拌炒面的食物。在上甘岭战役期间，我们被派往前线。当时水源匮乏，只能携带压缩饼干充饥。不过我们留守司令部时，饮食条件还算可以。朝鲜战争的胜利靠什么？就是靠炸药包，手榴弹才把美国鬼子打下去，嗯我们是在第一线呢，亲自看到了。您在朝鲜待了几年？52年去的，52年53年12月份停战完以后，我回来到丹东厂。55年4月1号，我们丹东厂集体转业交给了一机部，哦一机部，又在57年志愿军全部回来了。嗯那个厂又交给了，成立了丹东汽车改装厂，哦搞军工改装车，我们那时候的军工改装车，有海军军代表，有空军的，工程兵的那个有总后的，有89个军代表。我是搞销售的，我对他们说我签合同，订合同，发车单位都在那，我们厂不保密，我们的军工产品使用单位保密。",
+    "written_text": "朝鲜战争的胜利依靠的是炸药包和手榴弹，正是这些武器将美军击退。当时我们身处前线，亲眼目睹了这一切。",
+    "error_type": [
+      2
+    ],
+    "claude_0shot": {
+      "translation": "朝鲜战争的胜利靠什么？就是靠炸药包和手榴弹才把美军击退。我们当时就在前线，亲眼目睹了这一切。",
+      "error_type": [
+        3,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "朝鲜战争的胜利主要依靠炸药包和手榴弹才击退了美军，我们在前线亲眼目睹了这一切。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "朝鲜战争的胜利靠什么？就是靠炸药包，手榴弹才把美国鬼子打下去，我们是在第一线呢，亲自看到了。",
+    "baichuan": "朝鲜战争的胜利依靠的是炸药包和手榴弹，正是这些武器将美军击退。我们身处第一线，亲眼目睹了这一切。",
+    "gpt5shot": "朝鲜战争的胜利依靠的是炸药包和手榴弹，我们在前线亲眼见证了这一切。",
+    "mistral": "朝鲜战争的胜利靠什么？就是靠炸药包和手榴弹才把美军打下来。我们当时在第一线，亲眼目睹了这一切。",
+    "spoken_text_en": "What did the victory of the Korean War depend on? It was with explosive bags and grenades that the American devils were beaten down. Well, we were on the front line, and we saw it in person.",
+    "written_text_en": "The victory in the Korean War depended on explosive bags and grenades, and it was these weapons that repelled the American army. We were on the front line, and we saw it with our own eyes.",
+    "claude_5shot_en": "The victory of the Korean War mainly relied on explosive bags and grenades to repel the U.S. Army, which we witnessed on the front line.",
+    "cs2w_en": "What did the victory of the Korean War depend on? It was with explosive bags and grenades that the American devils were beaten down. We were on the front line, and we saw it in person.",
+    "baichuan_en": "The victory in the Korean War depended on explosive bags and grenades, and it was these weapons that repelled the American army. We were on the front line and saw it for ourselves.",
+    "gpt5shot_en": "Victory in the Korean War depended on explosive bags and grenades, which we witnessed on the front line.",
+    "mistral_en": "What did the victory of the Korean War depend on? It was with explosive bags and grenades that the Americans were shot down. We were on the front line and we saw it with our own eyes."
+  },
+  {
+    "id": 1684,
+    "file_id": 117,
+    "spoken_text": "那您是多大您参加的工作？得一十十八吧，也是高中毕业。",
+    "context": "您看起来不像九十一岁，听您这么一说，我真是吓了一跳。我年轻时是第三建筑公司的工人。那您是多大您参加的工作？得一十十八吧，也是高中毕业。我那时候哪有上学，没没上过学，那农村哪哪哪哪学校啊。我来北京来的早，我爷爷都在带我上北京来了，老家现在是保底，属于天津管哦天津那边。那那这真是不错呀，那一看您年轻时候好这不容易啊。当时哈哈经历过大事这个，哎哎这这这，那真我们没经历过。",
+    "written_text": "您参加工作时多大年纪？应该是十八岁，那时我刚高中毕业。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "您是多大年龄开始参加工作的？大概十八岁吧，也是高中毕业后。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "您参加工作时是多大岁数？大约十八岁吧，也是高中毕业的。",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "那您是多大您参加的工作？得一十八吧，也是高中毕业。",
+    "baichuan": "您参加工作时多大年纪？大约十五八岁，也是高中毕业。",
+    "gpt5shot": "您参加工作时应该是十八岁吧，也是高中毕业。",
+    "mistral": "您参加工作时多大年龄？大约十八岁，也是高中毕业生。",
+    "spoken_text_en": "How old were you when you joined the work? It must be eighteen, and I also graduated from high school.",
+    "written_text_en": "How old were you when you started working? It would have been eighteen. I had just graduated from high school.",
+    "claude_5shot_en": "How old were you when you started working? About 18 years old, graduated from high school, too.",
+    "cs2w_en": "How old were you when you joined the work? It's eighteen, and I graduated from high school.",
+    "baichuan_en": "How old were you when you started working? He was about fifteen or eighteen years old and graduated from high school.",
+    "gpt5shot_en": "You should be eighteen years old when you joined the work, and you also graduated from high school.",
+    "mistral_en": "How old were you when you started working? About eighteen years old, also a high school graduate."
+  },
+  {
+    "id": 40,
+    "file_id": 57,
+    "spoken_text": "罪倒都能受对，你没逼到你那逼到你那你就能干。",
+    "context": "您当年从事的都是重体力工作，您多大年纪参加工作的？20来岁，20岁。您能承受这样一天的工作强度吗？无论能否承受，您都必须坚持下去。请记住这些话。再苦再累我都能承受，但享福却往往无福消受。您说这话可信吗？为什么你说自己无法享受清福，享福太多反而让你难以承受？或许你能忍受苦难，却未必能消受福分。罪倒都能受对，你没逼到你那逼到你那你就能干。哎呦那您当时来讲家里几个孩子呀，两个，男一女对，那您这凑成好字啊。那会找工作去啊，好找是好找，又没有文化，哪有文化呀没文化。您能找一个轻松点的呀，找个轻松后来上车间，在装卸队待了一年又上车间，修理工去。哦修理这块，对，修理也是修理机械机械嘛，四轮机械。",
+    "written_text": "苦难确实都能承受，但若没有被逼到绝境，你就不知道自己能做到什么程度。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "苦难我都能承受，只要您不强迫我做什么，我就能做自己能做的事情。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "苦难倒是能够忍受，只有在迫不得已的情况下，你才会拼尽全力去做。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "cs2w": "罪倒都能受对，你没逼到你那你就能干。",
+    "baichuan": "苦难确实可以承受，但如果没有逼迫到极限，你是无法坚持的。",
+    "gpt5shot": "即使再多的苦难我都能承受，但当你被逼到极限时，你就能做到。",
+    "mistral": "无论罪过多寡，都能承受；只要不是自己主动去追求，就能坚持下去。",
+    "spoken_text_en": "You can bear all the sins. Yes, you can do it if you don't force you.",
+    "written_text_en": "It's true that suffering can be endured, but if you're not driven to a desperate situation, you don't know how far you can go.",
+    "claude_5shot_en": "Suffering can be endured, and you will only do your best if you have to.",
+    "cs2w_en": "It's okay to suffer. You can do it if you don't force you.",
+    "baichuan_en": "Suffering is bearable, but if you don't push it to the limit, you can't hold on.",
+    "gpt5shot_en": "No matter how much suffering I can bear, when you are pushed to the limit, you can do it.",
+    "mistral_en": "No matter how many sins, can bear; as long as it is not their own initiative to pursue, can persist."
+  },
+  {
+    "id": 6463,
+    "file_id": 362,
+    "spoken_text": "北京的半年啊就特别热销的牌子，热销的高中档啊，就是就是3两万以上那样的。",
+    "context": "近年来，骑行逐渐成为一种发展趋势，参与人数持续增长。过去参与骑行的大多是退休人员，但今年中青年群体也开始加入了。今年，沈阳和北京的自行车销量特别好。尤其是中高档自行车这类优质车型，通常需要提前预约，最快也要等上半年才能买到。北京的半年啊就特别热销的牌子，热销的高中档啊，就是就是3两万以上那样的。再一个我听说就是沈阳这个骑行环境好，就是像这么好的不多，这个漫道没有咱们这个这个，这个地方这个条件呢。全国来讲也是一流的啊，比北京都好啊，北京的自行车道太太短了。就是这个骑行漫道大概能有多少公里，也得有七80公里，差不多这一大圈就八十公里吧。这骑习惯了，感觉这个冷不丁不骑还不得劲啊啊，这是老年比较好的一个健身方式是吧，嗯挺好。",
+    "written_text": "北京的中高档自行车特别热销，尤其是价格在三万元以上的品牌，通常需要等待半年才能买到。",
+    "error_type": [
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "在北京，特别热销的是中高档自行车品牌，价格在三万元以上的那类车型需要等半年才能买到。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "北京那些特别热销的牌子，尤其是售价两万元以上的中高档自行车，通常需要半年时间才能买到。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "北京的半年，特别热销的高中档，就是3两万以上那样的。",
+    "baichuan": "北京的中高档自行车（售价在3万元以上）特别热销。",
+    "gpt5shot": "在北京，半年内特别畅销的品牌主要是中高档的，价格在三万元以上。",
+    "mistral": "北京的中高档自行车特别热销，尤其是价格在三万元以上的品牌，通常需要等待半年才能购买。",
+    "spoken_text_en": "In the first half of the year in Beijing, the brands that are particularly popular, the high and middle-grade brands that are popular, that is, more than 320,000.",
+    "written_text_en": "Beijing's medium and high-grade bicycles are particularly popular, especially those with a price of more than 30,000 yuan, which usually take half a year to buy.",
+    "claude_5shot_en": "It usually takes half a year to buy the most popular brands in Beijing, especially the medium and high-grade bicycles with a price of more than 20000 yuan.",
+    "cs2w_en": "For half a year in Beijing, the high and middle grades, which are particularly popular, are more than 320,000.",
+    "baichuan_en": "Beijing's medium and high-grade bicycles (priced at more than 30000 yuan) are particularly popular.",
+    "gpt5shot_en": "In Beijing, the best-selling brands in half a year are mainly medium and high-grade, with prices of more than 30,000 yuan.",
+    "mistral_en": "Beijing's medium and high-grade bicycles are particularly popular, especially those with a price of more than 30,000 yuan, which usually take half a year to buy."
+  },
+  {
+    "id": 4077,
+    "file_id": 218,
+    "spoken_text": "哎呦，那您后来就没结婚？没结婚后来我这上三线了啊，上三线去了10年。",
+    "context": "我之所以活得开心，是因为我没有任何烦恼，现在既没有年老体衰，也没有老伴的牵绊。没有老伴也没什么大不了的，反正他们都不会真心对待你。那位大爷当时为什么没有要孩子？他没有孩子就去世了，他当时在当兵。那场车祸发生时他26岁。哎呦，那您后来就没结婚？没结婚后来我这上三线了啊，上三线去了10年。那您就一直是还是想着您初恋的这段？对他感情最深我到不是。反正他倒是我们俩人结婚一年零3月才，他就没了，你说我来得及生孩子吗。没来得及生啊，那那会您也年轻啊您可以再找一个？那没，三线建设一去就十年。是，我81年回来的去了十年整十年嗯，为什么这么多年？",
+    "written_text": "后来我没有结婚，直接参加了三线建设，在那里工作了十年。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "我没有再婚，后来参加了三线建设，一去就是10年。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "后来我没有再婚，因为参加了三线建设，在那里工作了十年。",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "哎呦，那您后来就没结婚？我这上三线去了10年。",
+    "baichuan": "后来我没有结婚，后来我去三线建设了，在那里待了十年。",
+    "gpt5shot": "哦，那您后来就没有再结婚？没结婚后我就去参加三线建设了，在那里待了十年。",
+    "mistral": "后来我没有结婚，后来我去了三线建设，在那里待了10年。",
+    "spoken_text_en": "Oh, so you didn't get married later? After I didn't get married, I went to the third line. I went to the third line for 10 years.",
+    "written_text_en": "Later, I did not get married and directly participated in the third-line construction, where I worked for ten years.",
+    "claude_5shot_en": "Later, I did not remarry because I participated in the third-line construction and worked there for ten years.",
+    "cs2w_en": "Oh, so you didn't get married later? I've been on the third line for 10 years.",
+    "baichuan_en": "Then I didn't get married, and then I went to the third-line construction and stayed there for ten years.",
+    "gpt5shot_en": "Oh, so you didn't get married again? After I didn't get married, I went to participate in the third-line construction and stayed there for ten years.",
+    "mistral_en": "Then I didn't get married, and then I went to the third-line construction and stayed there for 10 years."
+  },
+  {
+    "id": 5711,
+    "file_id": 307,
+    "spoken_text": "没呢，解放那年我才19岁。",
+    "context": "您今年92岁高龄了，真是令人惊叹啊！您看起来耳聪目明。我出生于1930年，今年92岁。30年过去了，哎呀，那时还没解放呢？没呢，解放那年我才19岁。咱们在解放我才十九岁，关城关城的时候那时候还傻呢。哎呦，这关城怎么出去怎么进去一会，第二天一瞅好，大门开开了。哈哈，哦，那会北京还得知道有一个城，有有城有门啊，过点了还进不去。哈哈，好像是过点了进不去吗？",
+    "written_text": "还没有解放呢，解放那年我才19岁。",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "还没有，解放那年我才19岁。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "没有，在解放那年我只有19岁。",
+      "error_type": []
+    },
+    "cs2w": "解放那年我才19岁。",
+    "baichuan": "是的，解放那年我才19岁。",
+    "gpt5shot": "解放那年我才19岁。",
+    "mistral": "解放那年我才19岁。",
+    "spoken_text_en": "No, I was only 19 years old in the year of liberation.",
+    "written_text_en": "It hasn't been liberated yet. I was only 19 years old when it was liberated.",
+    "claude_5shot_en": "No, I was only 19 in the year of liberation.",
+    "cs2w_en": "I was only 19 years old in the year of liberation.",
+    "baichuan_en": "Yes, I was only 19 years old in the year of liberation.",
+    "gpt5shot_en": "I was only 19 years old in the year of liberation.",
+    "mistral_en": "I was only 19 years old in the year of liberation."
+  },
+  {
+    "id": 8271,
+    "file_id": 442,
+    "spoken_text": "有两个哦，现在这个厂怎么样啊？",
+    "context": "大叔有四个孩子。您的四个孩子都在兰州工作吗？对了，这个厂里有您的孩子吗？这个厂有两个（孩子）。有两个哦，现在这个厂怎么样啊？这个厂现在不行了，不行半死不活。谁照顾您的生活啊？我老伴，老伴现在身体好不好？可以，老伴多大岁数？",
+    "written_text": "有两个孩子在这个厂里工作。现在这个厂的情况怎么样？",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "有两个孩子在这个厂里工作。请问现在这个厂的情况怎么样？",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我有两个孩子在这个厂工作，现在这个厂运营状况如何呢？",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "有两个，现在这个厂怎么样啊？",
+    "baichuan": "这个厂有两个孩子。",
+    "gpt5shot": "现在这个厂里有两个孩子。请问这个厂现在怎么样？",
+    "mistral": "",
+    "spoken_text_en": "There are two. How is the factory now?",
+    "written_text_en": "There are two children working in this factory. How is the situation of this factory now?",
+    "claude_5shot_en": "I have two children working in this factory. How is the operation of this factory now?",
+    "cs2w_en": "There are two. How is the factory now?",
+    "baichuan_en": "There are two children in this factory.",
+    "gpt5shot_en": "There are two children in this factory now. How is the factory now?"
+  },
+  {
+    "id": 591,
+    "file_id": 77,
+    "spoken_text": "你媳妇也是从关里一起来的啊？也是老家的啊，老家的完了又回到内蒙了。",
+    "context": "这些补贴有什么用呢？这里是草原，不像农村可以耕种土地。在草原上，我们可以盖房子之类的。不是只有他家才有草场面积，别人家也有，因为离开这个村子后你就无法生存。内蒙古的游牧民族逐渐实现了定居，政府为他们通电、建房并打好地基，使他们的生活更加现代化。我是当地社员，户籍就在那里，所以分到了3000多亩地。你媳妇也是从关里一起来的啊？也是老家的啊，老家的完了又回到内蒙了。那真是不错啊，那您年轻时候还是有本事有闯劲，我那时候干别的不会。我没有文化我干活也行，要不我能搁那边能待住脚吗？是现在你看我瘦吧。我这干活因为咱们关里特别苦，往那边拉的干活啥的还年轻吧，劳动特别辛苦。所以受那边领导表扬，户口他出准签证咱们才能迁回去，把户口才能迁回去。",
+    "written_text": "你妻子也是从关里一起来的吗？她也是老家人，后来又从老家回到了内蒙古。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "你的妻子也是从关内一起来到内蒙古的吗？她也是来自老家的，在老家待了一段时间后又回到内蒙古了。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "你的妻子也是从关内一起过来的吗？她也是老家那边的人，原是老家的人，后来又回到内蒙古了。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "你媳妇也是从关里一起来的啊？也是老家的完了又回到内蒙了。",
+    "baichuan": "您的妻子也是从关内来到这里的，她原本也是老家的人，后来又回到了内蒙古。",
+    "gpt5shot": "你的妻子也是从关里一起来的吗？也是老家的人吗？从老家过来后又回到了内蒙古。",
+    "mistral": "你的妻子也是从关里和我们一起迁来的吗？他也是老家人，后来我们又回到了内蒙古。",
+    "spoken_text_en": "Does your wife also come from Guanli? It's also from my hometown. I went back to Inner Mongolia after my hometown was over.",
+    "written_text_en": "Did your wife come with you from Guanli? She was also an old family, and later returned to Inner Mongolia from her hometown.",
+    "claude_5shot_en": "Did your wife come with you from inside the pass? She is also from her hometown. She used to be from her hometown, and then she returned to Inner Mongolia.",
+    "cs2w_en": "Does your wife also come from Guanli? It's also the end of my hometown and I went back to Inner Mongolia.",
+    "baichuan_en": "Your wife also came here from inside the Shanhaiguan Pass. She was originally from her hometown, and later returned to Inner Mongolia.",
+    "gpt5shot_en": "Did your wife come with you from Guanli? Are you from your hometown, too? After coming from his hometown, he returned to Inner Mongolia.",
+    "mistral_en": "Did your wife move with us from Guanli, too? He was also an old family, and then we went back to Inner Mongolia."
+  },
+  {
+    "id": 8591,
+    "file_id": 465,
+    "spoken_text": "打工，供养娃娃去了，哦这样，农村现在人少啊，哎这个养活娃娃，这个对现在乡镇上没有学校吗。",
+    "context": "现在农村的用水用电都很方便，自来水和电力供应都很完善。公路已经修到了村里，各村都设有大队和小队。现在孩子们都在定西县城上学，村里已经没有学校了。这是农村人口减少的一个原因，学校倒闭后未能重建，现在家长和孩子都搬到县城去了，通常是一个或两个大人带着孩子在城里生活。打工，供养娃娃去了，哦这样，农村现在人少啊，哎这个养活娃娃，这个对现在乡镇上没有学校吗。乡镇上都没有学校，乡镇乡上有一个学校，嗯嗯，乡上的学校是小学吗，中学，中学中学啊。哦那小学随着农村的这学校啊，律没了，这啊农村里的学校都没有了啊，农村的根本没上学啊。这么大的娃娃，一直一直引到城里来了，我们这成了风俗了哈，这反正你上幼儿园，非在定西(县城)上去就是县上啊。哎进城了哈，乡里人进城了哈，就为了上学要进城哎，跟上娃娃月儿圆，跟一个大汉(人)，有的是两个，连打工带养活娃娃啊。",
+    "written_text": "为了打工挣钱供养孩子，农村现在人口稀少。现在乡镇上没有学校吗？",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "家长们外出打工，目的是供养孩子。因此，农村现在人口稀少，养育孩子确实不易，而且现在乡镇上也没有学校了吗？",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "家长们进城打工，同时供养孩子上学。没错，所以现在农村人口减少。养育孩子的事情——现在乡镇上也没有学校了吗？",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "打工，供养娃娃去了，农村现在人少啊，养活娃娃，这个对现在乡镇上没有学校吗。",
+    "baichuan": "为了打工养家糊口，人们纷纷离开农村去县城生活，导致农村人口减少。现在乡镇上已经没有学校了。",
+    "gpt5shot": "他们去打工是为了供养孩子。现在农村人口减少了，因为乡镇上没有学校。",
+    "mistral": "现在农村人口减少，家长打工在城里养活孩子，因为乡镇上没有学校了。",
+    "spoken_text_en": "Working, supporting the children. Oh, so, there are few people in the countryside now. Ah, this is to support the children. Is there no school in the villages and towns now.",
+    "written_text_en": "In order to earn money to support their children, the countryside is now sparsely populated. Is there no school in the township now?",
+    "claude_5shot_en": "Parents work in cities and support their children to go to school at the same time. Right, so now the rural population is decreasing. The matter of raising children-is there no school in villages and towns now?",
+    "cs2w_en": "I went to work to support the children. There are few people in the countryside now. Is there no school in the villages and towns to support the children.",
+    "baichuan_en": "In order to work to support their families, people have left the countryside to live in the county, resulting in a decrease in the rural population. Now there are no schools in villages and towns.",
+    "gpt5shot_en": "They go to work to support their children. Now the rural population has decreased because there are no schools in villages and towns.",
+    "mistral_en": "Now the rural population is decreasing, and parents work in the city to support their children, because there are no schools in the villages and towns."
+  },
+  {
+    "id": 9163,
+    "file_id": 499,
+    "spoken_text": "倒数第二批，哎哎哦，回国了回国了，回国以后呢，我们这个部队就回到山西的太原。",
+    "context": "离开时，车辆都随行，伙食也可能稍好一些。我们当时携带的是陆军部队配发的干粮。基本情况就是这样。请问您是哪一年回国的？我是1958年8月份回国的。我是倒数第二批回国的。倒数第二批，哎哎哦，回国了回国了，回国以后呢，我们这个部队就回到山西的太原。哦太原又把我们调到有个叫原平县，嗯在那的话呢，又是搞训练。在那待了几个月，嗯待了9个月，嗯又把我们调到青海草原。哦明那时候青海草原的话又打仅去了，哦那时候是剿匪，还叫平息叛乱。哎又在那打了，我们是58年去了，以后到62年嗯，在这个青海待了。",
+    "written_text": "我们属于倒数第二批回国的部队。回国后，部队便返回山西太原驻地。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "作为倒数第二批回国的军人，我们部队返回国内后驻扎在山西太原。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我是倒数第二批回国的。回国后，我们部队回到了山西太原。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "倒数第二批，回国以后呢，我们这个部队就回到山西的太原。",
+    "baichuan": "我们是在倒数第二批回国的，回国后部队便调往山西太原。",
+    "gpt5shot": "我是倒数第二批回国的。回国后，我们的部队返回了山西太原。",
+    "mistral": "",
+    "spoken_text_en": "The penultimate group, ah, ah, oh, returned home. After returning home, our unit returned to Taiyuan, Shanxi.",
+    "written_text_en": "We belong to the penultimate group of troops returning home. After returning home, the troops returned to Taiyuan, Shanxi.",
+    "claude_5shot_en": "I am the last but one to return to China. After returning home, our troops returned to Taiyuan, Shanxi.",
+    "cs2w_en": "After the penultimate group returned home, our unit returned to Taiyuan, Shanxi.",
+    "baichuan_en": "We returned home in the penultimate batch, and after returning home, the troops were transferred to Taiyuan, Shanxi.",
+    "gpt5shot_en": "I am the last but one to return to China. After returning home, our troops returned to Taiyuan, Shanxi."
+  },
+  {
+    "id": 5584,
+    "file_id": 302,
+    "spoken_text": "大爷看您这精神面貌真棒，哈哈哈哈哈哈，您今年高寿？",
+    "context": "大爷看您这精神面貌真棒，哈哈哈哈哈哈，您今年高寿？87刚过，哎呦你真不像哈哈还不像呢哈哈哈，看您这身体真棒。刚这说嘛，嗯根据自身的身体，能走就走，能不能比人家跑，那不行就根据自己自身。是我能走就走我能跑就跑，不能比着对不勉强个人身体不一样，人家原来人就练体育那人没事。你这不练你，你就模仿人家人家没趴下你趴下了，哈哈哈哈谁管啊。",
+    "written_text": "大爷，您看起来精神矍铄，请问您今年多大年纪？",
+    "error_type": [
+      4
+    ],
+    "claude_0shot": {
+      "translation": "大爷，您看起来精神面貌真好！请问您今年多大年龄了？",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "老人家，您看起来真精神，请问您今年多大年纪？",
+      "error_type": []
+    },
+    "cs2w": "大爷看您这精神面貌真棒，您今年高寿？",
+    "baichuan": "您的精神状态真好，请问您今年多大年纪了？",
+    "gpt5shot": "大爷，您看起来精神焕发，哈哈，您今年多大年纪了？",
+    "mistral": "大爷，您看起来精神矍铄，请问您今年多大年纪？",
+    "spoken_text_en": "Grandpa, you have a great mental outlook. Ha ha. How old are you this year?",
+    "written_text_en": "Grandpa, you look in good spirits. How old are you this year?",
+    "claude_5shot_en": "Old man, you look so energetic. How old are you this year?",
+    "cs2w_en": "Grandpa, you have a great mental outlook. How old are you this year?",
+    "baichuan_en": "You are in good spirits. How old are you this year?",
+    "gpt5shot_en": "Grandpa, you look fresh. Haha, how old are you this year?",
+    "mistral_en": "Grandpa, you look in good spirits. How old are you this year?"
+  },
+  {
+    "id": 8549,
+    "file_id": 460,
+    "spoken_text": "嗯，西安这个厂，把我接手这产品三年没生产出来。",
+    "context": "你觉得这辈子没从事技术工作，是不是挺遗憾的？那位阿姨，您真是了不起的人物。我算不上什么了不起的人物，人的成功也要靠运气。我抵达沈阳后，又前往西安负责产品验收工作。嗯，西安这个厂，把我接手这产品三年没生产出来。哦我的，我把这产品接到沈阳，我一年产品就出来了哦。86岁了啊，那身体还这状态，还可以啊？不行不行不行不行嗯，记得点赞关注哦。",
+    "written_text": "西安这家工厂接手这个产品后，三年都没能生产出来。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "西安这个厂接手这个产品后三年都没能生产出来。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "西安这个厂接手的这个产品，三年都没能生产出来。",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "西安这个厂，我接手这产品三年没生产出来。",
+    "baichuan": "在西安的那家工厂，我接手的产品已经三年没有生产出来了。",
+    "gpt5shot": "西安的这个工厂在我接手后的三年里没有生产出这款产品。",
+    "mistral": "西安的工厂接手这个产品后，三年都没能生产出来。",
+    "spoken_text_en": "Well, the factory in Xi'an has not produced this product for three years since I took it over.",
+    "written_text_en": "After the factory in Xi'an took over the product, it failed to produce it for three years.",
+    "claude_5shot_en": "The product taken over by the factory in Xi'an has not been produced for three years.",
+    "cs2w_en": "The factory in Xi'an has not produced this product for three years since I took over.",
+    "baichuan_en": "In the factory in Xi'an, the products I took over have not been produced for three years.",
+    "gpt5shot_en": "The factory in Xi'an did not produce this product in the three years after I took over.",
+    "mistral_en": "After the factory in Xi'an took over the product, it failed to produce it for three years."
+  },
+  {
+    "id": 9078,
+    "file_id": 492,
+    "spoken_text": "早就起来，是6点钟我就起来，我基本上8点九点我就要睡觉，晚上8点九点就睡觉，9点我就要睡觉啊。",
+    "context": "早就起来，是6点钟我就起来，我基本上8点九点我就要睡觉，晚上8点九点就睡觉，9点我就要睡觉啊。早晨6点起床，一天吃几顿饭呀，三顿三顿饭啊，很多老年人现在退休了都吃两顿饭，哈哈吃三顿早。早上就吃点早点，在中午和晚上就是正式做饭。对阿姨您，您今年高寿呀，嗯92岁，92岁哎呦，您太厉害了。哈哈您是哪里人呢，湖南长沙，那您是怎么到兰州的呀，我是我的老头是呢，支援大西北来的。",
+    "written_text": "我通常早上6点起床，晚上8点到9点睡觉。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "我早晨六点钟就起床了，晚上基本上八九点钟就睡觉，一般在九点钟就要入睡。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我早上6点就起床，晚上8点到9点之间就睡觉，通常在9点左右。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "早就起床，是6点钟我就起来，我基本上8点九点我就要睡觉，晚上8时九点就睡觉啊。",
+    "baichuan": "我通常早上6点起床，晚上8点到9点睡觉。",
+    "gpt5shot": "我早上六点就起床了，晚上八九点就要睡觉。",
+    "mistral": "我每天早上6点起床，晚上8点到9点就睡觉。",
+    "spoken_text_en": "I got up early. I got up at 6 o'clock. I basically went to bed at 8 or 9 o'clock. I went to bed at 8 or 9 o'clock in the evening. I went to bed at 9 o'clock.",
+    "written_text_en": "I usually get up at 6am and go to bed at 8-9pm.",
+    "claude_5shot_en": "I get up at 6 am and go to bed between 8 and 9 pm, usually around 9.",
+    "cs2w_en": "I got up early. I got up at 6 o'clock. I basically went to bed at 8 or 9 o'clock. I went to bed at 8 or 9 o'clock in the evening.",
+    "baichuan_en": "I usually get up at 6am and go to bed at 8-9pm.",
+    "gpt5shot_en": "I got up at six in the morning and went to bed at eight or nine in the evening.",
+    "mistral_en": "I get up at 6 in the morning and go to bed at 8 to 9 in the evening."
+  },
+  {
+    "id": 5730,
+    "file_id": 307,
+    "spoken_text": "按斤一斤啊，要烤鸭得够五厅，五斤半。",
+    "context": "您当时真了不起。当时您养的鸭子都卖给了全聚德和便宜坊，他们都会派人来收购。当时收购一只鸭子需要多少钱？当时收购鸭子是按斤还是按只计算呢？按斤一斤啊，要烤鸭得够五厅，五斤半。五斤半那得他们都得挑大个的了，大个的够挑不行得过称，那差一点都不行。哎，这烤鸭这会呵，烤鸭那会烤鸭就是，这烤鸭其实差一点分量都不行哦，要要求比较严格。那您五五年参加工作您做的是也养鸭子？也养鸭鸭呀，就是那会在鸭场，后来就改鸭场。",
+    "written_text": "烤鸭按斤收购，每只必须达到五斤半。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "按一斤为单位计算，制作烤鸭的鸭子必须达到五斤半重。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "按斤计算，一只用于烤鸭的鸭子必须重达五斤半。",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "按斤一斤，要烤鸭得够五斤半。",
+    "baichuan": "收购鸭子是按照每斤计算的，而烤鸭则需要每只至少五斤半。",
+    "gpt5shot": "按斤计算，一只鸭子要达到五斤半才能用于烤鸭。",
+    "mistral": "收购烤鸭时必须达到五斤半的标准。",
+    "spoken_text_en": "According to one catty, the roast duck has to be enough for five halls, five and a half catties.",
+    "written_text_en": "Roast ducks are purchased by catty, each of which must reach five and a half catties.",
+    "claude_5shot_en": "A duck used for roast duck must weigh five and a half catties.",
+    "cs2w_en": "According to one catty, the roast duck must be five and a half catties.",
+    "baichuan_en": "The purchase of ducks is calculated according to each catty, while roast ducks need at least five and a half catties each.",
+    "gpt5shot_en": "In terms of catty, a duck needs to reach five and a half catties before it can be used for roast duck.",
+    "mistral_en": "When buying roast duck, it must reach the standard of five and a half catties."
+  },
+  {
+    "id": 1191,
+    "file_id": 103,
+    "spoken_text": "大爷您高寿啊，你看，我看您75-80之间，80-90之间哎呦那真不像。",
+    "context": "我在公园里看到那位大爷，便和他聊了聊。大爷您高寿啊，你看，我看您75-80之间，80-90之间哎呦那真不像。您这身条保持的够好的，还凑合啊，人说这不是有钱咱买老来瘦吗好。那您的具体年龄呢，差两岁九十。您年轻时候是做什么的，工人。那那您是多大您参加的工作呢，13岁，13岁那就是解放前了吧。",
+    "written_text": "大爷，请问您今年高寿？我看您大约75到80岁之间，或者说80到90岁之间，但您看起来真不像这个年纪。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "大爷，请问您今年多大岁数了？我看您可能在75到80岁之间，如果在80到90岁之间，那真是气色很好，一点都不显老。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "大爷，请问您多大年纪？我猜您在75到80岁之间，如果是80到90岁的话，那真看不出来。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "大爷您高寿啊，我看您75-80之间，80-90之间那真不像。",
+    "baichuan": "我猜您大约75到80岁之间，但看起来更年轻，大概80到90岁之间。",
+    "gpt5shot": "大爷，您真是高寿啊。我看您大概在75到80岁之间，或者80到90岁之间，但看起来真不像。",
+    "mistral": "",
+    "spoken_text_en": "Grandpa, how old are you? Look, I think you are between 75 and 80, between 80 and 90. Oh, that's really not like that.",
+    "written_text_en": "Grandpa, how old are you this year? I think you're somewhere between 75 and 80, or between 80 and 90, but you really don't look that age.",
+    "claude_5shot_en": "Grandpa, how old are you? I guess you are between 75 and 80 years old. If you are between 80 and 90 years old, you really can't see it.",
+    "cs2w_en": "Grandpa, how old are you? I don't think you look like 75-80 or 80-90.",
+    "baichuan_en": "I guess you are between 75 and 80, but you look younger, between 80 and 90.",
+    "gpt5shot_en": "Grandpa, you are really old. I think you're somewhere between 75 and 80, or between 80 and 90, but you really don't look it."
+  },
+  {
+    "id": 2836,
+    "file_id": 163,
+    "spoken_text": "也理解这部分人，这年轻也没受苦也没那什么呀，也没白受累这多少给钱。",
+    "context": "您退休后成为家庭主妇，现在的退休金高吗？我的退休金一般，没有退休金，但我丈夫有退休金。您为什么没有退休金呢？因为您当时是家庭主妇，需要照顾老人，年轻时没有机会参加工作。等到年纪大了，做做临时工就行了，不必再找其他工作。现在从2007年开始不是都会发放一些生活费吗？国家充分理解这部分人的情况，虽然你们没有退休金，但也付出了努力，我们在后方也给予了支持。也理解这部分人，这年轻也没受苦也没那什么呀，也没白受累这多少给钱。这生活那不也够了吗，你讲话要要一攀比，人家挣几千几干的，人家攀比也攀不上。这生活基本上过得去都得了，我就知足，老头是不是也岁数也大了吧。他都83了，我82，都80多岁了，你说怎么了，那等于原来爷爷一个人养活了一家子人是吧。就他一人上班挣钱，不是原来他他爸爸也上班了，他爸爸上班他他妈也没有工作。",
+    "written_text": "国家也理解这部分人，他们年轻时虽然没有受过太多苦，但也没有白白付出辛劳，因此现在多少会给予一些补贴。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "我理解这部分没有退休金的人群，他们年轻时虽然没有正式工作，但并非无所事事，他们的付出不应被忽视，所以国家给予适当的经济补贴是合理的。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "国家理解这部分人，虽然年轻时没有吃苦受罪，但也没有白白付出，所以给予一些经济补贴。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "也理解这部分人，这年轻也没受苦也没那什么，也没白受累这多少给钱。",
+    "baichuan": "政府也理解这部分人，他们年轻时没有吃过苦，也没有白受累，现在多少能拿到一些补偿。",
+    "gpt5shot": "国家也理解这部分人，他们年轻时没有受过苦，也没有白白付出劳动，因此给予了一定的补偿。",
+    "mistral": "国家也理解这部分人，他们年轻时没有受苦也没有受累，所以不应该多收取太多退休金。",
+    "spoken_text_en": "I also understand this part of the people. They didn't suffer when they were young, and they didn't have that. They didn't suffer in vain. How much money did they give.",
+    "written_text_en": "The state also understands these people. Although they did not suffer too much when they were young, they did not work hard in vain, so now they will give some subsidies.",
+    "claude_5shot_en": "The state understands that although these people did not suffer when they were young, they did not pay in vain, so they gave some financial subsidies.",
+    "cs2w_en": "I also understand this part of the people. This young man did not suffer, nor did he suffer, nor did he give much money in vain.",
+    "baichuan_en": "The government also understands these people. They did not suffer when they were young, nor did they suffer in vain. Now they can get some compensation.",
+    "gpt5shot_en": "The state also understands these people, who did not suffer when they were young, nor did they work in vain, so they have given some compensation.",
+    "mistral_en": "The state also understands that these people did not suffer or suffer when they were young, so they should not charge too much pension."
+  },
+  {
+    "id": 8289,
+    "file_id": 447,
+    "spoken_text": "任家庄街西社区干啥每天训练？王家庄街西社区没有参加什么。",
+    "context": "我当年在锦县石山站服役。锦县隶属于锦州市，位于锦州西社区附近，靠近黑山突击战的旧址。您参军服役了多少年？四年。庄街西社区的士兵属于炮兵兵种，炮兵的主要任务是日常训练。任家庄街西社区干啥每天训练？王家庄街西社区没有参加什么。任家庄街西社区没有，人抗美援朝回来了。王家庄街西社区对，您没去朝鲜吧？家庄街西社区啊没去。庄街西社区有的人都没去，去了也没打仗。主街西社区人家守备了也算了，街西社区对那个五六年已经停战了吗？",
+    "written_text": "任家庄街西社区为什么每天都要训练？王家庄街西社区没有参加训练。",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "任家庄街西社区每天为什么要训练？王家庄街西社区并没有参加任何活动。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "任家庄街西社区的士兵每天进行什么训练？而王家庄街西社区并没有参加任何活动。",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "任家庄街西社区干什么每天训练？",
+    "baichuan": "任家庄街西社区每天进行什么训练？王家庄街西社区没有参加任何训练。",
+    "gpt5shot": "任家庄街西社区每天进行训练，而王家庄街西社区没有参与。",
+    "mistral": "王家庄街西社区没有参加日常训练。",
+    "spoken_text_en": "What does Renjiazhuang Street West Community do to train every day? Wangjiazhuang Street West Community did not participate in anything.",
+    "written_text_en": "Why does Renjiazhuang Street West Community train every day? Wangjiazhuang Street West Community did not participate in the training.",
+    "claude_5shot_en": "What kind of training do the soldiers in the west community of Renjiazhuang Street do every day? The West Community of Wangjiazhuang Street did not participate in any activities.",
+    "cs2w_en": "What does Renjiazhuang Street West Community do to train every day?",
+    "baichuan_en": "What training does Renjiazhuang Street West Community do every day? Wangjiazhuang Street West Community did not participate in any training.",
+    "gpt5shot_en": "Renjiazhuang Street West Community trains every day, while Wangjiazhuang Street West Community does not participate.",
+    "mistral_en": "Wangjiazhuang Street West Community did not participate in daily training."
+  },
+  {
+    "id": 9422,
+    "file_id": 521,
+    "spoken_text": "大叔祝您健康长寿，好谢谢，记得点赞关注哦。",
+    "context": "当时从东北调来的只有一个公司，比如我们安装公司，后来我被调到了土建安装处。当时从东北调来的有几千人，现在几乎没有了。您在建筑单位工作了一辈子，真是辛苦了，现在退休生活还好吧？现在退休了，每天在家闲着，也没什么事情可做。好的，谢谢。大叔祝您健康长寿，好谢谢，记得点赞关注哦。",
+    "written_text": "大叔祝您健康长寿，非常感谢，也请您记得点赞和关注。",
+    "error_type": [
+      4
+    ],
+    "claude_0shot": {
+      "translation": "祝您健康长寿，谢谢您，请记得点赞并关注我。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "大叔祝您健康长寿，谢谢您的祝福。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "大叔祝您健康长寿，好，记得点赞关注哦。",
+    "baichuan": "大叔祝您健康长寿，非常感谢，请记得点赞关注。",
+    "gpt5shot": "大叔，祝您健康长寿。谢谢，请记得点赞和关注。",
+    "mistral": "大叔祝您健康长寿，非常感谢，也请记得点赞和关注。",
+    "spoken_text_en": "Uncle, I wish you a long and healthy life. Thank you. Remember to like and follow.",
+    "written_text_en": "Uncle, I wish you a long and healthy life. Thank you very much. Please remember to like and pay attention to it.",
+    "claude_5shot_en": "Uncle, I wish you a long and healthy life. Thank you for your blessing.",
+    "cs2w_en": "Uncle, I wish you a long and healthy life. Well, remember to like and follow.",
+    "baichuan_en": "Uncle, I wish you a long and healthy life. Thank you very much. Please remember to like and follow.",
+    "gpt5shot_en": "Uncle, I wish you a long and healthy life. Thank you, please remember to like and follow.",
+    "mistral_en": "Uncle, I wish you a long and healthy life. Thank you very much. Please remember to like and pay attention to it."
+  },
+  {
+    "id": 484,
+    "file_id": 75,
+    "spoken_text": "是不存在什么你的我的啊，我的就是我的你的就是你的，你们家的我也不要。",
+    "context": "他为人老实本分，很少说话。这几个孩子都在河北老家。他原先独自在北京的单位上班，卢口大爷的户口也一直挂靠在那里。他的户口在北京，退休金等福利也和我同属一个单位，他是正式退休的。您再婚后财产分配很合理，我们没有意见，也不存在争议。是不存在什么你的我的啊，我的就是我的你的就是你的，你们家的我也不要。我的你也别掺和，我们家老头啊，不会说这话，哦，是啊，还争这个了啊什么都。那您找这人好啊，一天到晚跟你摆手，什么都不要什么也不争，吃饱喝足就行。",
+    "written_text": "不存在财产归属的争议，我的财产归我所有，你的财产归你所有，你们家的财产我也不会索取。",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "不存在所谓的\"你的\"\"我的\"财产争议，我的财产就归我所有，你的财产就归你所有，你们家的财产我也不需要。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我们双方不存在财产纠纷，我的财产属于我，你的财产属于你，我不会要求你们家的财产。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "是不存在什么你的我的啊，我的就是我的，你们家的我也不要。",
+    "baichuan": "不存在所谓的你的我的，我的就是我的，你的就是你的，你们家的我也不想要。",
+    "gpt5shot": "不存在什么“你的我的”，我的就是我的，你的就是你的，我也不想要你们家的东西。",
+    "mistral": "",
+    "spoken_text_en": "There is no such thing as yours and mine. Mine is mine and yours is yours. I don't want yours either.",
+    "written_text_en": "There is no dispute over the ownership of property. My property belongs to me, your property belongs to you, and I will not claim your family's property.",
+    "claude_5shot_en": "There is no property dispute between us. My property belongs to me, and your property belongs to you. I will not claim your family's property.",
+    "cs2w_en": "There is no such thing as yours and mine. Mine is mine, and I don't want yours.",
+    "baichuan_en": "There is no such thing as yours and mine, mine is mine, yours is yours, and I don't want yours.",
+    "gpt5shot_en": "There is no such thing as \"yours and mine.\" What's mine is mine, what's yours is yours, and I don't want what's yours."
+  },
+  {
+    "id": 8060,
+    "file_id": 436,
+    "spoken_text": "那你现在退休工资方便说下，4千多，只有4千多元，现在关键问题他有病。",
+    "context": "他曾创办出租车公司，组建过出租车队和运输车队，后来因某些问题未能妥善解决而终止。那些令人心酸的往事就不多提了，别人说只差一口气就能成功，而我连半口气都不够，最终未能如愿，实在无可奈何。离退休还有13年时，他不得不四处打工。60岁退休后，基本上就处于休息状态了。那你现在退休工资方便说下，4千多，只有4千多元，现在关键问题他有病。爷叔你身体怎样？两年前8月29日胃癌开刀，哦，胃癌啊，现在经常化疗，那是恶性的，当时胃切除5/4。以前高中时我是少体校，少体校出来的，身体素质好，年轻时是运动员。为啥道理，我胃癌开掉了回复蛮好呢？我一直一句话，对对对，伸头一刀缩头一刀，对的，想多了没用。现在能走的动，我蛮喜欢旅游的，这样好。",
+    "written_text": "目前我的退休工资是四千多元，但主要问题是他患病了。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "您现在的退休工资是多少，方便告诉我吗？只有四千多元。目前他面临的主要问题是身体有病。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "您方便说一下现在的退休工资吗？只有4千多元，而且他现在主要的问题是身体不好。",
+      "error_type": [
+        1,
+        3
+      ]
+    },
+    "cs2w": "那你现在退休工资方便说下，只有4千多元，现在关键问题他有病。",
+    "baichuan": "我现在每月退休金有四千多元，但关键是他现在患有疾病。",
+    "gpt5shot": "请问您现在的退休工资是多少？四千多元，只有四千多元。现在关键的问题是他生病了。",
+    "mistral": "现在的退休工资是4000多元，但关键问题是他患病了。",
+    "spoken_text_en": "Then it is convenient for you to say that your retirement salary is more than 4,000 yuan. It is only more than 4,000 yuan. Now the key problem is that he is sick.",
+    "written_text_en": "At present, my retirement salary is more than four thousand yuan, but the main problem is that he is sick.",
+    "claude_5shot_en": "Is it convenient for you to talk about the current retirement salary? Only 4000 yuan, and his main problem now is that he is not in good health.",
+    "cs2w_en": "It is convenient for you to say that your retirement salary is only more than 4,000 yuan. Now the key problem is that he is sick.",
+    "baichuan_en": "I now have a monthly pension of more than four thousand yuan, but the key is that he is now suffering from illness.",
+    "gpt5shot_en": "How much is your retirement salary now? Four thousand yuan, only four thousand yuan. The key problem now is that he is sick.",
+    "mistral_en": "Now his retirement salary is more than 4000 yuan, but the key problem is that he is ill."
+  },
+  {
+    "id": 3096,
+    "file_id": 175,
+    "spoken_text": "唐山地震，7口砸死6个，您敢相信吗？这是一位90岁的奶奶在跳舞，这位奶奶开朗风趣。",
+    "context": "我今年89岁，是社区老年秧歌队的成员，擅长跳舞，目前担任秧歌队的队长。唐山地震，7口砸死6个，您敢相信吗？这是一位90岁的奶奶在跳舞，这位奶奶开朗风趣。她和您耳熟能详的不少名人都有过接触，请您一圈三连，咱们一起来听听。差一岁90了嘿，您得活100多，哈哈哈，还能买菜您看您，能买菜身体就没毛病。宛也有毛病有毛病的，反正到时候拿药吃药吧，对对不对？退休工资高不高？退休工资5,000多吧，嗯不算太高。",
+    "written_text": "唐山大地震中，一家七口有六人不幸遇难，您能想象吗？",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "唐山大地震时，我们家七口人中有六人遇难，您能相信吗？",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "唐山大地震时，我们家七口人中有六人遇难，您能相信吗？这位90岁的奶奶不仅能跳舞，而且性格开朗风趣。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "唐山地震，7口砸死6个，您敢相信吗？这是一位90岁的奶奶在跳舞，这位奶奶开朗风趣。",
+    "baichuan": "唐山地震时，她家七口人中有六口被砸死，您能相信吗？这位90岁的老奶奶依然乐观开朗，善于交际。",
+    "gpt5shot": "唐山地震时，我们一家7口中有6人遇难，您敢相信吗？",
+    "mistral": "唐山地震时，七人中有六人砸死，您能相信吗？这位90岁的奶奶在跳舞，她开朗风趣。",
+    "spoken_text_en": "Can you believe that six people were killed by seven people in the Tangshan earthquake? This is a 90-year-old grandmother dancing. The grandmother is cheerful and funny.",
+    "written_text_en": "Can you imagine that six members of a family of seven were killed in the Tangshan earthquake?",
+    "claude_5shot_en": "Can you believe that six of the seven people in my family were killed in the Tangshan earthquake? The 90-year-old grandmother can not only dance, but also has a cheerful and funny personality.",
+    "cs2w_en": "Can you believe that six people were killed by seven people in the Tangshan earthquake? This is a 90-year-old grandmother dancing. The grandmother is cheerful and funny.",
+    "baichuan_en": "During the Tangshan earthquake, six of the seven members of her family were crushed to death. Can you believe it? The 90-year-old grandmother is still cheerful and sociable.",
+    "gpt5shot_en": "During the Tangshan earthquake, six of our seven family members were killed. Can you believe it?",
+    "mistral_en": "During the Tangshan earthquake, six of the seven people were killed. Can you believe it? The 90-year-old grandmother is dancing, and she is cheerful and funny."
+  },
+  {
+    "id": 5776,
+    "file_id": 310,
+    "spoken_text": "大爷，你你当兵的时候当年是什么兵种啊？铁道兵铁道兵。",
+    "context": "现在的战场没有正面和侧面的区分，都是立体化的作战。我们那时候主要执行与飞机相关的任务，您那时候负责什么工作呢？也是与飞机相关的工作吗？我们都是乘坐飞机前往，不是制造飞机。现在的战场没有正面和侧面的区分，都是立体化的作战。大爷，你你当兵的时候当年是什么兵种啊？铁道兵铁道兵。就是铺铁轨啊就是抢修铁路的，哎呦那也属于是重中之重了。运输是补己的最重要的环节啊对对树，战一线。哎呦这这这就修铁路了，嗯哎呦，当年的这些，这最最难修的铁路都是你们修的啊？对哎呀，那您这属于是为国家做个大贡献的，哎不不不，没有没有我，我的小兵小作。",
+    "written_text": "您当年当兵时属于什么兵种？铁道兵。",
+    "error_type": [
+      2
+    ],
+    "claude_0shot": {
+      "translation": "大爷，您当年服役时是什么兵种啊？铁道兵。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "大爷，您当兵时是什么兵种？铁道兵。",
+      "error_type": [
+        3,
+        4
+      ]
+    },
+    "cs2w": "大爷，你当兵的时候当年是什么兵种啊？铁道兵。",
+    "baichuan": "大爷，您当兵时当时是什么兵种？是铁道兵。",
+    "gpt5shot": "您当年当兵时是什么兵种？我是铁道兵。",
+    "mistral": "大爷，您当年参军时属于什么兵种？是铁道兵。",
+    "spoken_text_en": "Grandpa, what kind of service did you have when you were a soldier? Railway Corps. Railway Corps.",
+    "written_text_en": "What branch of the armed forces did you belong to when you were a soldier? Railway soldier.",
+    "claude_5shot_en": "Grandpa, what kind of service did you have when you were a soldier? Railway soldier.",
+    "cs2w_en": "Grandpa, what kind of arms were you when you were a soldier? Railway soldier.",
+    "baichuan_en": "Grandpa, what kind of service did you have when you were a soldier? It's a railway soldier.",
+    "gpt5shot_en": "What branch of the army were you in when you were a soldier? I'm a railway soldier.",
+    "mistral_en": "Grandpa, what kind of arms did you belong to when you joined the army? It's a railway soldier."
+  },
+  {
+    "id": 4711,
+    "file_id": 254,
+    "spoken_text": "就我一个人照顾，哎呦他们都远一个通县一个在海淀，有时候平常，接长不短能来一次这一有。",
+    "context": "面条里加入十几种蔬菜打成糊状，用虾皮炝锅后打入四个鸡蛋，做一次可以吃两天。这些蔬菜已经足够，不需要吃肉，基本上能保证十几种蔬菜的摄入。您这一辈人一般有几个兄弟姐妹？我有一个姐姐，她七十二岁了，弟弟也六十二岁了。您今年六十五岁，那么照顾母亲的工作也是由您独自承担吗？就我一个人照顾，哎呦他们都远一个通县一个在海淀，有时候平常，接长不短能来一次这一有。也就那么回事打个电话问问就完了，是那这重担权压在您一个身上了。我就一直就是，从退了休啊到现在，就是真正伺候了也也五六年了。就说我离不开人也五六年是啊，那时候我就上家里给做饭去哦，做完饭我就回来老爷子。帮着在煮煮弄弄的，这陆陆续续俩人都那么大岁数都不成了，就我只能说这一个人就抽出抽出来了。",
+    "written_text": "主要由我一个人照顾母亲，他们住得远，一个在通县，一个在海淀，平时偶尔能来一次。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "只有我一个人照顾，他们都住得远，一个在通州，一个在海淀，平时偶尔能来一次。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "只有我一个人照顾母亲，因为我的姐姐住在通州，弟弟住在海淀，都很远。他们偶尔能来看望一次。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "就我一个人照顾，他们都远一个通县一个在海淀，有时候平常，不短能来一次这一有。",
+    "baichuan": "当时只有我一个人照顾母亲，他们住在通县和海淀，平时偶尔会来一趟。",
+    "gpt5shot": "只有我一个人照顾，因为他们都住得很远，一个在通县，一个在海淀。有时候，他们偶尔能来一次。",
+    "mistral": "我独自照顾母亲，他们住得远，一个在通县，一个在海淀，平时有时间能来一次。",
+    "spoken_text_en": "I am the only one to take care of them. Oh, they are all far away, one in Tongxian County and the other in Haidian. Sometimes, it is normal to come here once.",
+    "written_text_en": "I mainly take care of my mother alone. They live far away. One is in Tongxian County and the other is in Haidian District. I can come here occasionally.",
+    "claude_5shot_en": "I am the only one to take care of my mother, because my sister lives in Tongzhou and my brother lives in Haidian, both of which are far away. They can come to visit once in a while.",
+    "cs2w_en": "I am the only one to take care of them. They are all far away, one in Tongxian County and the other in Haidian. Sometimes, I can come here for a long time.",
+    "baichuan_en": "At that time, I was the only one to take care of my mother. They lived in Tongxian and Haidian, and occasionally came here.",
+    "gpt5shot_en": "I am the only one to take care of them, because they all live far away, one in Tongxian and the other in Haidian. Sometimes, they can come once in a while.",
+    "mistral_en": "I take care of my mother alone. They live far away. One is in Tongxian and the other is in Haidian. I can come here once when I have time."
+  },
+  {
+    "id": 9121,
+    "file_id": 498,
+    "spoken_text": "筹备处哦，就就这么一个楼，这其余都是荒凉的。",
+    "context": "我们一点一点地建设工厂，我在那里负责测绘印刷设备，用于印刷报纸。后来那台印刷机被调到这里来了。您是1956年来到这里的吧？1955年或1956年刚来的时候，您对这个地方有什么印象？这个地方没有其他房屋，只有一栋楼，其余的建筑都拆除了，那栋楼是化工机械厂的办公楼。筹备处哦，就就这么一个楼，这其余都是荒凉的。大叔那您来的时候多大岁数啊？我来的时候2025岁吧，25岁来的，一直年轻的时候。做啥工作？我那时是劳资部门，哦你在劳资部门，哦，对以后的以后的生产部门。大叔那您就是在兰石厂，一直从事管理工作是吧？哦对。那您是哪一年退休的呀？嗯90年，90年退休的，哦这退休也有20多年了。",
+    "written_text": "筹备处只有这一栋楼，其余地方都很荒凉。",
+    "error_type": [
+      2
+    ],
+    "claude_0shot": {
+      "translation": "当时只有筹备处这一栋楼，其余地方都很荒凉。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "当时只有筹备处的一栋楼，其余地方都非常荒凉。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "筹备处，就这么一个楼，其余都是荒凉的。",
+    "baichuan": "当时筹备处只有一栋大楼，其他地方都很荒凉。",
+    "gpt5shot": "筹备处就只有这一栋楼，其余的地方都是荒凉的。",
+    "mistral": "筹备处只有这一栋楼，其余地方都很荒凉。",
+    "spoken_text_en": "The preparatory office, oh, is such a building, and the rest is desolate.",
+    "written_text_en": "There is only one building in the preparatory office, and the rest of the place is very desolate.",
+    "claude_5shot_en": "At that time, there was only one building in the preparatory office, and the rest of the place was very desolate.",
+    "cs2w_en": "There is only one building in the preparatory office, and the rest is desolate.",
+    "baichuan_en": "At that time, there was only one building in the preparatory office, and other places were desolate.",
+    "gpt5shot_en": "This is the only building in the preparatory office, and the rest is desolate.",
+    "mistral_en": "There is only one building in the preparatory office, and the rest of the place is very desolate."
+  },
+  {
+    "id": 1361,
+    "file_id": 110,
+    "spoken_text": "哦，那那您做的工作也是保密工作了当时，还有有一些对吧，有些就是您不方便说是吧，嗯不方便说对。",
+    "context": "但是当时没有具体的分配单位，我们全部被安排到沈阳3226部队农场劳动锻炼，那里原来是劳改犯的农场。当时劳动锻炼了一年多也不容易，所谓劳动锻炼就是做贡献，比如种植水稻、修建房屋等各种工作。所有的事情都得自己干，包括养猪、养鸭、养鸡，连队的生活就是这样的。因为我们连队的成员都是来自同一所学校的同学，相处起来比较融洽，后来我们被分配到国防科研单位工作。哦，那那您做的工作也是保密工作了当时，还有有一些对吧，有些就是您不方便说是吧，嗯不方便说对。然后您在这这个单位一直就是直到退休，退休因为我们那时候分配不像现在，你愿意去就去，不愿意就去就不去啊对啊。那就呢哪分的都划线，大部分同学都到沟里去了，是就是3线的那个研究所，不是从北京都掉分到那沟里头吗。对他们就去沟里头了，我呢还算比较好的到了，就是原来这个所在北京都搬到石家庄，都集体一直到退休。但是因为我是北京人呢嗯就回来了，是回北哈哈哈回北京了，啊对他那，就是你从北京出去的，只要有原来的户籍地就可以回北京。",
+    "written_text": "您当时从事的工作也属于保密性质，有些内容确实不便透露。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "哦，那您从事的工作在当时也属于保密性质的工作，有些内容您不方便透露，是吗？",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "您当时从事的是保密工作，有些内容不方便透露，对吗？",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "那您做的工作也是保密工作了当时，还有一些，有些就是您不方便说是吧，不方面说。",
+    "baichuan": "您当时从事的工作属于保密性质，有些内容不便公开。",
+    "gpt5shot": "哦，那么您当时的工作也是保密性质的吧，有些事情您不方便透露，对吧？",
+    "mistral": "当时您从事的是保密工作，此外还有一些内容您不方便透露。",
+    "spoken_text_en": "Oh, the work you did was also confidential. At that time, there were still some things, right? Some of them were not convenient for you to say, right? Well, it was not convenient for you to say.",
+    "written_text_en": "The work you were engaged in at that time was also confidential, and some of the contents were really inconvenient to disclose.",
+    "claude_5shot_en": "You were engaged in confidential work at that time, and it was not convenient to disclose some of the contents, right?",
+    "cs2w_en": "Then the work you did was also confidential. At that time, there were still some things that you were not convenient to say.",
+    "baichuan_en": "The work you were engaged in at that time was confidential, and some of the contents were inconvenient to disclose.",
+    "gpt5shot_en": "Oh, so your work at that time was also confidential, right? There are some things that you are not convenient to disclose, right?",
+    "mistral_en": "At that time, you were engaged in confidential work, and there were some other contents that you were not convenient to disclose."
+  },
+  {
+    "id": 6215,
+    "file_id": 330,
+    "spoken_text": "看看老大哥这个手套，摘的时候好不好摘好摘，啊啊啊啊？",
+    "context": "游泳确实是一项不错的运动。您今年多大年纪，70岁还是77岁？目前身体状况良好，没有不适症状，感觉不错，准备开始游泳了。这位老先生游泳动作非常流畅，一看就是常年游泳的老手，游得真好，感觉非常畅快！上岸后的感受可以概括为一个字：畅快！现在完全不觉得冷。看看老大哥这个手套，摘的时候好不好摘好摘，啊啊啊啊？有这么塑料袋，他就是非常容易摘，要没有塑料袋的话摘很费劲啊，费劲啊？",
+    "written_text": "看看这位老先生的手套，摘下来的时候是否容易摘取？",
+    "error_type": [
+      2
+    ],
+    "claude_0shot": {
+      "translation": "看看老大哥这个手套，摘的时候是不是很容易摘下来？",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "看看老大哥这个手套，摘的时候好不好摘？",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "看看老大哥这个手套，摘的时候好不好摘，啊啊？",
+    "baichuan": "这位老先生的泳帽容易摘下来吗？",
+    "gpt5shot": "看看这位大哥的手套，摘的时候好不好摘呢？",
+    "mistral": "看看这位老先生的手套，摘下来的时候是否容易摘？",
+    "spoken_text_en": "Look at the big brother's gloves. Is it good to take them off?",
+    "written_text_en": "Look at the old gentleman's gloves. Is it easy to take them off?",
+    "claude_5shot_en": "Look at Big Brother's gloves. Is it easy to take them off?",
+    "cs2w_en": "Look at Big Brother's gloves. Is it easy to take them off?",
+    "baichuan_en": "Is the old gentleman's swimming cap easy to take off?",
+    "gpt5shot_en": "Look at this big brother's gloves. Is it easy to take them off?",
+    "mistral_en": "Look at the old gentleman's gloves. Is it easy to take them off?"
+  },
+  {
+    "id": 7874,
+    "file_id": 432,
+    "spoken_text": "这是啥? 咸蛋? 咸蛋黄。",
+    "context": "所有肉粽均采用每块一两的五花肉，大肉粽售价9元，而且肉块相当大。这块肉的份量有多重？大约二两吧。这么大一块肉分量十足，相当可观。粽子的品质很好，请问您使用的是什么肉？让我看看是什么肉？我不太清楚，想请教您一下。哦，是五花肉，五花肉是最好的肉。这些肉是从肉市场购买的，并非自家养殖。这是啥? 咸蛋? 咸蛋黄。联系电话:13816872729，taohao.com，这阿婆有名气的。8:00-16:00欢迎广大顾客前来监督，制作时间:大家看, 这阿婆有名气的。欢迎广大顾客前来监督, 大家看, 制作时间·这阿婆有名气的, 联系电话, 淘宝网址:www.shop115571913.taobao.com。婆包到现在, 可那你辛苦啊，辛苦吧, 你买了就不辛苦。",
+    "written_text": "这是咸蛋黄吗？",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "这是什么？咸蛋？咸蛋黄。",
+      "error_type": [
+        3
+      ]
+    },
+    "claude_5shot": {
+      "translation": "这是什么？咸蛋？是咸蛋黄。",
+      "error_type": [
+        1
+      ]
+    },
+    "cs2w": "这是啥?咸蛋黄。",
+    "baichuan": "这是咸蛋黄吗？",
+    "gpt5shot": "这是什么？是咸蛋还是咸蛋黄？",
+    "mistral": "这是咸蛋黄吗？",
+    "spoken_text_en": "What is this? Salted eggs? Salted Egg Yolk.",
+    "written_text_en": "Is this salted egg yolk?",
+    "claude_5shot_en": "What is this? Salted eggs? It's salted egg yolk.",
+    "cs2w_en": "What is this? Salted Egg Yolk.",
+    "baichuan_en": "Is this salted egg yolk?",
+    "gpt5shot_en": "What is this? Is it a salted egg or a salted yolk?",
+    "mistral_en": "Is this salted egg yolk?"
+  },
+  {
+    "id": 8445,
+    "file_id": 456,
+    "spoken_text": "远当时知道，是远是远，嗯但是我有亲属在兰州铁路局。",
+    "context": "您是1956年入学的吗？当时学制是三年，所以1959年就毕业了。我初中时来到哈尔滨，后来从哈尔滨中学考入这所学校。当时学制为三年，毕业后我被统一分配到这里。这是全国统一分配政策，需要填报志愿。您当时为什么选择到这个地方报到？您不觉得离家太远了吗？远当时知道，是远是远，嗯但是我有亲属在兰州铁路局。哦这样啊，这样我就奔他来，分配到省设计院去了，在小沟头那呢。嗯烟厂那呢对，那怎么又到这个厂来了？这个厂当时要建厂，嗯到我们单位去要人。嗯到我这要来，你刚来的时候兰州啥样的你还记得吧？那荒凉的这地方，都是农村，都农村都是都种庄稼。那您来的时候正在建厂着呢是吧？嗯建厂，正在建建的过程当中呢。",
+    "written_text": "当时我知道那里很远，确实很远，但是我有亲属在兰州铁路局工作。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "当时我知道这里离家很远，但我有亲属在兰州铁路局工作。",
+      "error_type": [
+        2,
+        3
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我当时知道这里很远，但我有亲属在兰州铁路局。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "当时知道，但是我有亲属在兰州铁路局。",
+    "baichuan": "当时我知道这里很远，确实很远，但我有亲属在兰州铁路局工作。",
+    "gpt5shot": "当时我知道这个地方很远，但我在兰州铁路局有亲属。",
+    "mistral": "当时我知道距离家乡很远，但是我有亲属在兰州铁路局工作。",
+    "spoken_text_en": "I knew at that time that it was far away, but I had relatives in Lanzhou Railway Bureau.",
+    "written_text_en": "At that time, I knew it was far away, but I had relatives working in Lanzhou Railway Bureau.",
+    "claude_5shot_en": "I knew it was far away, but I had relatives in Lanzhou Railway Bureau.",
+    "cs2w_en": "I knew at that time, but I had relatives in Lanzhou Railway Bureau.",
+    "baichuan_en": "At that time, I knew it was far away, but I had relatives working in Lanzhou Railway Bureau.",
+    "gpt5shot_en": "At that time, I knew this place was far away, but I had relatives in Lanzhou Railway Bureau.",
+    "mistral_en": "At that time, I knew it was far away from my hometown, but I had relatives working in Lanzhou Railway Bureau."
+  },
+  {
+    "id": 1804,
+    "file_id": 128,
+    "spoken_text": "我哪知道，完了搜山去，还真有特*，我们还逮过一个呢，他假面具。",
+    "context": "那其实是军事演习的信号弹，他们告诉我们是演习用的。这时有飞机从北边飞过来，你们应该藏在哪边？当时我们分不清方向，只能跟随人群奔跑，所幸基本都跑对了。我看到那群人很多，基本上跑对了方向。如果你想出风头，结果指挥错了方向。我哪知道，完了搜山去，还真有特*，我们还逮过一个呢，他假面具。哦真有，还真有特*，你想呀我们是靠着河套，山里边自然屯，一到有什么重大就又信号乱飞。还真是前*了是吧，哈哈哈，那段岁月虽然艰苦，但又难忘，也建立了深厚的战友情谊。您说是不是呢，这个视频就给您分享到这里，咱们下个视频不见不散。",
+    "written_text": "我们当时并不知道情况，后来去搜山时，真的发现了特务，还抓获了一个戴着假面具的特务。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "我不太清楚情况，后来我们去搜山，还真发现了特工，我们甚至抓获了一名戴着假面具的特工。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我不清楚情况，后来我们去山里搜索，还真发现了特务，我们甚至抓到过一个戴着假面具的特务。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "我哪知道，完了搜山去，还真有特*，我们还逮过一个呢，他假面具。",
+    "baichuan": "我当时并不知道这是演习信号，后来我们被派去搜山，果然发现了特种部队，还抓到了一个戴着假面具的人。",
+    "gpt5shot": "我怎么知道，后来去搜山，竟然真的有特务，我们还抓到一个，他戴着假面具。",
+    "mistral": "我哪知道，后来去搜山的时候，确实遇到了特务，我们还抓住了一个，他佩戴的是假面具。",
+    "spoken_text_en": "I don't know, after searching the mountain, there is really a special *, we also caught one, his mask.",
+    "written_text_en": "We did not know the situation at that time, but when we went to search the mountain, we really found the spy and captured a masked spy.",
+    "claude_5shot_en": "I do not know the situation, then we went to the mountains to search, really found a spy, we even caught a spy wearing a mask.",
+    "cs2w_en": "I don't know, after searching the mountain, there is really a special *, we also caught one, his mask.",
+    "baichuan_en": "I didn't know it was a drill signal. Later, we were sent to search the mountain. Sure enough, we found the special forces and caught a man wearing a mask.",
+    "gpt5shot_en": "How do I know? Later, when I went to search the mountain, there was actually a spy. We also caught one. He was wearing a mask.",
+    "mistral_en": "I don't know. Later, when we went to search the mountain, we did meet a spy. We also caught one. He was wearing a mask."
+  },
+  {
+    "id": 8490,
+    "file_id": 460,
+    "spoken_text": "哦，您是怎么到兰州的？",
+    "context": "您今年多大年纪？您今年86岁，请问您是哪里人？我来自陕西渭南。哦，您是怎么到兰州的？我调到兰州来了，从哪调过来？沈阳哦，那您又是怎么到沈阳的？分配分去了嘛，哦，分配毕业，分配分到沈阳的。那是什么学校毕业？",
+    "written_text": "您是如何来到兰州的？",
+    "error_type": [
+      4
+    ],
+    "claude_0shot": {
+      "translation": "请问您是怎么来到兰州的？",
+      "error_type": []
+    },
+    "claude_5shot": {
+      "translation": "请问您是如何来到兰州的？",
+      "error_type": []
+    },
+    "cs2w": "您是怎么到兰州的？",
+    "baichuan": "您是如何来到兰州的？",
+    "gpt5shot": "您是如何到达兰州的？",
+    "mistral": "您是如何来到兰州的？",
+    "spoken_text_en": "Oh, how did you get to Lanzhou?",
+    "written_text_en": "How did you come to Lanzhou?",
+    "claude_5shot_en": "How did you come to Lanzhou?",
+    "cs2w_en": "How did you get to Lanzhou?",
+    "baichuan_en": "How did you come to Lanzhou?",
+    "gpt5shot_en": "How did you get to Lanzhou?",
+    "mistral_en": "How did you come to Lanzhou?"
+  },
+  {
+    "id": 1483,
+    "file_id": 115,
+    "spoken_text": "哎呦那天木头啊，那些有时候拉玻璃，粮食烂不起糟的都，都上了哎呦好那够严重的嗯。",
+    "context": "这真是一起重大事故，货车司机撞车后受伤了，他的货车也因此无法行驶。这次撞击发生后，紧接着就波及到我们乘坐的客车，我们是第三辆载客的列车。当时我们的车速也比较正常，甚至达到了较快的110公里左右。我们的客车跟上前车后，发现已经来不及了，一下子撞到了货车尾部，导致后方中间的30多辆货车几乎全都挤在了一起。哎呦那天木头啊，那些有时候拉玻璃，粮食烂不起糟的都，都上了哎呦好那够严重的嗯。我们的客车完了撞上以后啊嗯，就倒了一节车厢，质量不错，倒了一点前面的司机火车头啊嗯。同机没死火那个司炉死了，那时候烧的是煤啊，是，烧煤的那司炉着屁股，吐煤往里头填了他没注意他他看不见是。整个就把他给挤的那去了，前边是火嗯啊，他一挤那火车头他都有水啊他的补水，蒸汽的吗。对把他烧那吗哎，把他给压在那了哎呦，哎够惨了那个司机他是在旁边嗯，他得看信号的开着那什么看前面了啊。",
+    "written_text": "那天装载木材、玻璃和粮食的货车都受到了严重损坏，情况非常严重。",
+    "error_type": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "那天事故中，装载木材、玻璃和粮食的货车都严重受损，情况十分恶劣。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "当时事故中有载木材、玻璃和粮食的卡车都被撞上了，情况非常严重。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "cs2w": "那天木头，那些有时候拉玻璃，粮食烂不起糟的都，都上了很严重的。",
+    "baichuan": "那天那些运输木材、玻璃、粮食等易碎物品的货车，都受到了严重影响，情况非常严重。",
+    "gpt5shot": "哎呀，那天的事故中，木材、玻璃和粮食等货物都被波及，情况非常严重。",
+    "mistral": "那天的事故非常严重，粮食和玻璃等物品都被撕坏了。",
+    "spoken_text_en": "Oh, the wood that day, ah, those who sometimes pulled the glass, the grain could not afford to rot, all of them, oh, well, that was serious enough.",
+    "written_text_en": "The wagons loaded with wood, glass and grain were badly damaged that day, and the situation was very serious.",
+    "claude_5shot_en": "At that time, trucks carrying wood, glass and grain were hit in the accident, and the situation was very serious.",
+    "cs2w_en": "That day, the wood, those who sometimes pulled the glass, and the grain could not afford to rot, were all very serious.",
+    "baichuan_en": "On that day, the trucks transporting wood, glass, grain and other fragile items were seriously affected, and the situation was very serious.",
+    "gpt5shot_en": "Alas, in the accident that day, goods such as wood, glass and grain were affected, and the situation was very serious.",
+    "mistral_en": "The accident that day was very serious, and items such as grain and glass were torn."
+  },
+  {
+    "id": 6885,
+    "file_id": 392,
+    "spoken_text": "嗯！那么你去了解过吗？啥养老院，有种养老院太差了，现在这个养老院不是H送个送个送个全是盈利性质的，哦。",
+    "context": "那时候你还不到80岁，应该没有经历过这种情况吧？你难道没考虑过年纪大了去养老院吗？养老院可不是什么好地方。我家有个亲戚执意要去养老院，后来身体不适又坚持要回家，回家后没过多久就去世了。那么实际情况是怎样的呢？仅凭你这点养老金，即便全部交给养老院也远远不够。嗯！那么你去了解过吗？啥养老院，有种养老院太差了，现在这个养老院不是H送个送个送个全是盈利性质的，哦。靠这个赚钞票个，养啥个养老院啦，侬对养老这种影响也不好，不是慈善机构噢。不是慈善机构！他呢只是盈利性质的，嗯人家喏八千喏人家一万喏，侬侬侬养老金侬侬侬弄弄不起对伐。那么靠小孩靠得着不呢？小孩呢？我们倒贴给他们，噢，哈哈倒贴给他们。侬还指望他们来照顾侬啊？噢派用派侬用场勒，就三天两天来事体解决勒。",
+    "written_text": "你去了解过养老院吗？有些养老院条件很差，现在的养老院基本都是盈利性质的。",
+    "error_type": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "那么你去了解过吗？有些养老院质量太差，现在的养老院不是慈善机构，全都是盈利性质的。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "你了解过养老院的情况吗？有些养老院质量很差，现在的养老院基本都是营利性质的机构。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "那么你去了解过吗？有种养老院太差了，现在这个养生院不是送个全是盈利性质的，哦。",
+    "baichuan": "你有没有调查过养老院的情况？有些养老院条件很差，现在大部分养老院都是盈利性质的。",
+    "gpt5shot": "嗯！那么你去了解过吗？有些养老院条件很差，现在这个养老院并不是H送的，全都是盈利性质的。",
+    "mistral": "你是否了解过养老院的情况？有些养老院的条件很差，现在的养老院都是盈利性质的。",
+    "spoken_text_en": "Uh! So have you ever gone to know? What nursing home? There is a kind of nursing home that is too bad. Now this nursing home is not all profitable. Oh.",
+    "written_text_en": "Have you ever been to a nursing home? Some nursing homes are in poor condition, and now the nursing homes are basically profitable.",
+    "claude_5shot_en": "Do you know anything about nursing homes? The quality of some nursing homes is very poor, and now nursing homes are basically profit-making institutions.",
+    "cs2w_en": "So have you ever gone to know? There is a kind of nursing home that is too bad. Now this health care home is not all profitable. Oh.",
+    "baichuan_en": "Have you looked into the nursing home situation? Some nursing homes are in poor condition, and now most of them are profitable.",
+    "gpt5shot_en": "Uh! So have you ever gone to know? The conditions of some nursing homes are very poor. Now this nursing home is not sent by H. It is all profitable.",
+    "mistral_en": "Have you ever heard about nursing homes? The conditions of some nursing homes are very poor, and now the nursing homes are profitable."
+  },
+  {
+    "id": 4774,
+    "file_id": 259,
+    "spoken_text": "现在啊现在将奔这数，说实在的那六千块钱可以倒是。",
+    "context": "那时候在车间工作时必须使用金子和氰化钠等材料。在车间工作时必须使用这些材料，并且需要在公安局备案。购买半导体元器件必须备案，成品出厂时需确认是否为半导体器件，否则无法通过审核。您是哪一年退休的？按照35年工龄计算，您现在应该享有不错的退休待遇。现在啊现在将奔这数，说实在的那六千块钱可以倒是。",
+    "written_text": "现在退休金将近六千元，确实还算可以。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "现在按照这个数计算，说实在的，那六千块钱确实可以了。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "如今回顾计算，那六千块钱的退休金确实还可以。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "现在将奔这数，说实在的那六千块钱可以倒是。",
+    "baichuan": "现在按照这个标准计算，说实话，每月六千元的退休金还算不错。",
+    "gpt5shot": "现在的退休金大约是六千块钱，说实在的，这个数目还是可以的。",
+    "mistral": "现在的退休金数额，说实话，每月六千元可以算是不错的。",
+    "spoken_text_en": "Now, ah, now I will rush to this number. To be honest, the six thousand yuan is OK.",
+    "written_text_en": "Now the pension is nearly six thousand yuan, which is really OK.",
+    "claude_5shot_en": "Looking back now, the pension of six thousand yuan is really OK.",
+    "cs2w_en": "Now I will rush to this number. To be honest, the six thousand yuan is OK.",
+    "baichuan_en": "Now, according to this standard, to be honest, the monthly pension of 6000 yuan is not bad.",
+    "gpt5shot_en": "Now the pension is about six thousand yuan. To be honest, this amount is still OK.",
+    "mistral_en": "The current amount of pension, to be honest, 6000 yuan a month can be considered good."
+  },
+  {
+    "id": 7205,
+    "file_id": 412,
+    "spoken_text": "可以的，我习惯了，那你平时还有啥爱好？去外面旅游旅游？",
+    "context": "椎间盘突出压迫神经，导致走路时不太灵活。我感觉你走路很慢？确实走得慢，我看你还戴着头盔，这个头盔是做什么用的？这个头盔是我骑电动自行车时戴的。啊？您这么大年纪还骑电动车？唉，我在家走路都走不动了，您这样骑车太危险了。可以的，我习惯了，那你平时还有啥爱好？去外面旅游旅游？旅游我60岁开始旅游了，我说80岁后我就不出去了，为啥呢？不出去了。80岁了也年纪大了，哦！出去也不方便，生怕给人添麻烦？哎一添麻烦。买飞机票要啥证明啊！很繁琐，哦对对对，对对对对对对对对对对。再说该出去的地方以前也去过了，现在就在家里安安心心，安安心心的在家里笃悠悠的养老了。",
+    "written_text": "我已经习惯了。你平时还有什么爱好？比如外出旅游？",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "没关系，我已经习惯了。你平时还有什么爱好？比如出去旅游吗？",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "没关系，我已经习惯了。你平时有什么爱好吗？比如外出旅游？",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "可以的，我习惯了，那你平时还有啥爱好？去外面旅游？",
+    "baichuan": "可以的，我已经习惯了。那么，您平时还有什么兴趣爱好呢？比如外出旅游？",
+    "gpt5shot": "可以的，我已经习惯了。那么，您平时还有什么爱好？会出去旅游吗？",
+    "mistral": "我已经习惯了。那你平时有什么爱好吗？比如去外面旅游？",
+    "spoken_text_en": "Yes, I'm used to it. What hobbies do you usually have? Take a trip outside?",
+    "written_text_en": "I'm used to it. What other hobbies do you usually have? Like traveling?",
+    "claude_5shot_en": "It's okay. I'm used to it. Do you have any hobbies? Like traveling?",
+    "cs2w_en": "Yes, I'm used to it. What hobbies do you usually have? Travel outside?",
+    "baichuan_en": "Yes, I'm used to it. So, what hobbies do you usually have? Like traveling?",
+    "gpt5shot_en": "Yes, I'm used to it. So, what hobbies do you usually have? Will you go out to travel?",
+    "mistral_en": "I'm used to it. Do you have any hobbies? Like traveling outside?"
+  },
+  {
+    "id": 8795,
+    "file_id": 479,
+    "spoken_text": "您是在那个哈尔滨锅炉厂待了几年呀？待了两年，我们是建锅炉厂，建锅炉厂，不是在锅炉厂工作。",
+    "context": "我大概十五六岁时就在哈尔滨了。这是第一个五年计划期间在哈尔滨建设的项目，比如哈尔滨量具刃具厂。当时哈尔滨有一些锅炉厂，还有奇瑞机场，我们曾在那里当过学徒。您当时具体在哪个厂工作？是在哈尔滨量具刃具厂，之后又调到了锅炉厂。您是在那个哈尔滨锅炉厂待了几年呀？待了两年，我们是建锅炉厂，建锅炉厂，不是在锅炉厂工作。那你们的工作单位是啥？那叫东北一公司吧，50年代初的时候啊，他是这么个过程。大的厂子都成立个基本建设队伍，给他们建厂，没有建工局，没有就是我。就我就说我是一个电机厂，电机厂组织一帮的人建电机厂，完了以后，这就整个浪的把建筑单位组合起来。他也是他就是在哈尔滨量具刃具厂组建的基建队伍哎，电工局嗯，中国第一机械工业部电气工业管理局。",
+    "written_text": "您在哈尔滨锅炉厂工作了几年？我在那里工作了两年，当时我们的工作是参与锅炉厂的建设，而不是在锅炉厂正式工作。",
+    "error_type": [
+      1,
+      2
+    ],
+    "claude_0shot": {
+      "translation": "我在哈尔滨锅炉厂待了两年，但我们是参与建设锅炉厂的，不是在锅炉厂工作。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我在那里待了两年，但我们是参与建设锅炉厂，而不是在锅炉厂工作。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "您是在那个哈尔滨锅炉厂待了几年呀？待了两年，我们是建鍋炉厂，不是在锅炉廠工作。",
+    "baichuan": "您在哈尔滨锅炉厂工作了几年？我在那里工作了两年，当时是参与锅炉厂的筹建工作，而不是在锅炉厂正式工作。",
+    "gpt5shot": "您在那个哈尔滨锅炉厂待了两年。我们是负责建设锅炉厂的，而不是在锅炉厂工作。",
+    "mistral": "您在哈尔滨锅炉厂工作了几年？我在那里工作了两年，当时的工作是参与锅炉厂的建设，而不是在锅炉厂正式工作。",
+    "spoken_text_en": "How many years have you been in the Harbin Boiler Factory? For two years, we were building a boiler factory, not working in a boiler factory.",
+    "written_text_en": "How many years have you worked in Harbin Boiler Factory? I worked there for two years, when our job was to participate in the construction of the boiler plant, not to work formally in the boiler plant.",
+    "claude_5shot_en": "I was there for two years, but we were involved in building the boiler plant, not working in the boiler plant.",
+    "cs2w_en": "How many years have you been in the Harbin Boiler Factory? For two years, we built a boiler factory, not worked in a boiler factory.",
+    "baichuan_en": "How many years have you worked in Harbin Boiler Factory? I worked there for two years. At that time, I was involved in the preparatory work of the boiler factory, not in the formal work of the boiler factory.",
+    "gpt5shot_en": "You have been in the Harbin Boiler Factory for two years. We are responsible for building the boiler plant, not working in the boiler plant.",
+    "mistral_en": "How many years have you worked in Harbin Boiler Factory? I worked there for two years, and the job at that time was to participate in the construction of the boiler plant, not to work formally in the boiler plant."
+  },
+  {
+    "id": 3128,
+    "file_id": 175,
+    "spoken_text": "艾呦，我说十几，有没有苦苦难耐？唐山地震，7口炸死6个。",
+    "context": "大儿子在新西兰，今天早上给我打电话问候我的身体状况。小儿子在顺义县汽车研究院工作，现在家里只剩下我和小孙子两个人。儿媳妇多少有一点，哦，跟您在一块呢啊，家里是穷八路。我的老家在南京铁道医学院。哥哥13岁加入第三野战军，姐姐14岁参加第二野战军并参与解放西藏。艾呦，我说十几，有没有苦苦难耐？唐山地震，7口炸死6个。家里头姐姐啊，第二轮战军转业到唐山，到唐山姐夫那是唐山，完了以后就剩一个外甥女了现在。你说遇上了怎么办呢？给老人孩子我现在就是一照，喜欢什么孩子？嗯一定给我带好了，不管多大他是孩子都带好了，老人。你看我大儿子今年小70岁了啊，没一手指头哦，我不会骂人嗯。",
+    "written_text": "唉，十几岁的时候真是苦不堪言。唐山地震时，家里七口人中有六人遇难。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "唉呀，我说那些十几岁的青少年，经历过的苦难难以忍受。唐山地震时，我姐姐家七口人中有六个遇难了。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "十几岁就参军，经历了很多艰难困苦。唐山地震时，我姐姐一家七口有六人遇难。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "cs2w": "我说十几，有没有苦苦难耐？唐山地震，7口炸死6个。",
+    "baichuan": "我记得当时才十几岁，生活非常艰苦。唐山地震时，我们一家七口人中有六口被炸死。",
+    "gpt5shot": "哎哟，我说十几岁的时候，经历过多少艰难困苦？唐山地震时，我们家7口人中有6个遇难。",
+    "mistral": "我说过十几次，生活很艰苦难忍。唐山地震炸死了七口人，剩下六个人。",
+    "spoken_text_en": "Ai Yo, I said ten, is there any suffering? Six of the seven people were killed in the Tangshan earthquake.",
+    "written_text_en": "Alas, when I was a teenager, I was miserable. Six of the seven members of the family were killed in the Tangshan earthquake.",
+    "claude_5shot_en": "He joined the army when he was a teenager and experienced many hardships. Six members of my sister's family were killed in the Tangshan earthquake.",
+    "cs2w_en": "I said ten, is there any suffering? Six of the seven people were killed in the Tangshan earthquake.",
+    "baichuan_en": "I remember being a teenager and living a very hard life. During the Tangshan earthquake, six of the seven members of our family were killed.",
+    "gpt5shot_en": "Oh, how many hardships did I go through when I was a teenager? Six of the seven members of my family were killed in the Tangshan earthquake.",
+    "mistral_en": "I have said a dozen times that life is hard and unbearable. Seven people were killed in the Tangshan earthquake, leaving six people."
+  },
+  {
+    "id": 5628,
+    "file_id": 305,
+    "spoken_text": "滴啊滴答滴滴答滴滴答答，现在你看我87，为什么脑子反应这么好啊？",
+    "context": "我感觉耳聪目明，心态平稳，底气十足，既不心慌也不气短。您的身体状态非常好。老先生，您年轻时从事什么工作？滴滴答答，这个一和二之间差一个点，差一个点滴滴。滴啊滴答滴滴答滴滴答答，现在你看我87，为什么脑子反应这么好啊？那时候练出来真棒，而且您反应特别的敏捷，是吧对啊。您87岁能有您这头脑真是真棒，让我们真是肃然起敬了。我搞无线的，你想肯定的无线电吗？无线电属于是无信啊通信呢啊，人有译电的有我发我电报员。",
+    "written_text": "我现在87岁了，但头脑反应依然敏捷。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "现在你看我已经87岁了，为什么大脑反应还这么好呢？",
+      "error_type": [
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我现在已经87岁了，为什么思维反应还这么好？",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "现在你看我，为什么脑子反应这么好啊？",
+    "baichuan": "我现在87岁了，思维依然非常敏捷，这是为什么呢？",
+    "gpt5shot": "现在我已经87岁了，为什么我的思维依然如此敏捷呢？",
+    "mistral": "",
+    "spoken_text_en": "Tick, tick. Now look at me. Why does my brain react so well?",
+    "written_text_en": "I am now 87 years old, but my mind is still quick.",
+    "claude_5shot_en": "I'm 87 years old now. Why do I still think so well?",
+    "cs2w_en": "Now look at me, why does my brain react so well?",
+    "baichuan_en": "I'm 87 years old now, and my mind is still very quick. Why is that?",
+    "gpt5shot_en": "Now that I am 87 years old, why is my mind still so quick?"
+  },
+  {
+    "id": 9868,
+    "file_id": 544,
+    "spoken_text": "当时来了两百多人，两百多人，现在现在，现在没几个了。",
+    "context": "当时是集体分配的结果，兰州石油化工机械厂专门派车来接我们。回到河南安阳后，住了一年。1959年，我从1958年回国后被分配到兰州石油化工机械厂工作。当时和你们一起来的人现在还有多少？现在没剩几个了，当时来了多少人？你们是一起来的。当时来了两百多人，两百多人，现在现在，现在没几个了。退休生活满意吗？大叔满意满意，相当满意啊，真是太满意了。现在比起以前好多了吧？以前好多了，国家应该把你们照顾好。去年发了300块钱，本来头天说的发500块钱，感觉晚年生活还是挺幸福的。是吧哎，幸福幸福，可以好着呢。",
+    "written_text": "当时来了两百多人，现在没剩几个了。",
+    "error_type": [
+      4
+    ],
+    "claude_0shot": {
+      "translation": "当时来了两百多人，现在已经没剩几个了。",
+      "error_type": [
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "当时来了两百多人，现在已经所剩无几了。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "当时来了两百多人，现在没几个了。",
+    "baichuan": "当时有二百多人一起过来，但现在只剩下几个人了。",
+    "gpt5shot": "当时来了两百多人，现在只剩下很少几个人了。",
+    "mistral": "",
+    "spoken_text_en": "At that time, more than 200 people came, more than 200 people, and now, now there are few.",
+    "written_text_en": "More than two hundred people came at that time, and now there are few left.",
+    "claude_5shot_en": "At that time, more than two hundred people came, and now there are few left.",
+    "cs2w_en": "More than two hundred people came at that time, and now there are few.",
+    "baichuan_en": "At that time, more than 200 people came together, but now there are only a few people left.",
+    "gpt5shot_en": "At that time, more than two hundred people came, and now there are only a few people left."
+  },
+  {
+    "id": 3406,
+    "file_id": 187,
+    "spoken_text": "是哎，部队下一般都按副职，按不到正职，是那大爷，那您的军龄得20多年哎，工龄是42年啊。",
+    "context": "后来您转业到地方后，我先在街道办事处工作，之后又到政府机关担任部长职务。我原本是外地人。我退休后回到北京，此前在北京空军服役，1968年因部队调防被调往南京军区，最终在江西南昌退休。因为我们转业退休时已经40多岁了，到地方后还需要一段适应期，所以很难获得晋升机会。是的，我在部队是团级干部，属于团结专业。例如，我原本是正团级，转业到地方后会被降半级，不能按正团级安排，而是按副职安排。是哎，部队下一般都按副职，按不到正职，是那大爷，那您的军龄得20多年哎，工龄是42年啊。我在地方在部队干了24年，在地方干了18年，工龄真长。大爷那您现在的养老待遇怎么样？我养老待遇还可以，八九千块钱吧，哦八九千，那还是可以，还可以还可以，够吃够用了。是啊，不图别的，就图个身体好就行，你不要跟任何人比，嗯我就自己跟我自己比，我感到很满足了。我农村出来的人，是吧农村老百姓出来的人啊，吃饭穿衣不愁看病不愁。",
+    "written_text": "是的，部队转业到地方一般按副职安排，很难按正职安排。那位大爷，您的军龄有20多年，工龄是42年啊。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "是的，从部队转业到地方通常都按副职安排，很难获得正职职位。您在部队服役有20多年了，总工龄达到42年。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "是的，从部队转业到地方一般都按副职安排，很难获得正职机会。您在部队服役有20多年了，工龄总共达到42年。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "cs2w": "是，部队下一般都按副职，按不到正职，是那大爷，那您的军龄得20多年，工龄是42年啊。",
+    "baichuan": "部队转业一般按副职安排，无法担任正职职务。您的军龄有20多年，工龄是42年。",
+    "gpt5shot": "是的，部队下来的干部一般都按副职安排，很难按正职安排。大爷，您的军龄应该有20多年，工龄是42年。",
+    "mistral": "在部队退休时，一般不能按正职安排，而是按副职安排。那位大爷，您的军龄有20多年，工龄有42年。",
+    "spoken_text_en": "Yes, ah, the army generally according to the deputy, according to less than principal, is that uncle, then your length of military service is more than 20 years, ah, the length of service is 42 years.",
+    "written_text_en": "Yes, the transfer of troops to civilian work is generally arranged according to the deputy post, and it is very difficult to arrange according to the principal post. Grandpa, you have more than 20 years of military service and 42 years of service.",
+    "claude_5shot_en": "Yes, transferring from the army to civilian work is generally arranged according to the deputy position, and it is very difficult to get the opportunity of the principal position. You have served in the army for more than 20 years, and the total length of service is 42 years.",
+    "cs2w_en": "Yes, the army is generally according to the deputy, according to less than principal, is that uncle, then your length of military service is more than 20 years, the length of service is 42 years ah.",
+    "baichuan_en": "The transfer of the army is generally arranged according to the deputy post, and it is impossible to hold the principal post. You have more than 20 years of military service and 42 years of service.",
+    "gpt5shot_en": "Yes, the cadres who have come down from the army are generally arranged according to their deputy posts, and it is very difficult to arrange them according to their principal posts. Grandpa, your military service should be more than 20 years, and your length of service is 42 years.",
+    "mistral_en": "When they retire in the army, they are generally not arranged according to their principal posts, but according to their deputy posts. Grandpa, you have more than 20 years of military service and 42 years of service."
+  },
+  {
+    "id": 851,
+    "file_id": 87,
+    "spoken_text": "但是这个风流还是，我不能说那个话啊，就是说把我直到现在嗯。",
+    "context": "当时见过一两个相亲对象，都觉得他们不如我。您认为他们哪些方面比不上我呢？他们太现实了。您那一代人应该不太注重人际关系吧，不太看重这些吧？也有人很少遇到这样的人，但这样的人很少，大部分人都是大公无私的。他那种不怕困难、勇往直前的精神给我留下了特别好的印象。但是这个风流还是，我不能说那个话啊，就是说把我直到现在嗯。尤其是现在啊，这种波澜壮阔的或者好的这种想法，全都说太错了。但是我走错了路，那您您觉得走错路是您觉得，说您现在没结婚您后悔了不是啊？是因为社会给我打击太大，您当时年轻时候您也精神，那肯定追求您的人挺多。太多了，啊我没有答应过，我就因为有一个好的思想，啊能够支撑。",
+    "written_text": "但这种风流韵事，我实在不便明说，至今仍影响着我。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "但是这种风格（精神）仍然影响着我，直到现在。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "但是关于风流这一点，我不便多说，它对我的影响一直持续到现在。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "但是这个风流还是，我不能说那个话，把我直到现在。",
+    "baichuan": "但我不能这么说，就是到现在我还是这样。",
+    "gpt5shot": "但是这种风流韵事，我不能详细说，只能说它对我至今仍有影响。",
+    "mistral": "但这种风流的人，我不能说出来，因为它们直到现在还在影响着我。",
+    "spoken_text_en": "But this romance is still, I can't say that, ah, that is to say, until now.",
+    "written_text_en": "But this kind of love affair, which I really can't say, still affects me.",
+    "claude_5shot_en": "But I can't say much about romance, and its influence on me continues to this day.",
+    "cs2w_en": "But this romance is still, I can't say that, until now.",
+    "baichuan_en": "But I can't say that. I'm still like this.",
+    "gpt5shot_en": "But this love affair, I can't say in detail, only that it still has an influence on me.",
+    "mistral_en": "But this kind of dissolute person, I cannot speak out, because they are still affecting me until now."
+  },
+  {
+    "id": 4914,
+    "file_id": 267,
+    "spoken_text": "这窗这窗台属于我的，哈哈哈这是我的私房你的私房对，你们在这聊天，你影响我休息我就不干谁谁呀。",
+    "context": "当时这是我的私人房产，不是供你聊天的地方，这块地现在归我所有，房产证在我手里，你无法否认。我有什么可炫耀的？你倒是跟我炫耀起来了。你去问问这是不是我的私人房产？房子是我的，窗台也是我的，你在这里影响我休息。我已经多次客客气气地告诉您，我坐在这里晒太阳，但您说一百次也没用。如果你晚些时候出来，我会用纸板给你垫上。不用你帮忙，我自己能处理，请你自觉一点。这窗这窗台属于我的，哈哈哈这是我的私房你的私房对，你们在这聊天，你影响我休息我就不干谁谁呀。谁一聊天，你往这一坐跟我跟你聊天，我坐与你有什么关系啊，你在这招人聊天啊我招人，我认识他们吗。我告你我现在我跟你说，对我有意见你可以告我对你没意见，你就告诉我你这老太太特殊，我就对我要等你告我。我不等你我就让你就让你自觉，我不自觉我挺尊敬您的，你别尊敬我，让他坐坐下我给你拿纸胳膊垫。那边是墙我听不见我用不着，我用不着你你用不着啊哈哈哈，太不自觉了我不是你，人家这窗台底下围一圈人你干不干。",
+    "written_text": "这个窗台是我的私人空间，请你们不要在这里聊天，否则会影响我休息。",
+    "error_type": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "这个窗台属于我的私人房产，你们在这里聊天影响了我的休息，我不会容忍任何人这样做。",
+      "error_type": [
+        1,
+        2,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "这窗台属于我的。是的，这是我的私人房产。如果你们在这里聊天，影响了我休息，我肯定会有意见。",
+      "error_type": [
+        2,
+        4
+      ]
+    },
+    "cs2w": "这窗台属于我的，哈哈哈这是我的私房，你们在这聊天，你影响我休息我就不干谁呀。",
+    "baichuan": "这扇窗户和窗台都属于我的私人财产，你们在这里聊天会影响我休息，所以请你们自觉一些。",
+    "gpt5shot": "这窗户和窗台是属于我的，哈哈，这是我的私人空间。你们在这里聊天影响我休息，我是不会同意的。",
+    "mistral": "这个窗台属于我的私人房产，你们在这里聊天会影响我休息，我就不参与谁人的聊天了。",
+    "spoken_text_en": "This window, this windowsill belongs to me. Ha ha ha, this is my private room. Your private room is right. You are chatting here. If you affect my rest, I will not do it.",
+    "written_text_en": "This windowsill is my private space. Please don't chat here, or it will affect my rest.",
+    "claude_5shot_en": "This windowsill belongs to me. Yes, this is my private property. If you chat here and affect my rest, I will definitely have an opinion.",
+    "cs2w_en": "This windowsill belongs to me. Hahaha, this is my private room. If you chat here, I won't do anything if you affect my rest.",
+    "baichuan_en": "This window and windowsill belong to my private property. Your chatting here will affect my rest, so please be self-conscious.",
+    "gpt5shot_en": "This window and windowsill belong to me. Haha, this is my private space. I will not agree that your chatting here will affect my rest.",
+    "mistral_en": "This windowsill belongs to my private property. If you chat here, it will affect my rest. I will not participate in anyone's chat."
+  },
+  {
+    "id": 4958,
+    "file_id": 268,
+    "spoken_text": "我就住这，这地不错我看着这挺好的，是啊环境也好不错现在不错嗯，想玩就玩去。",
+    "context": "母亲，您身体看起来非常健康，但您自己觉得还不够好吗？您今年高寿？我83岁了，您的精神状态真好啊！您看起来可不像腿脚不便的人，但您说腿脚没力气，大妈，您就住在这里吗？我就住这，这地不错我看着这挺好的，是啊环境也好不错现在不错嗯，想玩就玩去。大妈您住这多长时间了？我住这五十多年了，哎呦那您是嫁过来的吧？嫁到这边来对哈哈我来的早，你这住50多年了还住过别的地？那您您家现在这住多大呀？家大不大一间房，那有多少平？13米多差不多吧，是一般的这平房来讲都没有太大。",
+    "written_text": "我就住在这里，这个地方很不错，环境也很好，现在的生活很舒适，可以自由自在地活动。",
+    "error_type": [
+      4
+    ],
+    "claude_0shot": {
+      "translation": "我就住在这里，这个地方很不错，我觉得这里环境很好，现在的生活条件也不错，想要外出游玩随时都可以去。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我就住在这里，这地方很好，环境也不错，有空就可以出去活动活动。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "我就住这，这地不错我看着这挺好的，是啊环境也好不错现在不错，想玩就玩去。",
+    "baichuan": "我就住在这里，这个地方很好，环境也很不错。现在生活得很好，想出去玩就去玩吧。",
+    "gpt5shot": "我就住在这里，这地方不错，我觉得挺好的。是啊，环境也很好，现在挺不错的，想玩就去玩。",
+    "mistral": "我就住在这里，这里的环境很好，现在的生活也很舒适，可以自由自在地活动。",
+    "spoken_text_en": "I live here. It's a good place. I think it's very good. Yes, the environment is good. It's good now. You can go to play if you want.",
+    "written_text_en": "I live here, this place is very good, the environment is also very good, now the life is very comfortable, can move freely.",
+    "claude_5shot_en": "I live here, this place is very good, the environment is also good, free time can go out to exercise.",
+    "cs2w_en": "I live here. It's a good place. I think it's good. Yes, the environment is good. It's good now. You can play if you want.",
+    "baichuan_en": "I live here, the place is very nice and the environment is very nice. Now life is very good, and you can go out to play if you want.",
+    "gpt5shot_en": "I live here. It's a good place. I think it's good. Yes, the environment is also very good. It's very good now. You can go to play if you want.",
+    "mistral_en": "I live here, the environment here is very good, now the life is also very comfortable, you can move freely."
+  },
+  {
+    "id": 2317,
+    "file_id": 140,
+    "spoken_text": "我一寻思，现在你把她扔这了，你说谁管呀？让她死在这屋里头吗？这我一直管她到现在。",
+    "context": "我年轻时没有好好学习，女儿结婚后也患上了这种病，我照顾了她十年。等女儿康复后，我又患上了糖尿病，住院治疗了两年。等我出院后，妻子就患上了这种病，我一直照顾她到现在。她不肯吃饭，说\"我不吃你的饭，我要喝粥\"，我就出去给她煮粥。她说不喝粥了，要吃烧饼，我只好又出去给她买烧饼，你说我能怎么办呢？我早就想过要一走了之，把她丢在这里不管，自己回老家去。我一寻思，现在你把她扔这了，你说谁管呀？让她死在这屋里头吗？这我一直管她到现在。你不管她怎么骂怎么弄的，我从来了北京第二年，和她两年，在这跟她住在一起以后，我我俩户口都分开了。为什么呀离婚了吗？因为我老老丈母娘，她不喜欢我，我就跑到王致和去了。王致和在我的办公室里，我住了15年，我和我老婆一直分居分了15年，分了15年之后，等我退休回来了。我是05年退的休，等我回来了结果，她不跟我住一起，她睡她的觉，我睡我的觉，就这样。",
+    "written_text": "我转念一想，现在如果把她丢在这里不管，谁来照顾她呢？难道让她在这屋子里自生自灭吗？因此我一直照顾她到现在。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "我思考了一下，如果现在把她丢在这里不管，谁来照顾她呢？难道要让她在这屋里孤独死去吗？所以我一直照顾她到现在。",
+      "error_type": [
+        1,
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我思考后认为，如果现在将她遗弃在这里，还能有谁来照顾她呢？难道要让她独自死在这房子里吗？所以我一直照顾她到现在。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "我一寻思，现在你把她扔这了，你说谁管呀？让她死在这屋里面吗？这我一直管她到现在。",
+    "baichuan": "我想，如果现在把她丢在这里不管，那么谁来照顾她呢？难道让她死在这里吗？所以我一直照顾她到现在。",
+    "gpt5shot": "我一想，现在如果把她丢在这里，那谁来照顾她呢？难道让她在这屋里去世吗？所以我一直照顾她到现在。",
+    "mistral": "我想过现在把她丢在这里不管，谁来照顾她呢？让她在这里死去吗？所以我一直照顾她到现在。",
+    "spoken_text_en": "I thought, now that you have left her here, who will take care of her? Let her die in this room? I've been in charge of her until now.",
+    "written_text_en": "Then I thought, if we leave her here now, who will take care of her? Should she be left to fend for herself in this house? So I've been taking care of her ever since.",
+    "claude_5shot_en": "After thinking about it, I thought, if she was abandoned here now, who else would take care of her? Do you want her to die alone in this house? So I've been taking care of her until now.",
+    "cs2w_en": "I thought, now that you have left her here, who will take care of her? Let her die in this room? I've been in charge of her until now.",
+    "baichuan_en": "I thought, if we leave her here now, who will take care of her? Let her die here? So I've been taking care of her until now.",
+    "gpt5shot_en": "I thought, if she was left here now, who would take care of her? Let her die in this room? So I've been taking care of her until now.",
+    "mistral_en": "I thought about leaving her here now. Who will take care of her? Let her die here? So I've been taking care of her until now."
+  },
+  {
+    "id": 260,
+    "file_id": 67,
+    "spoken_text": "是您怎么当上厂长的，当时我就是通过改选，啊啊，人家选我当厂长。",
+    "context": "别人都盼着生儿子，您却盼着生女儿。那时候不论生男生女，只要有一个孩子就很好了。大妈，您后来去工厂工作，具体负责什么岗位呢？最初是在钢丝厂工作，您知道吗？那位厂长知道您曾经是钢丝厂的厂长。钢丝厂和铜丝厂的厂长都是由我们担任的，我于五十年代担任钢丝厂厂长。是您怎么当上厂长的，当时我就是通过改选，啊啊，人家选我当厂长。那是不是您年轻时候有文化呀，有文化，对您年轻时候是什么学历呀，我那会就说初中毕业。那就不简单呐，您那年代，可不是吗，紧着才上了初中。是那当时是不是您选厂长时候，就是因为您有文化，对对对就跟那个工作也有关系。是您就是厂长，一直干到退休吗，对。",
+    "written_text": "当时我通过改选被推举为厂长。",
+    "error_type": [
+      4
+    ],
+    "claude_0shot": {
+      "translation": "您是怎么当上厂长的？当时我是通过改选，被大家选为厂长的。",
+      "error_type": [
+        1
+      ]
+    },
+    "claude_5shot": {
+      "translation": "当时是通过改选方式，由大家选举我担任厂长的。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "是您怎么当上厂长的，当时我就是通过改选，人家选我当厂长。",
+    "baichuan": "我是通过改选被选为厂长的。",
+    "gpt5shot": "我是通过改选当上厂长的，当时大家选我担任这个职位。",
+    "mistral": "当时我是通过选拔才当上厂长的，他们选择了我担任厂长。",
+    "spoken_text_en": "How did you become the factory director? At that time, I was re-elected. Ah, they elected me as the factory director.",
+    "written_text_en": "At that time, I was elected as the factory director through re-election.",
+    "claude_5shot_en": "At that time, I was elected as the factory director through re-election.",
+    "cs2w_en": "How did you become the factory director? At that time, I was re-elected, and they elected me as the factory director.",
+    "baichuan_en": "I was elected as the director of the factory through re-election.",
+    "gpt5shot_en": "I became the factory director through re-election, and I was elected to this position at that time.",
+    "mistral_en": "At that time, I was selected to be the factory director, and they chose me as the factory director."
+  },
+  {
+    "id": 8580,
+    "file_id": 463,
+    "spoken_text": "我们家里在三原县城南边，离西安还近二十几公里。",
+    "context": "我有两个孩子，他们都在兰州工作。您问的是陕西哪里？在西安北面，泾阳再往北就是三原县。三原县现在离西安很近，发展得不错，整体状况良好。从路标上看到三原县城，并得知距离西安有37公里。我们家里在三原县城南边，离西安还近二十几公里。老家还有人没有，还有人啊，有老家都是弟兄价，对对对侄子。老人早都没有了，我都80多年了，那老人现在生活好了呗。啊哎，现在儿女们大了，人家这再不管了么，对各自生活他的。",
+    "written_text": "我家位于三原县城南侧，距西安市区约二十余公里。",
+    "error_type": [
+      1
+    ],
+    "claude_0shot": {
+      "translation": "我们家位于三原县城南边，离西安还有二十几公里近。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "我们家住在三原县城南边，距西安大约二十几公里。",
+      "error_type": []
+    },
+    "cs2w": "我们家里在三原县城南边，离西安还近二十几公里。",
+    "baichuan": "我家住在三原县城南部，距离西安约二十多公里。",
+    "gpt5shot": "我们家在三原县城南边，距离西安还有二十多公里。",
+    "mistral": "",
+    "spoken_text_en": "Our home is in the south of Sanyuan County, nearly 20 kilometers away from Xi'an.",
+    "written_text_en": "My home is located in the south of Sanyuan County, about 20 kilometers away from the urban area of Xi'an.",
+    "claude_5shot_en": "Our family lives in the south of Sanyuan County, about twenty kilometers away from Xi'an.",
+    "cs2w_en": "Our home is in the south of Sanyuan County, nearly 20 kilometers away from Xi'an.",
+    "baichuan_en": "My family lives in the south of Sanyuan County, about 20 kilometers away from Xi'an.",
+    "gpt5shot_en": "Our home is in the south of Sanyuan County, more than 20 kilometers away from Xi'an."
+  },
+  {
+    "id": 2946,
+    "file_id": 166,
+    "spoken_text": "身体也挺好，那真棒，没什么大病反正哈哈。",
+    "context": "我以前是幼儿园老师，照看了一辈子孩子，直到在那里退休。是的，我在那里工作了24年，50岁退休的。现在的退休金还算可以，每月有6000多元。退休金又涨了一些，现在每月有6000多元，足够我们老两口的花销了，毕竟年纪大了吃得不多。身体也挺好，那真棒，没什么大病反正哈哈。那您那老两口是靠什么这么健康呢，有什么方法没有？没有有嘛方法，平时吃喝注意对，软乎的随便买点吃吃不多。吃饺子吃6个就饱了，哈哈6个就饱了，哈哈那这还不够包饺子那功夫呢。就是买啊，买现成的了啊。您几个孩子呀？就我一个儿子。",
+    "written_text": "我的身体一直很健康，没有患过什么大病。",
+    "error_type": [
+      4
+    ],
+    "claude_0shot": {
+      "translation": "身体也挺好，状态很棒，没有什么大病。",
+      "error_type": [
+        2
+      ]
+    },
+    "claude_5shot": {
+      "translation": "身体也挺好，没什么大病，真是幸运。",
+      "error_type": [
+        4
+      ]
+    },
+    "cs2w": "身体也挺好，那真棒，没什么大病",
+    "baichuan": "我的身体状况很好，没有什么大病。",
+    "gpt5shot": "身体也很好，真是太好了，反正没有什么大病。",
+    "mistral": "我的身体状况很好，没有什么大病。",
+    "spoken_text_en": "The body is also very good, that's great, no serious illness anyway.",
+    "written_text_en": "I have always been in good health and have not suffered from any serious illness.",
+    "claude_5shot_en": "The body is also very good, no serious illness, really lucky.",
+    "cs2w_en": "Good health, too. That's great. No serious illness.",
+    "baichuan_en": "I am in good health and have no serious illness.",
+    "gpt5shot_en": "The body is also very good, is really too good, anyway does not have any serious illness.",
+    "mistral_en": "I am in good health and have no serious illness."
+  },
+  {
+    "id": 3019,
+    "file_id": 171,
+    "spoken_text": "身体没毛病吧？没有，打一辈大锤就有劲，就有劲，所以有不了毛病。",
+    "context": "他原来从事体力劳动，在金属结构厂当锻工，工厂位于大北窑，即现在的国贸中心所在地。工厂早就没有了，大北窑也不存在了，现在那里被国贸中心占据了。从退休到现在，我的退休工资不算高，今年才刚超过6000元，刚退休时更低。我的工资级别是7级工，离8级工只差一级。当时要是能评上8级工就好了，可惜没能成功，就差那么一点。身体没毛病吧？没有，打一辈大锤就有劲，就有劲，所以有不了毛病。您这属于是重体力的，特重体力对，腰没事吧？腰没事什么都没病，一点病都没有。就是因为你年轻时候锻炼身体了，20几岁时候也轮过大锤，8磅大锤。哎呀我们20多磅，100的，般的18磅，12磅，打大锤整天轮，一手奖子。退休金够花吗？够花的，没病，这就是幸福，退休金不在多少，一定要身体好，不吃药，自己走都没问题。",
+    "written_text": "我的身体没有毛病，因为打了一辈子大锤，所以身体一直很有劲，不会生病。",
+    "error_type": [
+      1,
+      2,
+      4
+    ],
+    "claude_0shot": {
+      "translation": "身体没有毛病。打一辈子大锤使身体有了力气，所以不会生病。",
+      "error_type": [
+        1,
+        4
+      ]
+    },
+    "claude_5shot": {
+      "translation": "身体没有毛病，因为打了一辈子大锤，身体很强壮，所以不容易生病。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "身体没毛病吧？没有，打一辈大锤就有劲，所以有不了毛病。",
+    "baichuan": "身体没有毛病吧？没有，打一辈子大锤都有力气，所以身体很健康。",
+    "gpt5shot": "我的身体没有问题，因为我一辈子都在挥大锤，所以身体一直很有力气，自然也就没有毛病。",
+    "mistral": "身体没有毛病吧？没有，打一辈大锤就有力气，所以没有生病。",
+    "spoken_text_en": "Is there anything wrong with your body? No, if you hit a sledgehammer for a generation, you will have strength, so there is no problem.",
+    "written_text_en": "There is nothing wrong with my body, because I have been hammering all my life, so my body has been very strong and will not get sick.",
+    "claude_5shot_en": "There is nothing wrong with the body, because the body is very strong after a lifetime of sledgehammer, so it is not easy to get sick.",
+    "cs2w_en": "Is there anything wrong with your body? No, the sledgehammer is powerful, so there is nothing wrong with it.",
+    "baichuan_en": "Is there anything wrong with your body? No, I have the strength to hit the sledgehammer all my life, so I am very healthy.",
+    "gpt5shot_en": "There is nothing wrong with my body, because I have been swinging a sledgehammer all my life, so my body has always been very strong, and naturally there is nothing wrong with it.",
+    "mistral_en": "Is there anything wrong with your body? No, I had the strength to hit the sledgehammer for a generation, so I didn't get sick."
+  },
+  {
+    "id": 2349,
+    "file_id": 147,
+    "spoken_text": "有时高干有的是**区的，局的副*长，我下面当兵啊，咱们**部的*长啊，人家大笑了，人家高干了，人家是知足。",
+    "context": "不要总是与比自己强的人比较，那样永远无法满足；与不如自己的人比较，就会感到知足，这样便好。其他方面我从不比较，因为在我手下当兵的人，职位比我高，工资也比我高。每个人都有自己的岗位和贡献，不必相互比较，自己觉得满意就好。我的退休金还可以，每月七八千元。不过，我以前的部下现在月薪都有一万多元。有时高干有的是**区的，局的副*长，我下面当兵啊，咱们**部的*长啊，人家大笑了，人家高干了，人家是知足。北京的回来以后啊，我是从部队的转业，我转业到地方了，没事了回来，我就想把我自个调到北京来了。原来不在北京是吧，不是的，邯郸的，您是哪人，我是江苏的，江苏扬州那，先早回来了，又转到河北省邯郸。邢台那有一个机场，那机场现在都废了，不用了，从那我们转业的，从那以后调到北京的。那我早就调回来，我60年就调回来，那么早啊76年，去了一年多孩子们都在北京了。",
+    "written_text": "有时一些高级干部是某个区或局的副局长，而在我手下当兵的，现在已经是咱们部的部长了。他们开怀大笑，因为晋升为高级干部，感到非常知足。",
+    "error_type": [
+      1,
+      2,
+      3
+    ],
+    "claude_0shot": {
+      "translation": "有些高干是地区或局的副职领导，而曾经在我手下当过兵的人现在有的是军部的领导。他们都很满足，因为他们已经成为高级干部了。",
+      "error_type": [
+        1234
+      ]
+    },
+    "claude_5shot": {
+      "translation": "有些高干是区里的干部或局里的副局长，而我手下当兵的人，有的成了部里的局长，他们已经是高级干部了，他们知足常乐。",
+      "error_type": [
+        2
+      ]
+    },
+    "cs2w": "有时高干有的是**区的，局的副*长，我下面当兵啊，咱们**部的*长啊，人家大笑了，高干了，人们是知足。",
+    "baichuan": "有时高级干部中有的是**区的局长，局副职，我手下的士兵是**部的部长，他们大笑起来，因为他们已经算是高级干部了，而且很知足。",
+    "gpt5shot": "有时有些高级干部是某个地区的，或者是局里的副局长，而我手下的士兵中，有些是我们部门的部长，他们都很满足。",
+    "mistral": "有时候我们的部下有的是区级干部，还有局级副局长。我当时是在下面当兵，而我们部的长则是高干，这让大家都大笑了，但他们都是知足的。",
+    "spoken_text_en": "Sometimes some of the senior cadres are from the * * district, the deputy head of the Bureau, the soldiers under me, and the head of our * * department. They laugh, they are senior cadres, and they are contented.",
+    "written_text_en": "Sometimes some senior cadres are deputy directors of a district or Bureau, and the soldiers under me are now ministers of our department. They laughed heartily and felt very satisfied because they were promoted to senior cadres.",
+    "claude_5shot_en": "Some senior cadres are district cadres or deputy directors of bureaus, while some of my soldiers have become directors of ministries. They are already senior cadres, and they are happy with what they have.",
+    "cs2w_en": "Sometimes some of the senior cadres are the deputy heads of the * * districts and bureaus, the soldiers under me, and the heads of our * * departments. People laugh, senior cadres, and people are contented.",
+    "baichuan_en": "Sometimes some of the senior cadres are Bureau chiefs or deputy Bureau chiefs, and the soldiers under me are the heads of the Communist Party departments. They laugh because they are already senior cadres and they are very contented.",
+    "gpt5shot_en": "Sometimes some senior cadres are deputy directors of a certain district or Bureau, while some of my soldiers are ministers of our departments, and they are very satisfied.",
+    "mistral_en": "Sometimes some of our subordinates are cadres at the district level, as well as deputy directors at the Bureau level. At that time, I was a soldier at the lower level, and the head of our department was a senior cadre, which made everyone laugh, but they were all contented."
+  }
+]
